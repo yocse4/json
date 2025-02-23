@@ -55,7 +55,8 @@
     {
         "id": 10,
         "title": "This is a survey about skin care products",
-        "description": "Please, help us with 5 minutes of your time"
+        "description": "Please, help us with 5 minutes of your time",
+        "pts": 13
     },
     {
         "id": 11,
