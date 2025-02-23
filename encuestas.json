@@ -3,6 +3,7 @@
         "id": 0,
         "title": "Shopping questions",
         "description": "Some questions for you. Please answer honestly there are no right or wrong answers."
+        "pts": 10
     },
     {
         "id": 1,
