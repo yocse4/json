@@ -1,8 +1,9 @@
 [
     {
         "id": 2,
-        "title": "All about your grocery shopping habits!",
-        "description": "Let’s talk about the snacks you’ve been buying lately! Please remember to answer the following questions honestly to accrue full points."
+        "pts": 100,
+        "title": "Lets talk about your favorite clothing!",
+        "description": "We have some questions about your go-to clothing and your favorite activities."
     },
     {
         "id": 3,
