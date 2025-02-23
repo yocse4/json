@@ -1,13 +1,8 @@
 [
     {
         "id": 2,
-        "title": "All About You!",
-        "description": "We'd like to know more about you and your organization"
-    },
-    {
-        "id": 001,
-        "title": "Eating and Playing",
-        "description": "We have some questions for you about the EATERTAINMENT VENUES you've visited during the past 12 months."
+        "title": "Learning More About You",
+        "description": "Before you begin, please note that "infant or toddler" refers to children under 3 years old. "Infant or toddler products" include reusable items like feeding products, healthcare, travel gear, and toys but exclude disposables like diapers and wipes."
     },
     {
         "id": 98,
