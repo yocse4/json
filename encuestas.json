@@ -1,37 +1,67 @@
 [
     {
-        "id": 2,
-        "title": "Shopping questions",
-        "description": "Some questions for you. Please answer honestly there are no right or wrong answers."
-    },
-    {
-        "id": 10,
-        "title": "Baby Registry Usage",
-        "description": "A question about if you have used a retailer baby registry before."
-    },
-    {
         "id": 0,
         "title": "Shopping questions",
         "description": "Some questions for you. Please answer honestly there are no right or wrong answers."
     },
     {
+        "id": 1,
+        "title": "Baby Registry Usage",
+        "description": "A question about if you have used a retailer baby registry before."
+    },
+    {
+        "id": 2,
+        "title": "Help us get to know you!",
+        "description": "Take this super short survey to help us get to know you better. Thanks in advance for participating!"
+    },
+    {
         "id": 3,
-        "title": "Lets talk about your favorite clothing!",
-        "description": "We have some questions about your go-to clothing and your favorite activities."
+        "title": "The Places You Shop",
+        "description": "We have some questions for you about the places you've shopped over the past 6 months."
     },
     {
-        "id": 98,
-        "title": "Let’s talk about grocery shopping!",
-        "description": "We have a few questions for you to answer."
+        "id": 4,
+        "title": "Eating and Playing",
+        "description": "We have some questions for you about the EATERTAINMENT VENUES you've visited during the past 12 months."
     },
     {
-        "id": 99,
-        "title": "A few questions about your recent product purchases",
-        "description": "Please answer a few questions about your recent product purchases"
+        "id": 5,
+        "title": "Exercising at Gyms & Fitness Clubs",
+        "description": "We have a couple questions for you about exercising at gyms and fitness clubs."
     },
     {
-        "id": 110,
-        "title": "A few quick questions!",
-        "description": "Just a few quick questions for you today… jump right in!"
+        "id": 6,
+        "title": "Let's talk tech!",
+        "description": "We have a few questions about you and your technology."
+    },
+    {
+        "id": 7,
+        "title": "All About Your Tech!",
+        "description": "We have some questions about you and your tech!"
+    },
+    {
+        "id": 8,
+        "title": "We have some questions about what you're drinking!",
+        "description": "Welcome and thank you for your participation! In this survey, we’d like to get your thoughts on what you’re drinking. Remember, there are no “right” or “wrong” answers - we are interested only in your opinion."
+    },
+    {
+        "id": 9,
+        "title": "All about you!",
+        "description": "Today we’re going to learn something about you!"
+    },
+    {
+        "id": 10,
+        "title": "This is a survey about skin care products",
+        "description": "Please, help us with 5 minutes of your time"
+    },
+    {
+        "id": 11,
+        "title": "This is a survey about skin care products",
+        "description": "Please, help us with 5 minutes of your time"
+    },
+    {
+        "id": 12,
+        "title": "Tell us about you!",
+        "description": "We'd like to know a bit about some of the products you may use."
     }
 ]
