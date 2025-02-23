@@ -1,0 +1,27 @@
+[
+    {
+        "id": 2,
+        "title": "Let's learn more about you!",
+        "description": "Please tell us about your shopping habits!"
+    },
+    {
+        "id": 001,
+        "title": "Eating and Playing",
+        "description": "We have some questions for you about the EATERTAINMENT VENUES you've visited during the past 12 months."
+    },
+    {
+        "id": 98,
+        "title": "This survey is about Men & Women Hair and Scalp Care Products",
+        "description": "Please help us to answer a quick survey about your haircare & scalp products"
+    },
+    {
+        "id": 99,
+        "title": "A few questions about your recent product purchases",
+        "description": "Please answer a few questions about your recent product purchases"
+    },
+    {
+        "id": 110,
+        "title": "A few quick questions!",
+        "description": "Just a few quick questions for you today… jump right in!"
+    }
+]
