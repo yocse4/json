@@ -2,12 +2,13 @@
     {
         "id": 0,
         "title": "Shopping questions",
-        "pts": 10,
+        "pts": 54,
         "description": "Some questions for you. Please answer honestly there are no right or wrong answers."
     },
     {
         "id": 1,
         "title": "Baby Registry Usage",
+        "pts": 54,
         "description": "A question about if you have used a retailer baby registry before."
     },
     {
