@@ -6,6 +6,78 @@
         "description": "Some questions for you. Please answer honestly there are no right or wrong answers."
     },
     {
+        "id": 13,
+        "title": "Questions about you and the beverages you enjoy",
+        "description": "We have a few questions about you and the beverages you drink",
+        "pts": 13
+    },
+    {
+        "id": 14,
+        "title": "Let's talk about grocery shopping!",
+        "description": "We'd like to learn more about the grocery products you buy. There are no right or wrong answers so please answer truthfully as future questions will be based on how you answer. Thank you for participating!",
+        "pts": 13
+    },
+    {
+        "id": 15,
+        "title": "About You!",
+        "description": "We have a few questions for you about your household purchases.",
+        "pts": 13
+    },
+    {
+        "id": 16,
+        "title": "All about your grocery shopping habits!",
+        "description": "Let’s talk about the snacks you’ve been buying lately! Please remember to answer the following questions honestly to accrue full points.",
+        "pts": 13
+    },
+    {
+        "id": 17,
+        "title": "A few questions about you!",
+        "description": "We have some questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!",
+        "pts": 13
+    },
+    {
+        "id": 18,
+        "title": "All About You!",
+        "description": "We'd like to know more about you and your organization.",
+        "pts": 13
+    },
+    {
+        "id": 19,
+        "title": "We have a few questions about your buying habits.",
+        "description": "We have a few questions about your buying habits.",
+        "pts": 13
+    },
+    {
+        "id": 20,
+        "title": "Learning More About You",
+        "description": "Before you begin, please note that \"infant or toddler\" refers to children under 3 years old. \"Infant or toddler products\" include reusable items like feeding products, healthcare, travel gear, and toys but exclude disposables like diapers and wipes.",
+        "pts": 13
+    },
+    {
+        "id": 21,
+        "title": "Some questions about you!",
+        "description": "We have some questions about the clothing items you purchase. There are no right or wrong answers so please answer honestly. Thank you for your time!",
+        "pts": 13
+    },
+    {
+        "id": 22,
+        "title": "Let's Talk Electronics in your life!",
+        "description": "Just a few questions.",
+        "pts": 13
+    },
+    {
+        "id": 23,
+        "title": "Are you a Content Creator? Tell us more",
+        "description": "Please answer several questions about content creation experience. Approximate time to complete is up to 10 mins.",
+        "pts": 13
+    },
+    {
+        "id": 24,
+        "title": "All about your grocery shopping habits!",
+        "description": "Let’s talk about the snacks you’ve been buying lately! Please remember to answer the following questions honestly to accrue full points.",
+        "pts": 13
+    },
+    {
         "id": 1,
         "title": "Baby Registry Usage",
         "description": "A question about if you have used a retailer baby registry before.",
