@@ -5,6 +5,11 @@
         "description": "Some questions for you. Please answer honestly there are no right or wrong answers."
     },
     {
+        "id": 0,
+        "title": "Shopping questions",
+        "description": "Some questions for you. Please answer honestly there are no right or wrong answers."
+    },
+    {
         "id": 3,
         "title": "Lets talk about your favorite clothing!",
         "description": "We have some questions about your go-to clothing and your favorite activities."
