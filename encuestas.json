@@ -20,37 +20,44 @@
     {
         "id": 3,
         "title": "The Places You Shop",
-        "description": "We have some questions for you about the places you've shopped over the past 6 months."
+        "description": "We have some questions for you about the places you've shopped over the past 6 months.",
+        "pts": 13
     },
     {
         "id": 4,
         "title": "Eating and Playing",
-        "description": "We have some questions for you about the EATERTAINMENT VENUES you've visited during the past 12 months."
+        "description": "We have some questions for you about the EATERTAINMENT VENUES you've visited during the past 12 months.",
+        "pts": 13
     },
     {
         "id": 5,
         "title": "Exercising at Gyms & Fitness Clubs",
-        "description": "We have a couple questions for you about exercising at gyms and fitness clubs."
+        "description": "We have a couple questions for you about exercising at gyms and fitness clubs.",
+        "pts": 13
     },
     {
         "id": 6,
         "title": "Let's talk tech!",
-        "description": "We have a few questions about you and your technology."
+        "description": "We have a few questions about you and your technology.",
+        "pts": 13
     },
     {
         "id": 7,
         "title": "All About Your Tech!",
-        "description": "We have some questions about you and your tech!"
+        "description": "We have some questions about you and your tech!",
+        "pts": 13
     },
     {
         "id": 8,
         "title": "We have some questions about what you're drinking!",
-        "description": "Welcome and thank you for your participation! In this survey, we’d like to get your thoughts on what you’re drinking. Remember, there are no “right” or “wrong” answers - we are interested only in your opinion."
+        "description": "Welcome and thank you for your participation! In this survey, we’d like to get your thoughts on what you’re drinking. Remember, there are no “right” or “wrong” answers - we are interested only in your opinion.",
+        "pts": 13
     },
     {
         "id": 9,
         "title": "All about you!",
-        "description": "Today we’re going to learn something about you!"
+        "description": "Today we’re going to learn something about you!",
+        "pts": 13
     },
     {
         "id": 10,
@@ -61,11 +68,13 @@
     {
         "id": 11,
         "title": "This is a survey about skin care products",
-        "description": "Please, help us with 5 minutes of your time"
+        "description": "Please, help us with 5 minutes of your time",
+        "pts": 13
     },
     {
         "id": 12,
         "title": "Tell us about you!",
-        "description": "We'd like to know a bit about some of the products you may use."
+        "description": "We'd like to know a bit about some of the products you may use.",
+        "pts": 13
     }
 ]
