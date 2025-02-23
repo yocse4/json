@@ -9,12 +9,13 @@
         "id": 1,
         "title": "Baby Registry Usage",
         "description": "A question about if you have used a retailer baby registry before.",
-        "pts": 54
+        "pts": 13
     },
     {
         "id": 2,
         "title": "Help us get to know you!",
-        "description": "Take this super short survey to help us get to know you better. Thanks in advance for participating!"
+        "description": "Take this super short survey to help us get to know you better. Thanks in advance for participating!",
+        "pts": 13
     },
     {
         "id": 3,
