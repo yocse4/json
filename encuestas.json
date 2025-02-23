@@ -8,8 +8,8 @@
     {
         "id": 1,
         "title": "Baby Registry Usage",
-        "pts": 54,
-        "description": "A question about if you have used a retailer baby registry before."
+        "description": "A question about if you have used a retailer baby registry before.",
+        "pts": 54
     },
     {
         "id": 2,
