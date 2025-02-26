@@ -142,5 +142,65 @@
     "title": "Tell us about you!",
     "pts": 54,
     "description": "We have a couple of questions for you about your health and wellness habits, thanks for your participation!"
+  },
+  {
+    "id": 24,
+    "title": "Some questions about you!",
+    "pts": 54,
+    "description": "We have some questions about the clothing items you purchase. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+  },
+  {
+    "id": 25,
+    "title": "Let's Talk Electronics in your life!",
+    "pts": 54,
+    "description": "Just a few questions."
+  },
+  {
+    "id": 26,
+    "title": "Hi, we value your feedback!",
+    "pts": 54,
+    "description": "We would greatly appreciate your opinion on a few potential product names."
+  },
+  {
+    "id": 27,
+    "title": "Financial wellness study",
+    "pts": 54,
+    "description": "We'd like to learn more about your financial needs and preferences."
+  },
+  {
+    "id": 28,
+    "title": "Your Views!",
+    "pts": 54,
+    "description": "We\u2019d like to learn more about you. Remember, there are no right or wrong answers. Thanks for your participation!"
+  },
+  {
+    "id": 29,
+    "title": "Just a few quick questions for you!",
+    "pts": 54,
+    "description": "We have just a few general health questions for you. There are no right or wrong answers, so please be honest!"
+  },
+  {
+    "id": 30,
+    "title": "Let's talk about you!",
+    "pts": 54,
+    "description": "Please answer the following question(s) honestly. There are no right or wrong answers."
+  },
+  {
+    "id": 31,
+    "title": "Some questions about you!",
+    "pts": 54,
+    "description": "We have some questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+  },
+  {
+    "id": 32,
+    "title": "New Electric Toothbrush Colors!",
+    "pts": 54,
+    "description": "We'd like your opinions on new colors for electric toothbrushes."
+  },
+  {
+    "id": 33,
+    "title": "Are you a Content Creator? Tell us more",
+    "pts": 54,
+    "description": "Please answer several questions about content creation experience. Approximate time to complete is up to 10 mins"
   }
 ]
