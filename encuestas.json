@@ -70,5 +70,71 @@
     "title": "Let's talk tech!",
     "pts": 54,
     "description": "We have a few questions about you and your technology."
+  },
+  {
+    "id": 12,
+    "title": "All About Your Tech!",
+    "pts": 54,
+    "description": "We have some questions about you and your tech!"
+  },
+  {
+    "id": 13,
+    "title": "We have some questions about what you're drinking!",
+    "pts": 54,
+    "description": "Welcome and thank you for your participation! In this survey, we\u2019d like to get your thoughts on what you\u2019re drinking. Remember, there are no \u201cright\u201d or \u201cwrong\u201d answers - we are interested only in your opinion."
+  },
+  {
+    "id": 14,
+    "title": "All about you!",
+    "pts": 54,
+    "description": "Today we\u2019re going to learn something about you!"
+  },
+  {
+    "id": 15,
+    "title": "Let\u2019s talk shopping!",
+    "pts": 54,
+    "description": "We\u2019d like to hear from you about what\u2019s important to you when shopping!"
+  },
+  {
+    "id": 16,
+    "title": "Calling all Grocery Shoppers!",
+    "pts": 54,
+    "description": "We want to know about where you shop and what you buy."
+  },
+  {
+    "id": 17,
+    "title": "Let's talk about grocery shopping!",
+    "pts": 54,
+    "description": "We'd like to learn more about the grocery products you buy. There are no right or wrong answers so please answer truthfully as future questions will be based on how you answer. Thank you for participating!"
+  },
+  {
+    "id": 18,
+    "title": "Getting to know you!",
+    "pts": 54,
+    "description": "We have a couple of questions for you, thanks for your participation!"
+  },
+  {
+    "id": 19,
+    "title": "All about your grocery shopping habits!",
+    "pts": 54,
+    "description": "Let\u2019s talk about the snacks you\u2019ve been buying lately! Please remember to answer the following questions honestly to accrue full points."
+  },
+  {
+    "id": 20,
+    "title": "A few questions about you!",
+    "pts": 54,
+    "description": "We have some questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+  },
+  {
+    "id": 21,
+    "title": "All About You!",
+    "pts": 54,
+    "description": "We'd like to know more about you and your organization"
+  },
+  {
+    "id": 22,
+    "title": "Learning More About You",
+    "pts": 54,
+    "description": "Before you begin, please note that \\"
   }
 ]
