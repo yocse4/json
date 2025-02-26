@@ -4,5 +4,71 @@
     "title": "Questions for You",
     "pts": 54,
     "description": "We want to hear from you about your household consumer product shopping."
+  },
+  {
+    "id": 1,
+    "title": "We need your opinion!",
+    "pts": 54,
+    "description": "In this survey we will ask you some questions in general, there are no right or wrong answers. We are only interested in your opinion."
+  },
+  {
+    "id": 2,
+    "title": "Health and Fitness digital service and consumer product",
+    "pts": 54,
+    "description": "Today we\u2019re going to be talking about technology and your thoughts on health and fitness."
+  },
+  {
+    "id": 3,
+    "title": "Tell us about you!",
+    "pts": 54,
+    "description": "We'd like to know a bit about some of the products you may use."
+  },
+  {
+    "id": 4,
+    "title": "Shopping questions",
+    "pts": 54,
+    "description": "Some questions for you. Please answer honestly there are no right or wrong answers."
+  },
+  {
+    "id": 5,
+    "title": "Baby Registry Usage",
+    "pts": 54,
+    "description": "A question about if you have used a retailer baby registry before."
+  },
+  {
+    "id": 6,
+    "title": "All about you.",
+    "pts": 54,
+    "description": "We\u2019d love to hear a bit more about you!"
+  },
+  {
+    "id": 7,
+    "title": "Help us get to know you!",
+    "pts": 54,
+    "description": "Take this super short survey to help us get to know you better. Thanks in advance for participating!"
+  },
+  {
+    "id": 8,
+    "title": "This is a survey about skin care products",
+    "pts": 54,
+    "description": "Please, help us with 5 minutes of your time"
+  },
+  {
+    "id": 9,
+    "title": "Eating and Playing",
+    "pts": 54,
+    "description": "We have some questions for you about the EATERTAINMENT VENUES you've visited during the past 12 months."
+  },
+  {
+    "id": 10,
+    "title": "Exercising at Gyms & Fitness Clubs",
+    "pts": 54,
+    "description": "We have a couple questions for you about exercising at gyms and fitness clubs."
+  },
+  {
+    "id": 11,
+    "title": "Let's talk tech!",
+    "pts": 54,
+    "description": "We have a few questions about you and your technology."
   }
 ]
