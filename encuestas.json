@@ -256,5 +256,71 @@
     "title": "We\u2019d love to learn about you!",
     "pts": 54,
     "description": "Tell us about you and the pets that live in your home."
+  },
+  {
+    "id": 43,
+    "title": "Taco Sauce Purchase Interest",
+    "pts": 54,
+    "description": "We're interested in learning what Taco Sauces you're interested in purchasing at Dollar General."
+  },
+  {
+    "id": 44,
+    "title": "We want to hear from you!",
+    "pts": 54,
+    "description": "Please answer a few questions about your habits."
+  },
+  {
+    "id": 45,
+    "title": "Some questions about you!",
+    "pts": 54,
+    "description": "We have a few questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+  },
+  {
+    "id": 46,
+    "title": "All about your grocery shopping habits!",
+    "pts": 54,
+    "description": "Let\u2019s talk about the snacks you\u2019ve been buying lately! Please remember to answer the following questions honestly to accrue full points."
+  },
+  {
+    "id": 47,
+    "title": "Some questions about you!",
+    "pts": 54,
+    "description": "We have some questions about the food items you purchase. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+  },
+  {
+    "id": 48,
+    "title": "A few questions about you!",
+    "pts": 54,
+    "description": "We have a few questions about you and your skin care preferences. This is a short survey and there are no right or wrong answers."
+  },
+  {
+    "id": 49,
+    "title": "A few questions about you!",
+    "pts": 54,
+    "description": "We have a few questions about how you use technology!"
+  },
+  {
+    "id": 50,
+    "title": "A little about you",
+    "pts": 54,
+    "description": "\\\\We have a few questions for you about the products you purchase."
+  },
+  {
+    "id": 51,
+    "title": "All About You!",
+    "pts": 54,
+    "description": "Please answer the following question(s) honestly. There are no right or wrong answers."
+  },
+  {
+    "id": 52,
+    "title": "Let's talk about you!",
+    "pts": 54,
+    "description": "Please answer the following questions to the best of your ability"
+  },
+  {
+    "id": 53,
+    "title": "We're curious about your fast-casual dining experiences",
+    "pts": 54,
+    "description": "Tell us a little about your recent dining experiences!"
   }
 ]
