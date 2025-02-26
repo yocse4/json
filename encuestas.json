@@ -74,26 +74,26 @@
   {
     "id": 12,
     "title": "All About Your Tech!",
-    "pts": 54,
+    "pts": 19,
     "description": "We have some questions about you and your tech!"
   },
   {
     "id": 13,
     "title": "We have some questions about what you're drinking!",
-    "pts": 54,
+    "pts": 22,
     "description": "Welcome and thank you for your participation! In this survey, we\u2019d like to get your thoughts on what you\u2019re drinking. Remember, there are no \u201cright\u201d or \u201cwrong\u201d answers - we are interested only in your opinion."
   },
   {
     "id": 14,
     "title": "All about you!",
-    "pts": 54,
+    "pts": 12,
     "description": "Today we\u2019re going to learn something about you!"
   },
   {
     "id": 15,
-    "title": "Let\u2019s talk shopping!",
+    "title": "Let’s talk shopping!",
     "pts": 54,
-    "description": "We\u2019d like to hear from you about what\u2019s important to you when shopping!"
+    "description": "We’d like to hear from you about what’s important to you when shopping!"
   },
   {
     "id": 16,
