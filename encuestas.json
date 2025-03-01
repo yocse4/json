@@ -70,5 +70,71 @@
     "title": "Outdoor Fun!",
     "pts": 54,
     "description": "A few quick questions about outdoor activities you like to engage in"
+  },
+  {
+    "id": 12,
+    "title": "All about you.",
+    "pts": 54,
+    "description": "We\u2019d love to hear a bit more about you!"
+  },
+  {
+    "id": 13,
+    "title": "This is a survey about skin care products",
+    "pts": 54,
+    "description": "Please, help us with 5 minutes of your time"
+  },
+  {
+    "id": 14,
+    "title": "All About Your Tech!",
+    "pts": 54,
+    "description": "We have some questions about you and your tech!"
+  },
+  {
+    "id": 15,
+    "title": "We have some questions about what you're drinking!",
+    "pts": 54,
+    "description": "Welcome and thank you for your participation! In this survey, we\u2019d like to get your thoughts on what you\u2019re drinking. Remember, there are no \u201cright\u201d or \u201cwrong\u201d answers - we are interested only in your opinion."
+  },
+  {
+    "id": 16,
+    "title": "All about you!",
+    "pts": 54,
+    "description": "Today we\u2019re going to learn something about you!"
+  },
+  {
+    "id": 17,
+    "title": "Let's talk about YOU!",
+    "pts": 54,
+    "description": "We would like to learn more about you and your current purchasing habits."
+  },
+  {
+    "id": 18,
+    "title": "Let\u2019s talk about beauty and personal care.",
+    "pts": 54,
+    "description": "We\u2019d like to learn more about your opinions! Please remember there are no right or wrong answers and thank you for your participation."
+  },
+  {
+    "id": 19,
+    "title": "Calling all Grocery Shoppers!",
+    "pts": 54,
+    "description": "We want to know about where you shop and what you buy."
+  },
+  {
+    "id": 20,
+    "title": "Getting to know you!",
+    "pts": 54,
+    "description": "We have a couple of questions for you, thanks for your participation!"
+  },
+  {
+    "id": 21,
+    "title": "Beverage Consumption",
+    "pts": 54,
+    "description": "We have a few questions about the types of beverages & brands you typically drink."
+  },
+  {
+    "id": 22,
+    "title": "All about entertainment",
+    "pts": 54,
+    "description": "We have a few questions all about entertainment"
   }
 ]
