@@ -269,6 +269,14 @@
     "pts": 54,
     "description": "We have a few questions for you to answer."
   },
+      {
+        "text": "We want to hear from you!",
+        "id": "ID123",
+        "requiredTexts": [
+            "We want to hear from you!",
+            "Please answer a few questions about your habits."
+        ]
+    },
   {
     "id": 45,
     "title": "Let's talk about you!",
