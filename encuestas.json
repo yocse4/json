@@ -276,6 +276,10 @@
     "description": "We have some questions for you about yourself. Thanks in advance for your participation!"
   },
   {
+        "text": "We have some questions for you about the pets you own and the type of food/treats you're feeding them! Please answer all questions fully and accurately in order to accrue full points.",
+        "id": "Daini 46"
+  },
+  {
     "id": 46,
     "title": "Pet Ownership!",
     "pts": 54,
