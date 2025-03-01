@@ -202,5 +202,77 @@
     "title": "Let's Talk Electronics in your life!",
     "pts": 54,
     "description": "Just a few questions."
+  },
+  {
+    "id": 34,
+    "title": "Food Shopping!",
+    "pts": 54,
+    "description": "We'd like to ask you a few questions about food."
+  },
+  {
+    "id": 35,
+    "title": "Hi, we value your feedback!",
+    "pts": 54,
+    "description": "We would greatly appreciate your opinion on a few potential product names."
+  },
+  {
+    "id": 36,
+    "title": "Financial wellness study",
+    "pts": 54,
+    "description": "We'd like to learn more about your financial needs and preferences."
+  },
+  {
+    "id": 37,
+    "title": "Your Views!",
+    "pts": 54,
+    "description": "We\u2019d like to learn more about you. Remember, there are no right or wrong answers. Thanks for your participation!"
+  },
+  {
+    "id": 38,
+    "title": "Just a few quick questions for you!",
+    "pts": 54,
+    "description": "We have just a few general health questions for you. There are no right or wrong answers, so please be honest!"
+  },
+  {
+    "id": 39,
+    "title": "Some questions about you!",
+    "pts": 54,
+    "description": "We have some questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+  },
+  {
+    "id": 40,
+    "title": "Let's talking shopping!",
+    "pts": 54,
+    "description": "Hi there! We'd like to learn more about your recent shopping purchases & habits! Your input will be invaluable as we work on optimizing products you shop for so please be honest in your responses. We really appreciate your participation!"
+  },
+  {
+    "id": 41,
+    "title": "Are you a Content Creator? Tell us more",
+    "pts": 54,
+    "description": "Please answer several questions about content creation experience. Approximate time to complete is up to 10 mins"
+  },
+  {
+    "id": 42,
+    "title": "All about your grocery shopping habits!",
+    "pts": 54,
+    "description": "Let\u2019s talk about the snacks you\u2019ve been buying lately! Please remember to answer the following questions honestly to accrue full points."
+  },
+  {
+    "id": 43,
+    "title": "Lets talk about your favorite clothing!",
+    "pts": 54,
+    "description": "We have some questions about your go-to clothing and your favorite activities."
+  },
+  {
+    "id": 44,
+    "title": "Let\u2019s talk about grocery shopping!",
+    "pts": 54,
+    "description": "We have a few questions for you to answer."
+  },
+  {
+    "id": 45,
+    "title": "Let's talk about you!",
+    "pts": 54,
+    "description": "We have some questions for you about yourself. Thanks in advance for your participation!"
   }
 ]
