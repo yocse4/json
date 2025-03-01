@@ -274,5 +274,41 @@
     "title": "Let's talk about you!",
     "pts": 54,
     "description": "We have some questions for you about yourself. Thanks in advance for your participation!"
+  },
+  {
+    "id": 46,
+    "title": "Pet Ownership!",
+    "pts": 54,
+    "description": "We have some questions for you about the pets you own and the type of food/treats you're feeding them! Please answer all questions fully and accurately in order to accrue full points."
+  },
+  {
+    "id": 47,
+    "title": "A few questions about you!",
+    "pts": 54,
+    "description": "We have a few questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+  },
+  {
+    "id": 48,
+    "title": "We\u2019d love to learn about you!",
+    "pts": 54,
+    "description": "Tell us about you and the pets that live in your home."
+  },
+  {
+    "id": 49,
+    "title": "A few questions about you!",
+    "pts": 54,
+    "description": "We have some questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+  },
+  {
+    "id": 50,
+    "title": "We want to hear from you!",
+    "pts": 54,
+    "description": "Please answer a few questions about your habits."
+  },
+  {
+    "id": 51,
+    "title": "Some questions about you!",
+    "pts": 54,
+    "description": "We have a few questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
   }
 ]
