@@ -277,24 +277,24 @@ c283,"All about you!  We want to hear from you! 2","crowdtap.com/","",,,
 c284,"A few questions about you!  We have a few questions about how you use technology!","crowdtap.com/","",,,
 c285,"A few quick questions!  Hop in this SUPER short survey to share more about you.","crowdtap.com/","",,,
 c286,"All About You  We want to know more about your shopping habits!","crowdtap.com/","",,,
-c287,"Daini 0","crowdtap.com/dashboard","",,,
-c288,"Daini 2","crowdtap.com/dashboard","",,,
-c289,"Daini 5","crowdtap.com/dashboard","",,,
-c290,"Daini 7","crowdtap.com/dashboard","",,,
-c291,"Daini 8","crowdtap.com/dashboard","",,,
-c292,"Daini 9","crowdtap.com/dashboard","",,,
-c293,"Daini 10","crowdtap.com/dashboard","",,,
-c294,"Daini 11","crowdtap.com/dashboard","",,,
-c295,"Daini 12","crowdtap.com/dashboard","",,,
-c298,"Daini 21","crowdtap.com/dashboard","",,,
-c299,"Daini 22","crowdtap.com/dashboard","",,,
-c300,"Let’s talk shopping!","crowdtap.com/dashboard","",,,
-c301,"Relationship Status","crowdtap.com/dashboard","",,,
-c302,"Asking About Your Favorite Stores and Brands!","crowdtap.com/dashboard","",,,
-c303,"Daini 32","crowdtap.com/dashboard","",,,
-c304,"Daini 34","crowdtap.com/dashboard","",,,
-c305,"Just a few quick questions for you!  We have just a few general health questions for you.","crowdtap.com/dashboard","",,,
-c306,"Daini 39","crowdtap.com/dashboard","",,,
+c287,"Daini 0","crowdtap.com/","",,,
+c288,"Daini 2","crowdtap.com/","",,,
+c289,"Daini 5","crowdtap.com/","",,,
+c290,"Daini 7","crowdtap.com/","",,,
+c291,"Daini 8","crowdtap.com/","",,,
+c292,"Daini 9","crowdtap.com/","",,,
+c293,"Daini 10","crowdtap.com/","",,,
+c294,"Daini 11","crowdtap.com/","",,,
+c295,"Daini 12","crowdtap.com/","",,,
+c298,"Daini 21","crowdtap.com/","",,,
+c299,"Daini 22","crowdtap.com/","",,,
+c300,"Let’s talk shopping!","crowdtap.com/","",,,
+c301,"Relationship Status","crowdtap.com/","",,,
+c302,"Asking About Your Favorite Stores and Brands!","crowdtap.com/","",,,
+c303,"Daini 32","crowdtap.com/","",,,
+c304,"Daini 34","crowdtap.com/","",,,
+c305,"Just a few quick questions for you!  We have just a few general health questions for you.","crowdtap.com/","",,,
+c306,"Daini 39","crowdtap.com/","",,,
 c307,"Daini 40","","",,,
 ### AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
@@ -6009,7 +6009,6 @@ r6091,3,"^b18e7803-997c-40a8-b7cd-7801b050b57b$","1","",1,c177
 r6092,3,"^bb1b3f51-397b-4145-919f-4eb8adbcb71b$","1","",1,c177
 r6093,3,"^7e531093-0c34-4ffd-9f49-a236e41c7fd9$","1","",1,c177
 r6094,3,"^e8374ef9-ea17-44f3-bb4e-9505b4fb7357$","1","",1,c177
-r6095,0,"^response$","Elevate your work with the best laptop","",1,c177
 r6096,3,"^5d203b9f-8336-4e7a-bd07-d71d957ee0c0$","1","",1,c178
 r6097,3,"^Private Health Insurance$","1","",1,c178
 r6098,3,"^Myself$","1","",1,c178
@@ -9865,24 +9864,24 @@ r10134,3,"^549b13d0-91b4-42c1-8962-6f1cbbccc109$","1","",1,c287
 r10135,3,"^4e2cb4e6-7926-4aeb-912f-2871d471692e$","1","",1,c287
 r10136,3,"^76049bed-4c80-4d14-8d29-486a37910217$","1","",1,c287
 r10137,3,"^I AGREE$","1","",1,c287
-r10138,3,"^Apple smartphone \(iPhone\)$","1","crowdtap.com/dashboard",1,c129
-r10139,3,"^Google Pixel smartphone$","1","crowdtap.com/dashboard",1,c129
-r10140,3,"^Samsung smartphone$","1","crowdtap.com/dashboard",1,c129
-r10141,3,"^Fitness tracker \(e.g., wrist band, clip-on, ring\)$","1","crowdtap.com/dashboard",1,c129
-r10142,3,"^Non-LTE Connected Smartwatch \(relies on Bluetooth connection to your phone for internet access\)$","1","crowdtap.com/dashboard",1,c129
-r10143,3,"^LTE Connected Smartwatch \(with Internet connection, typically with monthly data plan you pay for\)$","1","crowdtap.com/dashboard",1,c129
-r10144,3,"^Home gym equipment \(e.g., basic treadmill, stationary bike, weights\)$","1","crowdtap.com/dashboard",1,c129
-r10145,3,"^Blood pressure or glucose monitor \(non-connected\)$","1","crowdtap.com/dashboard",1,c129
-r10146,3,"^Increase my strength$","1","crowdtap.com/dashboard",1,c129
-r10147,3,"^Improve sleep time and quality$","1","crowdtap.com/dashboard",1,c129
-r10148,3,"^Improve my eating habits$","1","crowdtap.com/dashboard",1,c129
-r10149,3,"^Increase physical activity$","1","crowdtap.com/dashboard",1,c129
-r10150,3,"^Monitor/improve my heart health$","1","crowdtap.com/dashboard",1,c129
-r10151,3,"^Lose weight$","1","crowdtap.com/dashboard",1,c129
-r10152,3,"^Promote relaxation or reduce stress$","1","crowdtap.com/dashboard",1,c129
-r10153,3,"^Increase energy level$","1","crowdtap.com/dashboard",1,c129
-r10154,3,"^Monitor or evaluate my overall health$","1","crowdtap.com/dashboard",1,c129
-r10155,3,"^I agree$","1","crowdtap.com/dashboard",1,c129
+r10138,3,"^Apple smartphone \(iPhone\)$","1","crowdtap.com/",1,c129
+r10139,3,"^Google Pixel smartphone$","1","crowdtap.com/",1,c129
+r10140,3,"^Samsung smartphone$","1","crowdtap.com/",1,c129
+r10141,3,"^Fitness tracker \(e.g., wrist band, clip-on, ring\)$","1","crowdtap.com/",1,c129
+r10142,3,"^Non-LTE Connected Smartwatch \(relies on Bluetooth connection to your phone for internet access\)$","1","crowdtap.com/",1,c129
+r10143,3,"^LTE Connected Smartwatch \(with Internet connection, typically with monthly data plan you pay for\)$","1","crowdtap.com/",1,c129
+r10144,3,"^Home gym equipment \(e.g., basic treadmill, stationary bike, weights\)$","1","crowdtap.com/",1,c129
+r10145,3,"^Blood pressure or glucose monitor \(non-connected\)$","1","crowdtap.com/",1,c129
+r10146,3,"^Increase my strength$","1","crowdtap.com/",1,c129
+r10147,3,"^Improve sleep time and quality$","1","crowdtap.com/",1,c129
+r10148,3,"^Improve my eating habits$","1","crowdtap.com/",1,c129
+r10149,3,"^Increase physical activity$","1","crowdtap.com/",1,c129
+r10150,3,"^Monitor/improve my heart health$","1","crowdtap.com/",1,c129
+r10151,3,"^Lose weight$","1","crowdtap.com/",1,c129
+r10152,3,"^Promote relaxation or reduce stress$","1","crowdtap.com/",1,c129
+r10153,3,"^Increase energy level$","1","crowdtap.com/",1,c129
+r10154,3,"^Monitor or evaluate my overall health$","1","crowdtap.com/",1,c129
+r10155,3,"^I agree$","1","crowdtap.com/",1,c129
 r10156,3,"^Apple smartphone \(iPhone\)$","1","",1,c288
 r10157,3,"^Google Pixel smartphone$","1","",1,c288
 r10158,3,"^Samsung smartphone$","1","",1,c288
@@ -9904,104 +9903,102 @@ r10173,3,"^Improve my eating habits$","1","",1,c288
 r10174,3,"^Increase physical activity$","1","",1,c288
 r10175,3,"^Somewhat dissatisfied$","1","",1,c288
 r10176,3,"^3-4 times$","1","",1,c288
-r10177,3,"^7d392066-4068-42d7-bd23-35d2af8dc954$","1","crowdtap.com/dashboard",1,c166
-r10178,3,"^23741462-2097-4236-a2a7-c09b9a13818b$","1","crowdtap.com/dashboard",1,c166
-r10179,3,"^16efc89f-34bc-4e7e-b3cc-91a204b12e02$","1","crowdtap.com/dashboard",1,c166
-r10180,3,"^a60cdebe-1324-41df-a84f-227f13d05109$","1","crowdtap.com/dashboard",1,c166
-r10181,3,"^aae43bd5-8ae8-420f-9c42-383fb3b18a3d$","1","crowdtap.com/dashboard",1,c166
-r10182,3,"^0380c786-bfa3-498f-9153-e92a9cc22d53$","1","crowdtap.com/dashboard",1,c166
-r10183,3,"^fd406b1d-6ebe-4e1d-8aee-6689984a88b8$","1","crowdtap.com/dashboard",1,c166
-r10184,3,"^f00cdde1-24a2-4283-88bf-8fcb52ad6718$","1","crowdtap.com/dashboard",1,c166
-r10185,3,"^0a8e125a-c317-446e-b22e-682836c32579$","1","crowdtap.com/dashboard",1,c166
-r10186,3,"^5e0a20ce-ed00-4d9d-9f15-3977aa976042$","1","crowdtap.com/dashboard",1,c166
-r10187,3,"^64561a27-0eb5-4e44-9b30-3924deff88bb$","1","crowdtap.com/dashboard",1,c166
-r10188,3,"^c43bd9b0-5920-4323-8190-9c1349b2e7d1$","1","crowdtap.com/dashboard",1,c166
-r10189,3,"^e9504717-5c3a-45ce-ac0f-c3d0c0a984ad$","1","crowdtap.com/dashboard",1,c166
-r10190,3,"^f1ec2071-5599-49e8-a3af-06b2aa5be326$","1","crowdtap.com/dashboard",1,c166
-r10191,3,"^1745f0c1-18ee-4a3b-9603-926e59301ac7$","1","crowdtap.com/dashboard",1,c166
-r10192,3,"^60f1827f-d288-4adb-b7ce-378b72ffe40d$","1","crowdtap.com/dashboard",1,c166
-r10193,3,"^c0ceef12-69d6-4823-8a6b-a22d880b66d8$","1","crowdtap.com/dashboard",1,c166
-r10194,3,"^9d3825aa-941f-4561-9068-6f21946a8673$","1","crowdtap.com/dashboard",1,c166
-r10195,3,"^d75e3244-25c5-431f-833b-a0fdff332657$","1","crowdtap.com/dashboard",1,c166
-r10196,3,"^8cafd0dd-6983-4a34-87fe-51da6f8c1188$","1","crowdtap.com/dashboard",1,c166
-r10197,3,"^bf2f2a1e-b1e7-4ee0-ae90-ca80ae7df2a1$","1","crowdtap.com/dashboard",1,c166
-r10198,3,"^0e6da7f3-4503-47ee-8c41-f40e518545c0$","1","crowdtap.com/dashboard",1,c166
-r10199,3,"^89f8e949-ceed-498b-b4b2-675a5d6a2db4$","1","crowdtap.com/dashboard",1,c166
-r10200,3,"^72c7f9a6-933e-4dd2-91b1-d922ac058e81$","1","crowdtap.com/dashboard",1,c166
-r10201,3,"^faeba11f-47fb-473e-b86c-e282b1b07bdf$","1","crowdtap.com/dashboard",1,c166
-r10202,3,"^3a8b4edf-88b4-42d1-b35b-31d230609a49$","1","crowdtap.com/dashboard",1,c166
-r10203,3,"^8785a53f-d0d7-452d-9e4e-fd9b77fd5182$","1","crowdtap.com/dashboard",1,c166
-r10204,3,"^a1a21f97-b364-4003-849f-964bdbe49def$","1","crowdtap.com/dashboard",1,c166
-r10205,3,"^96d5e9e3-c339-4bd9-bbf4-c78a390b22eb$","1","crowdtap.com/dashboard",1,c166
-r10206,3,"^ad341456-2e9e-4cc6-b80a-382dce1cd95d$","1","crowdtap.com/dashboard",1,c166
-r10207,3,"^b72c65e8-a2cb-4954-962d-f6f343715b8a$","1","crowdtap.com/dashboard",1,c166
-r10208,3,"^baf6e89b-6a56-40af-8bf9-ca69cb64908f$","1","crowdtap.com/dashboard",1,c166
-r10209,3,"^7294cf68-562b-448b-8dba-9887d80cf9a7$","1","crowdtap.com/dashboard",1,c166
-r10210,3,"^912a734d-9938-497c-8270-a4c2e8f29584$","1","crowdtap.com/dashboard",1,c166
-r10211,3,"^73c1bbd8-8cbc-4fd2-bab0-fa7b6cd8e162$","1","crowdtap.com/dashboard",1,c166
-r10212,3,"^cf1ef7eb-39b0-45aa-bbff-3e9bfba65931$","1","crowdtap.com/dashboard",1,c166
-r10213,3,"^bf7c9c33-a8e6-4e23-aae1-ddeea0d50ec9$","1","crowdtap.com/dashboard",1,c166
-r10214,3,"^18d596a5-37cb-4c60-ae2f-164d2aff1da4$","1","crowdtap.com/dashboard",1,c166
-r10215,3,"^ded1693d-54be-4827-9c2d-86e9f4358217$","1","crowdtap.com/dashboard",1,c166
-r10216,3,"^7a7c71f5-4856-4735-9a93-41f296c263b0$","1","crowdtap.com/dashboard",1,c166
-r10217,3,"^4adfc68c-3386-44ff-bd3b-895de2c04a8e$","1","crowdtap.com/dashboard",1,c166
-r10218,3,"^67753e10-f19a-49d2-b9cc-beed90b21dac$","1","crowdtap.com/dashboard",1,c166
-r10219,3,"^9151123c-2064-4319-8322-555eecabfd01$","1","crowdtap.com/dashboard",1,c166
-r10220,3,"^2261385a-90d6-4d94-85c0-4f5efc360df3$","1","crowdtap.com/dashboard",1,c166
-r10221,3,"^e57d7eb3-4622-4112-beb9-6b56f71f9b70$","1","crowdtap.com/dashboard",1,c166
-r10222,3,"^a949c68b-2390-416a-9b21-8290323dd566$","1","crowdtap.com/dashboard",1,c166
-r10223,3,"^45301fed-c1f9-4537-b5c3-a85e7a7d0182$","1","crowdtap.com/dashboard",1,c166
-r10224,3,"^ad42f860-af80-4c8c-b663-6b34fa09f665$","1","crowdtap.com/dashboard",1,c166
-r10225,3,"^1967e94b-c400-4aa9-a368-8dba7c1685d4$","1","crowdtap.com/dashboard",1,c166
-r10226,3,"^4e43152e-32b2-4f78-8c2a-47b25db09783$","1","crowdtap.com/dashboard",1,c166
-r10227,3,"^df4f0de0-1326-4850-bf47-6a464dd04f92$","1","crowdtap.com/dashboard",1,c166
-r10228,3,"^bd940367-391c-4f1d-9a8f-0092db001a7c$","1","crowdtap.com/dashboard",1,c166
-r10229,3,"^806f66c1-36ca-4866-8f97-cb4913d000e5$","1","crowdtap.com/dashboard",1,c166
-r10230,3,"^d85368b6-6500-446d-bbf8-3425c3bcafb6$","1","crowdtap.com/dashboard",1,c166
-r10231,3,"^bd49d1a9-1014-4397-b2a7-14208282575c$","1","crowdtap.com/dashboard",1,c166
-r10232,3,"^b9c209f2-7afd-40a9-a050-8478374acaf3$","1","crowdtap.com/dashboard",1,c166
-r10233,3,"^4e138848-b3f4-44ab-a499-70e27c7686da$","1","crowdtap.com/dashboard",1,c166
-r10234,3,"^20fbf1ef-d687-4610-9c05-cae8e72e3678$","1","crowdtap.com/dashboard",1,c166
-r10235,3,"^a08ed62c-c651-4d51-8e50-035af8ad8bad$","1","crowdtap.com/dashboard",1,c166
-r10236,3,"^ad9d45ce-28dc-4500-972d-ebd9599d15c1$","1","crowdtap.com/dashboard",1,c166
-r10237,3,"^a4956dfc-cb96-49ea-801a-cd02275104e5$","1","crowdtap.com/dashboard",1,c166
-r10238,3,"^ca47b14d-1ab7-4c47-851d-4cc32ac281bf$","1","crowdtap.com/dashboard",1,c166
-r10239,3,"^f5ed57d5-82aa-4fc3-8b3a-cc0554ee401b$","1","crowdtap.com/dashboard",1,c166
-r10240,3,"^56975448-77aa-4e1e-a965-1e4c60418769$","1","crowdtap.com/dashboard",1,c166
-r10241,3,"^One to 9 pieces per day$","1","crowdtap.com/dashboard",1,c166
-r10242,3,"^8b8963c6-44df-451a-b1aa-e8c7bd6e44c0$","1","crowdtap.com/dashboard",1,c166
-r10243,3,"^4b591efe-a2d7-4cd5-bddf-cb29c8377419$","1","crowdtap.com/dashboard",1,c166
-r10244,3,"^c659194b-9c11-4ccf-81c3-cfee10953746$","1","crowdtap.com/dashboard",1,c166
-r10245,3,"^503795eb-69f9-455e-9695-43fb69a8803d$","1","crowdtap.com/dashboard",1,c166
-r10246,3,"^369104bc-05ac-4040-b6cc-c52b8dfa60a0$","1","crowdtap.com/dashboard",1,c166
-r10247,3,"^91fc512e-d3e4-47b9-b039-50132cfdf4e0$","1","crowdtap.com/dashboard",1,c166
-r10248,3,"^8bf8791a-9160-4e01-b4c7-827722d60e8e$","1","crowdtap.com/dashboard",1,c166
-r10249,0,"^response$","i like easy navigation and a wide selection of products  i prefer sites with a good mobile app  i find clunky interfaces and limited options annoying  i used babylist because it had everything i needed
-","crowdtap.com/dashboard",1,c207
+r10177,3,"^7d392066-4068-42d7-bd23-35d2af8dc954$","1","crowdtap.com/",1,c166
+r10178,3,"^23741462-2097-4236-a2a7-c09b9a13818b$","1","crowdtap.com/",1,c166
+r10179,3,"^16efc89f-34bc-4e7e-b3cc-91a204b12e02$","1","crowdtap.com/",1,c166
+r10180,3,"^a60cdebe-1324-41df-a84f-227f13d05109$","1","crowdtap.com/",1,c166
+r10181,3,"^aae43bd5-8ae8-420f-9c42-383fb3b18a3d$","1","crowdtap.com/",1,c166
+r10182,3,"^0380c786-bfa3-498f-9153-e92a9cc22d53$","1","crowdtap.com/",1,c166
+r10183,3,"^fd406b1d-6ebe-4e1d-8aee-6689984a88b8$","1","crowdtap.com/",1,c166
+r10184,3,"^f00cdde1-24a2-4283-88bf-8fcb52ad6718$","1","crowdtap.com/",1,c166
+r10185,3,"^0a8e125a-c317-446e-b22e-682836c32579$","1","crowdtap.com/",1,c166
+r10186,3,"^5e0a20ce-ed00-4d9d-9f15-3977aa976042$","1","crowdtap.com/",1,c166
+r10187,3,"^64561a27-0eb5-4e44-9b30-3924deff88bb$","1","crowdtap.com/",1,c166
+r10188,3,"^c43bd9b0-5920-4323-8190-9c1349b2e7d1$","1","crowdtap.com/",1,c166
+r10189,3,"^e9504717-5c3a-45ce-ac0f-c3d0c0a984ad$","1","crowdtap.com/",1,c166
+r10190,3,"^f1ec2071-5599-49e8-a3af-06b2aa5be326$","1","crowdtap.com/",1,c166
+r10191,3,"^1745f0c1-18ee-4a3b-9603-926e59301ac7$","1","crowdtap.com/",1,c166
+r10192,3,"^60f1827f-d288-4adb-b7ce-378b72ffe40d$","1","crowdtap.com/",1,c166
+r10193,3,"^c0ceef12-69d6-4823-8a6b-a22d880b66d8$","1","crowdtap.com/",1,c166
+r10194,3,"^9d3825aa-941f-4561-9068-6f21946a8673$","1","crowdtap.com/",1,c166
+r10195,3,"^d75e3244-25c5-431f-833b-a0fdff332657$","1","crowdtap.com/",1,c166
+r10196,3,"^8cafd0dd-6983-4a34-87fe-51da6f8c1188$","1","crowdtap.com/",1,c166
+r10197,3,"^bf2f2a1e-b1e7-4ee0-ae90-ca80ae7df2a1$","1","crowdtap.com/",1,c166
+r10198,3,"^0e6da7f3-4503-47ee-8c41-f40e518545c0$","1","crowdtap.com/",1,c166
+r10199,3,"^89f8e949-ceed-498b-b4b2-675a5d6a2db4$","1","crowdtap.com/",1,c166
+r10200,3,"^72c7f9a6-933e-4dd2-91b1-d922ac058e81$","1","crowdtap.com/",1,c166
+r10201,3,"^faeba11f-47fb-473e-b86c-e282b1b07bdf$","1","crowdtap.com/",1,c166
+r10202,3,"^3a8b4edf-88b4-42d1-b35b-31d230609a49$","1","crowdtap.com/",1,c166
+r10203,3,"^8785a53f-d0d7-452d-9e4e-fd9b77fd5182$","1","crowdtap.com/",1,c166
+r10204,3,"^a1a21f97-b364-4003-849f-964bdbe49def$","1","crowdtap.com/",1,c166
+r10205,3,"^96d5e9e3-c339-4bd9-bbf4-c78a390b22eb$","1","crowdtap.com/",1,c166
+r10206,3,"^ad341456-2e9e-4cc6-b80a-382dce1cd95d$","1","crowdtap.com/",1,c166
+r10207,3,"^b72c65e8-a2cb-4954-962d-f6f343715b8a$","1","crowdtap.com/",1,c166
+r10208,3,"^baf6e89b-6a56-40af-8bf9-ca69cb64908f$","1","crowdtap.com/",1,c166
+r10209,3,"^7294cf68-562b-448b-8dba-9887d80cf9a7$","1","crowdtap.com/",1,c166
+r10210,3,"^912a734d-9938-497c-8270-a4c2e8f29584$","1","crowdtap.com/",1,c166
+r10211,3,"^73c1bbd8-8cbc-4fd2-bab0-fa7b6cd8e162$","1","crowdtap.com/",1,c166
+r10212,3,"^cf1ef7eb-39b0-45aa-bbff-3e9bfba65931$","1","crowdtap.com/",1,c166
+r10213,3,"^bf7c9c33-a8e6-4e23-aae1-ddeea0d50ec9$","1","crowdtap.com/",1,c166
+r10214,3,"^18d596a5-37cb-4c60-ae2f-164d2aff1da4$","1","crowdtap.com/",1,c166
+r10215,3,"^ded1693d-54be-4827-9c2d-86e9f4358217$","1","crowdtap.com/",1,c166
+r10216,3,"^7a7c71f5-4856-4735-9a93-41f296c263b0$","1","crowdtap.com/",1,c166
+r10217,3,"^4adfc68c-3386-44ff-bd3b-895de2c04a8e$","1","crowdtap.com/",1,c166
+r10218,3,"^67753e10-f19a-49d2-b9cc-beed90b21dac$","1","crowdtap.com/",1,c166
+r10219,3,"^9151123c-2064-4319-8322-555eecabfd01$","1","crowdtap.com/",1,c166
+r10220,3,"^2261385a-90d6-4d94-85c0-4f5efc360df3$","1","crowdtap.com/",1,c166
+r10221,3,"^e57d7eb3-4622-4112-beb9-6b56f71f9b70$","1","crowdtap.com/",1,c166
+r10222,3,"^a949c68b-2390-416a-9b21-8290323dd566$","1","crowdtap.com/",1,c166
+r10223,3,"^45301fed-c1f9-4537-b5c3-a85e7a7d0182$","1","crowdtap.com/",1,c166
+r10224,3,"^ad42f860-af80-4c8c-b663-6b34fa09f665$","1","crowdtap.com/",1,c166
+r10225,3,"^1967e94b-c400-4aa9-a368-8dba7c1685d4$","1","crowdtap.com/",1,c166
+r10226,3,"^4e43152e-32b2-4f78-8c2a-47b25db09783$","1","crowdtap.com/",1,c166
+r10227,3,"^df4f0de0-1326-4850-bf47-6a464dd04f92$","1","crowdtap.com/",1,c166
+r10228,3,"^bd940367-391c-4f1d-9a8f-0092db001a7c$","1","crowdtap.com/",1,c166
+r10229,3,"^806f66c1-36ca-4866-8f97-cb4913d000e5$","1","crowdtap.com/",1,c166
+r10230,3,"^d85368b6-6500-446d-bbf8-3425c3bcafb6$","1","crowdtap.com/",1,c166
+r10231,3,"^bd49d1a9-1014-4397-b2a7-14208282575c$","1","crowdtap.com/",1,c166
+r10232,3,"^b9c209f2-7afd-40a9-a050-8478374acaf3$","1","crowdtap.com/",1,c166
+r10233,3,"^4e138848-b3f4-44ab-a499-70e27c7686da$","1","crowdtap.com/",1,c166
+r10234,3,"^20fbf1ef-d687-4610-9c05-cae8e72e3678$","1","crowdtap.com/",1,c166
+r10235,3,"^a08ed62c-c651-4d51-8e50-035af8ad8bad$","1","crowdtap.com/",1,c166
+r10236,3,"^ad9d45ce-28dc-4500-972d-ebd9599d15c1$","1","crowdtap.com/",1,c166
+r10237,3,"^a4956dfc-cb96-49ea-801a-cd02275104e5$","1","crowdtap.com/",1,c166
+r10238,3,"^ca47b14d-1ab7-4c47-851d-4cc32ac281bf$","1","crowdtap.com/",1,c166
+r10239,3,"^f5ed57d5-82aa-4fc3-8b3a-cc0554ee401b$","1","crowdtap.com/",1,c166
+r10240,3,"^56975448-77aa-4e1e-a965-1e4c60418769$","1","crowdtap.com/",1,c166
+r10241,3,"^One to 9 pieces per day$","1","crowdtap.com/",1,c166
+r10242,3,"^8b8963c6-44df-451a-b1aa-e8c7bd6e44c0$","1","crowdtap.com/",1,c166
+r10243,3,"^4b591efe-a2d7-4cd5-bddf-cb29c8377419$","1","crowdtap.com/",1,c166
+r10244,3,"^c659194b-9c11-4ccf-81c3-cfee10953746$","1","crowdtap.com/",1,c166
+r10245,3,"^503795eb-69f9-455e-9695-43fb69a8803d$","1","crowdtap.com/",1,c166
+r10246,3,"^369104bc-05ac-4040-b6cc-c52b8dfa60a0$","1","crowdtap.com/",1,c166
+r10247,3,"^91fc512e-d3e4-47b9-b039-50132cfdf4e0$","1","crowdtap.com/",1,c166
+r10248,3,"^8bf8791a-9160-4e01-b4c7-827722d60e8e$","1","crowdtap.com/",1,c166
 r10250,3,"^I am the primary decision-maker$","1","",1,c289
 r10251,3,"^I’d love to participate in a video interview$","1","",1,c289
 r10252,3,"^Smartphone$","1","",1,c289
 r10253,3,"^Tablet$","1","",1,c289
 r10254,3,"^Laptop or desktop computer with webcam$","1","",1,c289
-r10256,3,"^3fcf3c1e-3a41-41d1-ad78-056e428a9d20$","1","crowdtap.com/dashboard",1,c226
-r10257,3,"^83d7f1e9-6db7-4acf-b770-883f10baa68d$","1","crowdtap.com/dashboard",1,c226
-r10258,3,"^32d6a763-8257-4439-8416-dd2a53c25190$","1","crowdtap.com/dashboard",1,c226
-r10259,3,"^adb88ed5-3621-47bc-9a3e-ecec5dbf074e$","1","crowdtap.com/dashboard",1,c226
-r10260,3,"^28472dc2-6a13-4e20-af4a-94323f5ca960$","1","crowdtap.com/dashboard",1,c226
-r10261,3,"^93be83bc-730c-45ae-8907-5189aef8fca3$","1","crowdtap.com/dashboard",1,c226
-r10262,3,"^Utility Lighter$","1","crowdtap.com/dashboard",1,c226
-r10263,3,"^Torch Lighter$","1","crowdtap.com/dashboard",1,c226
-r10264,3,"^Matches$","1","crowdtap.com/dashboard",1,c226
-r10265,3,"^Pocket Lighter$","1","crowdtap.com/dashboard",1,c226
-r10266,3,"^USB/Electric lighters$","1","crowdtap.com/dashboard",1,c226
-r10267,3,"^a858b3d2-df85-400d-850d-753627623243$","1","crowdtap.com/dashboard",1,c226
-r10268,3,"^351a8ec7-3309-47d1-807c-567c39445010$","1","crowdtap.com/dashboard",1,c226
-r10269,3,"^61834604-d708-4c0e-bc02-8810434438ec$","1","crowdtap.com/dashboard",1,c226
-r10270,3,"^cdd97d5c-0048-4541-83a9-3a8963074729$","1","crowdtap.com/dashboard",1,c226
-r10271,3,"^a41867a2-6860-4c8a-817f-86e3d03e37b9$","1","crowdtap.com/dashboard",1,c226
-r10272,3,"^3333ec5c-61a2-4e51-87b2-5f336d71da12$","1","crowdtap.com/dashboard",1,c226
-r10273,3,"^9c85007b-6523-4c5d-876b-65e0e9ba3943$","1","crowdtap.com/dashboard",1,c226
-r10274,3,"^7aa6140b-e59b-4ebe-99e3-7ee9b3effe00$","1","crowdtap.com/dashboard",1,c226
+r10256,3,"^3fcf3c1e-3a41-41d1-ad78-056e428a9d20$","1","crowdtap.com/",1,c226
+r10257,3,"^83d7f1e9-6db7-4acf-b770-883f10baa68d$","1","crowdtap.com/",1,c226
+r10258,3,"^32d6a763-8257-4439-8416-dd2a53c25190$","1","crowdtap.com/",1,c226
+r10259,3,"^adb88ed5-3621-47bc-9a3e-ecec5dbf074e$","1","crowdtap.com/",1,c226
+r10260,3,"^28472dc2-6a13-4e20-af4a-94323f5ca960$","1","crowdtap.com/",1,c226
+r10261,3,"^93be83bc-730c-45ae-8907-5189aef8fca3$","1","crowdtap.com/",1,c226
+r10262,3,"^Utility Lighter$","1","crowdtap.com/",1,c226
+r10263,3,"^Torch Lighter$","1","crowdtap.com/",1,c226
+r10264,3,"^Matches$","1","crowdtap.com/",1,c226
+r10265,3,"^Pocket Lighter$","1","crowdtap.com/",1,c226
+r10266,3,"^USB/Electric lighters$","1","crowdtap.com/",1,c226
+r10267,3,"^a858b3d2-df85-400d-850d-753627623243$","1","crowdtap.com/",1,c226
+r10268,3,"^351a8ec7-3309-47d1-807c-567c39445010$","1","crowdtap.com/",1,c226
+r10269,3,"^61834604-d708-4c0e-bc02-8810434438ec$","1","crowdtap.com/",1,c226
+r10270,3,"^cdd97d5c-0048-4541-83a9-3a8963074729$","1","crowdtap.com/",1,c226
+r10271,3,"^a41867a2-6860-4c8a-817f-86e3d03e37b9$","1","crowdtap.com/",1,c226
+r10272,3,"^3333ec5c-61a2-4e51-87b2-5f336d71da12$","1","crowdtap.com/",1,c226
+r10273,3,"^9c85007b-6523-4c5d-876b-65e0e9ba3943$","1","crowdtap.com/",1,c226
+r10274,3,"^7aa6140b-e59b-4ebe-99e3-7ee9b3effe00$","1","crowdtap.com/",1,c226
 r10276,3,"^e0b44473-4053-4188-96be-cbce0a73f3eb$","1","",1,c290
 r10277,3,"^ac91303e-34b6-446f-a968-cfac9f3173a2$","1","",1,c290
 r10278,3,"^2ec0dd95-d41e-4c18-bd3f-aaed5d0d65c7$","1","",1,c290
@@ -10101,194 +10098,194 @@ r10372,3,"^8f07c6be-bd84-4afe-99dc-01233b4a8815$","1","",1,c295
 r10373,3,"^4a229dd9-9fad-44ed-9946-75e30ee7e30d$","1","",1,c295
 r10374,3,"^Within the past month$","1","",1,c295
 r10375,3,"^dccffea1-f1fc-4e21-9705-fcf211fd48c2$","1","",1,c295
-r10376,3,"^0c89c5f9-b4ae-4b3f-bd5f-0b82b3335d95$","1","crowdtap.com/dashboard",1,c134
-r10377,3,"^ad3147a3-2eeb-4fed-8926-1fd9e2448a31$","1","crowdtap.com/dashboard",1,c134
-r10378,3,"^b731a33b-25cc-4755-ac10-5e79aa460fc7$","1","crowdtap.com/dashboard",1,c134
-r10379,3,"^15357f1f-a03f-4abc-94e3-66a9ac55f586$","1","crowdtap.com/dashboard",1,c134
-r10380,3,"^88dde22b-f634-401f-9f6b-f91a36cdbc13$","1","crowdtap.com/dashboard",1,c134
-r10381,3,"^8593782d-5f56-4b16-95c2-de6ed6a7638a$","1","crowdtap.com/dashboard",1,c134
-r10382,3,"^a4e02f9d-956c-4b0f-b727-db11872edbf5$","1","crowdtap.com/dashboard",1,c134
-r10383,3,"^bae88ab6-5e63-4d24-bcb9-91274e34e3dd$","1","crowdtap.com/dashboard",1,c134
-r10384,3,"^d2d5077d-f859-4829-bd93-bbf91abd1f33$","1","crowdtap.com/dashboard",1,c134
-r10385,3,"^2e530489-fa48-47e1-91a2-ef58a1569057$","1","crowdtap.com/dashboard",1,c134
-r10386,3,"^1c86908d-bab0-4dd8-8dc3-958f9c462677$","1","crowdtap.com/dashboard",1,c134
-r10387,3,"^5cfc2cb5-2706-4ff7-9f34-110dbba27f06$","1","crowdtap.com/dashboard",1,c134
-r10388,3,"^3542d2c1-4a0f-4413-be58-4560c1c328d5$","1","crowdtap.com/dashboard",1,c134
-r10389,3,"^3cf03d64-dabe-4124-9d1e-1600bbc64b32$","1","crowdtap.com/dashboard",1,c134
-r10390,3,"^492ec727-a5ec-4f89-b190-c0f22c757dad$","1","crowdtap.com/dashboard",1,c134
-r10391,3,"^dc374b80-feb4-4671-967e-0578059f4a2e$","1","crowdtap.com/dashboard",1,c134
-r10392,3,"^6d314c94-3771-4215-8d0d-0ea192b2f491$","1","crowdtap.com/dashboard",1,c134
-r10393,3,"^611d97e9-82dd-467d-908d-8774cf96a8f0$","1","crowdtap.com/dashboard",1,c134
-r10394,3,"^a9083d07-3187-4434-8104-3cca9183c76d$","1","crowdtap.com/dashboard",1,c134
-r10395,3,"^58ec2014-08f9-4440-b718-a24795090b13$","1","crowdtap.com/dashboard",1,c134
-r10396,3,"^f9d8e1a7-d508-4467-b18a-e05dd56f322c$","1","crowdtap.com/dashboard",1,c134
-r10397,3,"^a1fb6f5d-b8e7-40f7-9146-36fe23ee3d0a$","1","crowdtap.com/dashboard",1,c134
-r10398,3,"^3d2c048f-178f-4ba7-870d-c4614834bf10$","1","crowdtap.com/dashboard",1,c134
-r10399,3,"^7f855ebb-555a-41a5-9ae1-8e739deb775b$","1","crowdtap.com/dashboard",1,c134
-r10400,3,"^08d6f787-3908-4486-b3ac-392c4bc88c78$","1","crowdtap.com/dashboard",1,c134
-r10401,3,"^48ae60e9-677e-4e68-9e00-7c2c16bf0308$","1","crowdtap.com/dashboard",1,c134
-r10402,3,"^318216e2-88f3-4625-bafe-0635acbe94cc$","1","crowdtap.com/dashboard",1,c134
-r10403,3,"^46ec807e-9f32-4096-90fe-76be3853d1cb$","1","crowdtap.com/dashboard",1,c134
-r10404,3,"^c5afdcb8-bd0c-45f6-a263-ed552872c9b5$","1","crowdtap.com/dashboard",1,c134
-r10405,3,"^b0a39e76-d74c-4b86-9688-f670be653a4a$","1","crowdtap.com/dashboard",1,c134
-r10406,3,"^bdd6f081-46ae-4923-b0a5-0885508c2d8d$","1","crowdtap.com/dashboard",1,c134
-r10407,3,"^885be6be-a934-452e-bd3a-a22677045e66$","1","crowdtap.com/dashboard",1,c134
-r10408,3,"^107818b4-786c-472b-9084-b71603d30750$","1","crowdtap.com/dashboard",1,c134
-r10409,3,"^9b2d2dbf-33ae-4cd4-bb17-1ad968869da4$","1","crowdtap.com/dashboard",1,c134
-r10410,3,"^ba8f5c94-6f0f-427a-aeeb-645399f5ab74$","1","crowdtap.com/dashboard",1,c134
-r10411,3,"^2dede694-85f4-4f6e-bc3f-1dd882506082$","1","crowdtap.com/dashboard",1,c134
-r10412,3,"^344fbd19-1a63-4fd6-ae4f-b6ddecdd0bc8$","1","crowdtap.com/dashboard",1,c134
-r10413,3,"^e2a28e12-4280-48f9-8340-207d21bfa60d$","1","crowdtap.com/dashboard",1,c134
-r10414,3,"^47cc3c94-6cc7-41a2-9c4f-13825ff231d4$","1","crowdtap.com/dashboard",1,c134
-r10415,3,"^56e52cef-124d-4ce6-9a66-36144800d1af$","1","crowdtap.com/dashboard",1,c134
-r10416,3,"^52105fca-ddbc-49fe-832b-312bfcfe3797$","1","crowdtap.com/dashboard",1,c134
-r10417,3,"^38450db7-8914-4155-8c20-409d7fff44db$","1","crowdtap.com/dashboard",1,c134
-r10418,3,"^277e0a3b-1bb6-4f5c-b613-5e7d5950de23$","1","crowdtap.com/dashboard",1,c134
-r10419,3,"^0b5521dc-899b-4e5c-918d-5898b9420294$","1","crowdtap.com/dashboard",1,c134
-r10420,3,"^c3f74699-2e93-4eb2-b9e2-43c2ca9b08e8$","1","crowdtap.com/dashboard",1,c134
-r10421,3,"^ed54ac5a-7771-4c36-8510-1876d9cd2e41$","1","crowdtap.com/dashboard",1,c134
-r10422,3,"^be779eac-0d76-4618-9959-27ece00ab444$","1","crowdtap.com/dashboard",1,c134
-r10423,3,"^5357335d-c3ce-47ac-90a3-a0ea2f81f2c1$","1","crowdtap.com/dashboard",1,c134
-r10424,3,"^abb39fa3-e1bb-4e5c-ad04-035091804902$","1","crowdtap.com/dashboard",1,c134
-r10425,3,"^5fe366ad-34bc-4ef4-8284-8f83e611b272$","1","crowdtap.com/dashboard",1,c134
-r10426,3,"^d492575d-5270-46f0-8718-0ca380764c04$","1","crowdtap.com/dashboard",1,c134
-r10427,3,"^68872893-be58-4253-8373-44c65c08e470$","1","crowdtap.com/dashboard",1,c134
-r10428,3,"^b408a148-bd8e-4653-bfa9-be3290a8955c$","1","crowdtap.com/dashboard",1,c134
-r10429,3,"^560cfee5-ba9c-49a9-97d2-6f8ac0093d7c$","1","crowdtap.com/dashboard",1,c134
-r10430,3,"^15e1b45d-5644-4fa9-8b06-ad121f2830de$","1","crowdtap.com/dashboard",1,c134
-r10431,3,"^19afe4c6-4f97-4598-9cae-169246c7f526$","1","crowdtap.com/dashboard",1,c134
-r10432,3,"^14801ab4-5981-4b2a-a801-edf857c13a51$","1","crowdtap.com/dashboard",1,c134
-r10433,3,"^1ed18d26-691f-428f-bc84-e2ab1b9687f3$","1","crowdtap.com/dashboard",1,c134
-r10434,3,"^041a9f34-257b-48a0-8af2-e9a684cb9bff$","1","crowdtap.com/dashboard",1,c134
-r10435,3,"^I have tried at-home teeth whitening products in the past$","1","crowdtap.com/dashboard",1,c134
-r10436,3,"^0a454c0d-ad54-4754-9662-e634c4bfcbb8$","1","crowdtap.com/dashboard",1,c134
-r10437,3,"^d4c05dbe-1c97-4720-86df-c50dcad6f54c$","1","crowdtap.com/dashboard",1,c134
-r10438,3,"^fa01c55c-e2e2-4fef-ab01-c057f9e5dca9$","1","crowdtap.com/dashboard",1,c134
-r10439,3,"^d6a31d53-399a-4c19-9449-63bd7977fc1c$","1","crowdtap.com/dashboard",1,c134
-r10440,3,"^f855f1e1-728f-4ba0-84b4-a1060cf8a424$","1","crowdtap.com/dashboard",1,c134
-r10441,3,"^28b29647-32d7-4c01-95fd-7270cc326648$","1","crowdtap.com/dashboard",1,c134
-r10442,3,"^71f657d7-692e-43a4-afb9-0527cbed8049$","1","crowdtap.com/dashboard",1,c134
-r10443,3,"^44eb1bbb-2d64-4299-9103-65163feef483$","1","crowdtap.com/dashboard",1,c134
-r10444,3,"^97d968cb-ef8b-4dca-9de5-f6ad98f535b6$","1","crowdtap.com/dashboard",1,c130
-r10445,3,"^91e2ca28-9c43-4d98-9ad7-54536589da08$","1","crowdtap.com/dashboard",1,c130
-r10446,3,"^5b6b3266-db1e-4905-ac58-53a120baac84$","1","crowdtap.com/dashboard",1,c130
-r10447,3,"^7ed7ae75-280c-4466-90f8-2dc37d1ccd21$","1","crowdtap.com/dashboard",1,c130
-r10448,3,"^028cdc10-b8b5-4278-aa39-954e15e1388c$","1","crowdtap.com/dashboard",1,c130
-r10449,3,"^aca63243-a9cf-4f98-a6e2-57aea66f3b6b$","1","crowdtap.com/dashboard",1,c130
-r10450,3,"^b939e730-7da4-4ee8-b1a6-208e6edb0b72$","1","crowdtap.com/dashboard",1,c130
-r10451,3,"^6dd0b2ad-a348-47d2-a32d-e8cd045ae365$","1","crowdtap.com/dashboard",1,c130
-r10452,3,"^6e91be35-821e-4330-894a-c523854bd233$","1","crowdtap.com/dashboard",1,c130
-r10453,3,"^1afdf72a-5642-41bb-b519-34bcad7d9a49$","1","crowdtap.com/dashboard",1,c130
-r10454,3,"^0d9a7844-0283-4329-ae3f-b66b75ecb793$","1","crowdtap.com/dashboard",1,c130
-r10455,3,"^25111850-0bf9-4230-bb52-62562e2a39f2$","1","crowdtap.com/dashboard",1,c130
-r10456,3,"^c22c0f40-f77f-4af6-b3ef-5dbab39ad34e$","1","crowdtap.com/dashboard",1,c130
-r10457,3,"^0b6da7c4-d9aa-451f-89bc-27992c499dfd$","1","crowdtap.com/dashboard",1,c130
-r10458,3,"^5adcc52c-5d13-41fe-b74d-1044dddf3a99$","1","crowdtap.com/dashboard",1,c130
-r10459,3,"^2b2bdd17-3e8d-4632-a2c1-8e9ac258f3e9$","1","crowdtap.com/dashboard",1,c130
-r10460,3,"^e45d8a39-d577-426c-a5ad-0827acab67be$","1","crowdtap.com/dashboard",1,c130
-r10461,3,"^45b8bd71-9694-4ed8-a4fc-438899b6455b$","1","crowdtap.com/dashboard",1,c130
-r10462,3,"^0b6900ca-d858-4ef1-8d2e-d0dc71120fbd$","1","crowdtap.com/dashboard",1,c130
-r10463,3,"^90bb9987-7427-40b5-b23e-632fce540523$","1","crowdtap.com/dashboard",1,c130
-r10464,3,"^d0fe0342-ad3e-4ecd-9a61-7efd3a216e4b$","1","crowdtap.com/dashboard",1,c130
-r10465,3,"^affaa1c2-232a-4549-b48a-ab842d6bb37c$","1","crowdtap.com/dashboard",1,c130
-r10466,3,"^ce0df262-bec9-43d5-a868-bb01ce39019c$","1","crowdtap.com/dashboard",1,c130
-r10467,3,"^897ddecb-8c41-45f6-9bf6-c8eac3cdbf52$","1","crowdtap.com/dashboard",1,c130
-r10468,3,"^73c08ef8-84b8-4a9d-82a7-ff5a03668253$","1","crowdtap.com/dashboard",1,c130
-r10469,3,"^ad810607-42ac-428c-bbe9-2dd68d0be462$","1","crowdtap.com/dashboard",1,c130
-r10470,3,"^73cadf24-e547-4b82-8cb0-288265c9c5ff$","1","crowdtap.com/dashboard",1,c130
-r10471,3,"^349bb191-100e-4cb7-bcca-aaaff128f3c5$","1","crowdtap.com/dashboard",1,c130
-r10472,3,"^ca4d1fd7-c461-41f8-b6e8-338aba70fcc3$","1","crowdtap.com/dashboard",1,c130
-r10473,3,"^1e4e1748-2d54-44cf-bfb7-5e17175b1dfb$","1","crowdtap.com/dashboard",1,c130
-r10474,3,"^c125ed41-d674-4830-a94b-128b67e8f0b2$","1","crowdtap.com/dashboard",1,c130
-r10475,3,"^bd2a69bc-2f6c-4b4f-b975-088737c75d8a$","1","crowdtap.com/dashboard",1,c130
-r10476,3,"^800d523d-cea5-409d-8981-c9135c9800d2$","1","crowdtap.com/dashboard",1,c130
-r10477,3,"^1980615d-9e25-4a55-b904-47ae7c5ee1cd$","1","crowdtap.com/dashboard",1,c130
-r10478,3,"^77c7e84e-a3f7-4738-bb55-f0c93e03e821$","1","crowdtap.com/dashboard",1,c130
-r10479,3,"^606a2dc1-e34b-4348-a1cd-abdddf556934$","1","crowdtap.com/dashboard",1,c130
-r10480,3,"^6b6723de-57d0-457e-ae3a-3a8ed443bd8b$","1","crowdtap.com/dashboard",1,c130
-r10481,3,"^4da5715b-3a9d-4c65-bd3a-985efb471c3e$","1","crowdtap.com/dashboard",1,c130
-r10482,3,"^11d91ebe-1ffa-4839-8560-6d3df421c47b$","1","crowdtap.com/dashboard",1,c130
-r10483,3,"^ac833769-a0ca-44eb-9421-ee97d02708a8$","1","crowdtap.com/dashboard",1,c130
-r10484,3,"^3b89d7b4-8568-4088-aebf-e3967a8f6780$","1","crowdtap.com/dashboard",1,c130
-r10485,3,"^5ed3ae2f-ccf3-41ff-a62d-af6d20c83da4$","1","crowdtap.com/dashboard",1,c130
-r10486,3,"^6f2e11eb-70a3-48f2-ba2a-501cc041db72$","1","crowdtap.com/dashboard",1,c130
-r10487,3,"^fbca09f4-06fc-4ae1-9838-aef952120c72$","1","crowdtap.com/dashboard",1,c130
-r10488,3,"^f6054f54-0f9d-4095-b725-439ca27f9017$","1","crowdtap.com/dashboard",1,c130
-r10489,3,"^99023e61-5f9f-4fa5-83f6-c8f816221132$","1","crowdtap.com/dashboard",1,c130
-r10490,3,"^c6354527-ea60-4012-97e0-196b54a282da$","1","crowdtap.com/dashboard",1,c130
-r10491,3,"^fb848325-42a4-459d-8d67-ddcaebbc8fcd$","1","crowdtap.com/dashboard",1,c130
-r10492,0,"input\[_ngcontent-kbf-c82\]","600","crowdtap.com/dashboard",1,c130
-r10493,3,"^7335ea21-989c-4a0f-95ab-44e5cbfa6e05$","1","crowdtap.com/dashboard",1,c130
-r10494,3,"^0e2100f1-1ae5-46df-af66-a99dd0a599c1$","1","crowdtap.com/dashboard",1,c130
-r10495,3,"^d994f9ab-b879-4a17-aa09-96f8d3d17195$","1","crowdtap.com/dashboard",1,c130
-r10496,3,"^09c46be8-abb3-4253-92e0-02eb194598e2$","1","crowdtap.com/dashboard",1,c130
-r10497,3,"^7c3a6259-c752-4b49-aba2-adf42ce5de70$","1","crowdtap.com/dashboard",1,c130
-r10498,3,"^a9e73baa-7c37-4350-b0f0-7b68ff2d41e1$","1","crowdtap.com/dashboard",1,c130
-r10499,3,"^9b7a9b59-4843-449e-b59a-dfd24611b2e9$","1","crowdtap.com/dashboard",1,c130
-r10500,3,"^7cf78e02-fabb-4d93-b40b-ae782f981083$","1","crowdtap.com/dashboard",1,c130
-r10501,3,"^207cd049-1c50-40b0-9259-9a8b367ffd19$","1","crowdtap.com/dashboard",1,c130
-r10502,3,"^7a845f53-e558-40df-b827-bc4898c8bc23$","1","crowdtap.com/dashboard",1,c130
-r10503,3,"^d583dc22-b51f-4be9-9bab-d43750502430$","1","crowdtap.com/dashboard",1,c130
-r10504,3,"^b8053eb3-0224-44cc-8a67-e4b2c2555ff1$","1","crowdtap.com/dashboard",1,c130
-r10505,3,"^82deff5d-a2d1-48ce-bd63-4db304b8812f$","1","crowdtap.com/dashboard",1,c130
-r10506,3,"^14904769-ac13-4072-b39e-75fb4393362a$","1","crowdtap.com/dashboard",1,c130
-r10507,3,"^0d073b3b-8155-46d7-8dac-a6a95636feb8$","1","crowdtap.com/dashboard",1,c130
-r10508,3,"^f9b3f2b5-0ae4-40b8-82c6-e8e8da83b22c$","1","crowdtap.com/dashboard",1,c130
-r10509,3,"^7746e0ee-30ad-40c6-9203-49ffd1260e72$","1","crowdtap.com/dashboard",1,c95
-r10510,3,"^67cb7ffb-2358-4584-a86e-3aab4500979f$","1","crowdtap.com/dashboard",1,c95
-r10511,3,"^3b7b4df0-ec0e-497c-aa07-4c6fbf8097ec$","1","crowdtap.com/dashboard",1,c95
-r10512,3,"^956168d5-3f44-4d84-967a-58ef13e666be$","1","crowdtap.com/dashboard",1,c95
-r10513,3,"^9a327b8c-df45-4718-b8ad-efe02416656c$","1","crowdtap.com/dashboard",1,c95
-r10514,3,"^27d74ff2-60f6-40e3-aba2-76dcc9231eda$","1","crowdtap.com/dashboard",1,c95
-r10515,3,"^d40e1ba4-91f2-4853-966b-3757b147022d$","1","crowdtap.com/dashboard",1,c95
-r10516,3,"^309184ae-545f-466c-a4fc-a0c4e87f0171$","1","crowdtap.com/dashboard",1,c95
-r10517,3,"^893bb285-0e8b-40e9-b1b0-11ea2e7afd28$","1","crowdtap.com/dashboard",1,c95
-r10518,3,"^7066db6f-cdd3-44d3-bc49-cf8fe3779cd5$","1","crowdtap.com/dashboard",1,c95
-r10519,3,"^4bc809a1-b8c5-4cea-b4f2-afc8e4faf75b$","1","crowdtap.com/dashboard",1,c95
-r10520,3,"^1491b288-8c64-4991-9da9-79e00265f045$","1","crowdtap.com/dashboard",1,c95
-r10521,3,"^6a5d8767-08d7-4d2f-b2db-94a5b6488e69$","1","crowdtap.com/dashboard",1,c95
-r10522,3,"^b01fae45-4adb-4882-ba3d-f3b1af9e641e$","1","crowdtap.com/dashboard",1,c95
-r10523,3,"^1f117feb-ba83-4e79-bf51-647d787caf47$","1","crowdtap.com/dashboard",1,c95
-r10524,3,"^78ad3671-02b0-4466-b768-d1025618deaa$","1","crowdtap.com/dashboard",1,c95
-r10525,3,"^eddb4770-0a3b-4a35-884d-4702754090d7$","1","crowdtap.com/dashboard",1,c95
-r10526,3,"^b7fb93d9-5358-4f69-a1f4-86189512ed81$","1","crowdtap.com/dashboard",1,c95
-r10527,3,"^e4c208aa-ca1a-49c5-991e-e913a7082655$","1","crowdtap.com/dashboard",1,c95
-r10528,3,"^ca476f95-2ce3-4b01-9a05-d1aa0a82ba7e$","1","crowdtap.com/dashboard",1,c95
-r10529,3,"^ab86e552-8b5a-4616-8122-e2636dad7018$","1","crowdtap.com/dashboard",1,c95
-r10530,3,"^12014ad5-ae91-4ae2-b710-9b05570f3bcd$","1","crowdtap.com/dashboard",1,c95
-r10531,3,"^3dfaebd0-ae2c-47c4-bc01-8afaa5fe8102$","1","crowdtap.com/dashboard",1,c95
-r10532,3,"^9f3ec2fb-d21e-49ca-bb5e-8ccfdba68d49$","1","crowdtap.com/dashboard",1,c95
-r10533,3,"^2ae732fb-88d2-4707-a18e-5580b3826f11$","1","crowdtap.com/dashboard",1,c95
-r10534,3,"^1a9e5cbe-11a5-408f-94f0-87b6d7b286e8$","1","crowdtap.com/dashboard",1,c95
-r10535,3,"^fad09aae-ddc4-4395-a165-f23dac80efc2$","1","crowdtap.com/dashboard",1,c95
-r10536,3,"^9c7549a3-f42e-4cb1-8d42-e89612668e97$","1","crowdtap.com/dashboard",1,c95
-r10537,3,"^40a8ce5e-f91f-4afc-bc35-6976385e5c3f$","1","crowdtap.com/dashboard",1,c95
-r10538,3,"^3fb75a16-28c6-49ab-85de-a677bfcd6677$","1","crowdtap.com/dashboard",1,c95
-r10539,3,"^b37e49f3-5e0c-44db-b2b9-dc1f5ad3f3f9$","1","crowdtap.com/dashboard",1,c95
-r10540,3,"^3b32f31b-6b37-4264-bfda-b5e6048bf0f6$","1","crowdtap.com/dashboard",1,c95
-r10541,3,"^cc76d97b-74f1-43b8-955d-84f7a74df507$","1","crowdtap.com/dashboard",1,c95
-r10542,3,"^244d5513-1f43-4786-b1bb-b25e06787581$","1","crowdtap.com/dashboard",1,c95
-r10543,3,"^b25a41da-ff1a-4a3a-bde7-886427d1676d$","1","crowdtap.com/dashboard",1,c95
-r10544,3,"^868980f6-8477-456f-bd9f-d9631708da4e$","1","crowdtap.com/dashboard",1,c95
-r10545,3,"^e53f2048-c3e2-4660-a4c1-9fd2be392380$","1","crowdtap.com/dashboard",1,c95
-r10546,3,"^cf26f705-3bdf-46f9-bd5d-5ce752925dc4$","1","crowdtap.com/dashboard",1,c95
-r10547,3,"^26347161-f22d-456e-8d1a-993b74dbaabf$","1","crowdtap.com/dashboard",1,c95
-r10548,3,"^62e0b849-e740-438c-8a67-1e7187237223$","1","crowdtap.com/dashboard",1,c95
-r10549,3,"^2fe137a3-f8d8-4b36-ad5e-c291f7ba7785$","1","crowdtap.com/dashboard",1,c95
-r10550,3,"^ea19d267-dfa8-4ec9-8e46-2a468861d654$","1","crowdtap.com/dashboard",1,c95
-r10551,3,"^283a7396-771d-4284-b23a-c3e4815de0be$","1","crowdtap.com/dashboard",1,c95
-r10552,3,"^3ac00cee-a169-487e-96b7-6bdd056caf45$","1","crowdtap.com/dashboard",1,c95
-r10553,3,"^d3af8b14-5951-41e7-983a-6745d2c708e2$","1","crowdtap.com/dashboard",1,c95
-r10554,3,"^Dollar General$","1","crowdtap.com/dashboard",1,c95
-r10555,3,"^Walmart$","1","crowdtap.com/dashboard",1,c95
-r10556,3,"^Target$","1","crowdtap.com/dashboard",1,c95
-r10557,3,"^I believe high quality ingredients are worth paying more for$","1","crowdtap.com/dashboard",1,c95
-r10558,3,"^I tend to stick to my favorite brands when shopping for food$","1","crowdtap.com/dashboard",1,c95
-r10559,3,"^I prefer to support brands that align with my values$","1","crowdtap.com/dashboard",1,c95
-r10560,3,"^I keep frozen meals on hand$","1","crowdtap.com/dashboard",1,c95
-r10561,3,"^I’m always looking for new brands/products to try$","1","crowdtap.com/dashboard",1,c95
-r10562,3,"^I love quality pre-prepared foods to help me save time when cooking$","1","crowdtap.com/dashboard",1,c95
-r10563,3,"^e14c2cde-2455-4723-9f11-859879da4dc7$","1","crowdtap.com/dashboard",1,c95
+r10376,3,"^0c89c5f9-b4ae-4b3f-bd5f-0b82b3335d95$","1","crowdtap.com/",1,c134
+r10377,3,"^ad3147a3-2eeb-4fed-8926-1fd9e2448a31$","1","crowdtap.com/",1,c134
+r10378,3,"^b731a33b-25cc-4755-ac10-5e79aa460fc7$","1","crowdtap.com/",1,c134
+r10379,3,"^15357f1f-a03f-4abc-94e3-66a9ac55f586$","1","crowdtap.com/",1,c134
+r10380,3,"^88dde22b-f634-401f-9f6b-f91a36cdbc13$","1","crowdtap.com/",1,c134
+r10381,3,"^8593782d-5f56-4b16-95c2-de6ed6a7638a$","1","crowdtap.com/",1,c134
+r10382,3,"^a4e02f9d-956c-4b0f-b727-db11872edbf5$","1","crowdtap.com/",1,c134
+r10383,3,"^bae88ab6-5e63-4d24-bcb9-91274e34e3dd$","1","crowdtap.com/",1,c134
+r10384,3,"^d2d5077d-f859-4829-bd93-bbf91abd1f33$","1","crowdtap.com/",1,c134
+r10385,3,"^2e530489-fa48-47e1-91a2-ef58a1569057$","1","crowdtap.com/",1,c134
+r10386,3,"^1c86908d-bab0-4dd8-8dc3-958f9c462677$","1","crowdtap.com/",1,c134
+r10387,3,"^5cfc2cb5-2706-4ff7-9f34-110dbba27f06$","1","crowdtap.com/",1,c134
+r10388,3,"^3542d2c1-4a0f-4413-be58-4560c1c328d5$","1","crowdtap.com/",1,c134
+r10389,3,"^3cf03d64-dabe-4124-9d1e-1600bbc64b32$","1","crowdtap.com/",1,c134
+r10390,3,"^492ec727-a5ec-4f89-b190-c0f22c757dad$","1","crowdtap.com/",1,c134
+r10391,3,"^dc374b80-feb4-4671-967e-0578059f4a2e$","1","crowdtap.com/",1,c134
+r10392,3,"^6d314c94-3771-4215-8d0d-0ea192b2f491$","1","crowdtap.com/",1,c134
+r10393,3,"^611d97e9-82dd-467d-908d-8774cf96a8f0$","1","crowdtap.com/",1,c134
+r10394,3,"^a9083d07-3187-4434-8104-3cca9183c76d$","1","crowdtap.com/",1,c134
+r10395,3,"^58ec2014-08f9-4440-b718-a24795090b13$","1","crowdtap.com/",1,c134
+r10396,3,"^f9d8e1a7-d508-4467-b18a-e05dd56f322c$","1","crowdtap.com/",1,c134
+r10397,3,"^a1fb6f5d-b8e7-40f7-9146-36fe23ee3d0a$","1","crowdtap.com/",1,c134
+r10398,3,"^3d2c048f-178f-4ba7-870d-c4614834bf10$","1","crowdtap.com/",1,c134
+r10399,3,"^7f855ebb-555a-41a5-9ae1-8e739deb775b$","1","crowdtap.com/",1,c134
+r10400,3,"^08d6f787-3908-4486-b3ac-392c4bc88c78$","1","crowdtap.com/",1,c134
+r10401,3,"^48ae60e9-677e-4e68-9e00-7c2c16bf0308$","1","crowdtap.com/",1,c134
+r10402,3,"^318216e2-88f3-4625-bafe-0635acbe94cc$","1","crowdtap.com/",1,c134
+r10403,3,"^46ec807e-9f32-4096-90fe-76be3853d1cb$","1","crowdtap.com/",1,c134
+r10404,3,"^c5afdcb8-bd0c-45f6-a263-ed552872c9b5$","1","crowdtap.com/",1,c134
+r10405,3,"^b0a39e76-d74c-4b86-9688-f670be653a4a$","1","crowdtap.com/",1,c134
+r10406,3,"^bdd6f081-46ae-4923-b0a5-0885508c2d8d$","1","crowdtap.com/",1,c134
+r10407,3,"^885be6be-a934-452e-bd3a-a22677045e66$","1","crowdtap.com/",1,c134
+r10408,3,"^107818b4-786c-472b-9084-b71603d30750$","1","crowdtap.com/",1,c134
+r10409,3,"^9b2d2dbf-33ae-4cd4-bb17-1ad968869da4$","1","crowdtap.com/",1,c134
+r10410,3,"^ba8f5c94-6f0f-427a-aeeb-645399f5ab74$","1","crowdtap.com/",1,c134
+r10411,3,"^2dede694-85f4-4f6e-bc3f-1dd882506082$","1","crowdtap.com/",1,c134
+r10412,3,"^344fbd19-1a63-4fd6-ae4f-b6ddecdd0bc8$","1","crowdtap.com/",1,c134
+r10413,3,"^e2a28e12-4280-48f9-8340-207d21bfa60d$","1","crowdtap.com/",1,c134
+r10414,3,"^47cc3c94-6cc7-41a2-9c4f-13825ff231d4$","1","crowdtap.com/",1,c134
+r10415,3,"^56e52cef-124d-4ce6-9a66-36144800d1af$","1","crowdtap.com/",1,c134
+r10416,3,"^52105fca-ddbc-49fe-832b-312bfcfe3797$","1","crowdtap.com/",1,c134
+r10417,3,"^38450db7-8914-4155-8c20-409d7fff44db$","1","crowdtap.com/",1,c134
+r10418,3,"^277e0a3b-1bb6-4f5c-b613-5e7d5950de23$","1","crowdtap.com/",1,c134
+r10419,3,"^0b5521dc-899b-4e5c-918d-5898b9420294$","1","crowdtap.com/",1,c134
+r10420,3,"^c3f74699-2e93-4eb2-b9e2-43c2ca9b08e8$","1","crowdtap.com/",1,c134
+r10421,3,"^ed54ac5a-7771-4c36-8510-1876d9cd2e41$","1","crowdtap.com/",1,c134
+r10422,3,"^be779eac-0d76-4618-9959-27ece00ab444$","1","crowdtap.com/",1,c134
+r10423,3,"^5357335d-c3ce-47ac-90a3-a0ea2f81f2c1$","1","crowdtap.com/",1,c134
+r10424,3,"^abb39fa3-e1bb-4e5c-ad04-035091804902$","1","crowdtap.com/",1,c134
+r10425,3,"^5fe366ad-34bc-4ef4-8284-8f83e611b272$","1","crowdtap.com/",1,c134
+r10426,3,"^d492575d-5270-46f0-8718-0ca380764c04$","1","crowdtap.com/",1,c134
+r10427,3,"^68872893-be58-4253-8373-44c65c08e470$","1","crowdtap.com/",1,c134
+r10428,3,"^b408a148-bd8e-4653-bfa9-be3290a8955c$","1","crowdtap.com/",1,c134
+r10429,3,"^560cfee5-ba9c-49a9-97d2-6f8ac0093d7c$","1","crowdtap.com/",1,c134
+r10430,3,"^15e1b45d-5644-4fa9-8b06-ad121f2830de$","1","crowdtap.com/",1,c134
+r10431,3,"^19afe4c6-4f97-4598-9cae-169246c7f526$","1","crowdtap.com/",1,c134
+r10432,3,"^14801ab4-5981-4b2a-a801-edf857c13a51$","1","crowdtap.com/",1,c134
+r10433,3,"^1ed18d26-691f-428f-bc84-e2ab1b9687f3$","1","crowdtap.com/",1,c134
+r10434,3,"^041a9f34-257b-48a0-8af2-e9a684cb9bff$","1","crowdtap.com/",1,c134
+r10435,3,"^I have tried at-home teeth whitening products in the past$","1","crowdtap.com/",1,c134
+r10436,3,"^0a454c0d-ad54-4754-9662-e634c4bfcbb8$","1","crowdtap.com/",1,c134
+r10437,3,"^d4c05dbe-1c97-4720-86df-c50dcad6f54c$","1","crowdtap.com/",1,c134
+r10438,3,"^fa01c55c-e2e2-4fef-ab01-c057f9e5dca9$","1","crowdtap.com/",1,c134
+r10439,3,"^d6a31d53-399a-4c19-9449-63bd7977fc1c$","1","crowdtap.com/",1,c134
+r10440,3,"^f855f1e1-728f-4ba0-84b4-a1060cf8a424$","1","crowdtap.com/",1,c134
+r10441,3,"^28b29647-32d7-4c01-95fd-7270cc326648$","1","crowdtap.com/",1,c134
+r10442,3,"^71f657d7-692e-43a4-afb9-0527cbed8049$","1","crowdtap.com/",1,c134
+r10443,3,"^44eb1bbb-2d64-4299-9103-65163feef483$","1","crowdtap.com/",1,c134
+r10444,3,"^97d968cb-ef8b-4dca-9de5-f6ad98f535b6$","1","crowdtap.com/",1,c130
+r10445,3,"^91e2ca28-9c43-4d98-9ad7-54536589da08$","1","crowdtap.com/",1,c130
+r10446,3,"^5b6b3266-db1e-4905-ac58-53a120baac84$","1","crowdtap.com/",1,c130
+r10447,3,"^7ed7ae75-280c-4466-90f8-2dc37d1ccd21$","1","crowdtap.com/",1,c130
+r10448,3,"^028cdc10-b8b5-4278-aa39-954e15e1388c$","1","crowdtap.com/",1,c130
+r10449,3,"^aca63243-a9cf-4f98-a6e2-57aea66f3b6b$","1","crowdtap.com/",1,c130
+r10450,3,"^b939e730-7da4-4ee8-b1a6-208e6edb0b72$","1","crowdtap.com/",1,c130
+r10451,3,"^6dd0b2ad-a348-47d2-a32d-e8cd045ae365$","1","crowdtap.com/",1,c130
+r10452,3,"^6e91be35-821e-4330-894a-c523854bd233$","1","crowdtap.com/",1,c130
+r10453,3,"^1afdf72a-5642-41bb-b519-34bcad7d9a49$","1","crowdtap.com/",1,c130
+r10454,3,"^0d9a7844-0283-4329-ae3f-b66b75ecb793$","1","crowdtap.com/",1,c130
+r10455,3,"^25111850-0bf9-4230-bb52-62562e2a39f2$","1","crowdtap.com/",1,c130
+r10456,3,"^c22c0f40-f77f-4af6-b3ef-5dbab39ad34e$","1","crowdtap.com/",1,c130
+r10457,3,"^0b6da7c4-d9aa-451f-89bc-27992c499dfd$","1","crowdtap.com/",1,c130
+r10458,3,"^5adcc52c-5d13-41fe-b74d-1044dddf3a99$","1","crowdtap.com/",1,c130
+r10459,3,"^2b2bdd17-3e8d-4632-a2c1-8e9ac258f3e9$","1","crowdtap.com/",1,c130
+r10460,3,"^e45d8a39-d577-426c-a5ad-0827acab67be$","1","crowdtap.com/",1,c130
+r10461,3,"^45b8bd71-9694-4ed8-a4fc-438899b6455b$","1","crowdtap.com/",1,c130
+r10462,3,"^0b6900ca-d858-4ef1-8d2e-d0dc71120fbd$","1","crowdtap.com/",1,c130
+r10463,3,"^90bb9987-7427-40b5-b23e-632fce540523$","1","crowdtap.com/",1,c130
+r10464,3,"^d0fe0342-ad3e-4ecd-9a61-7efd3a216e4b$","1","crowdtap.com/",1,c130
+r10465,3,"^affaa1c2-232a-4549-b48a-ab842d6bb37c$","1","crowdtap.com/",1,c130
+r10466,3,"^ce0df262-bec9-43d5-a868-bb01ce39019c$","1","crowdtap.com/",1,c130
+r10467,3,"^897ddecb-8c41-45f6-9bf6-c8eac3cdbf52$","1","crowdtap.com/",1,c130
+r10468,3,"^73c08ef8-84b8-4a9d-82a7-ff5a03668253$","1","crowdtap.com/",1,c130
+r10469,3,"^ad810607-42ac-428c-bbe9-2dd68d0be462$","1","crowdtap.com/",1,c130
+r10470,3,"^73cadf24-e547-4b82-8cb0-288265c9c5ff$","1","crowdtap.com/",1,c130
+r10471,3,"^349bb191-100e-4cb7-bcca-aaaff128f3c5$","1","crowdtap.com/",1,c130
+r10472,3,"^ca4d1fd7-c461-41f8-b6e8-338aba70fcc3$","1","crowdtap.com/",1,c130
+r10473,3,"^1e4e1748-2d54-44cf-bfb7-5e17175b1dfb$","1","crowdtap.com/",1,c130
+r10474,3,"^c125ed41-d674-4830-a94b-128b67e8f0b2$","1","crowdtap.com/",1,c130
+r10475,3,"^bd2a69bc-2f6c-4b4f-b975-088737c75d8a$","1","crowdtap.com/",1,c130
+r10476,3,"^800d523d-cea5-409d-8981-c9135c9800d2$","1","crowdtap.com/",1,c130
+r10477,3,"^1980615d-9e25-4a55-b904-47ae7c5ee1cd$","1","crowdtap.com/",1,c130
+r10478,3,"^77c7e84e-a3f7-4738-bb55-f0c93e03e821$","1","crowdtap.com/",1,c130
+r10479,3,"^606a2dc1-e34b-4348-a1cd-abdddf556934$","1","crowdtap.com/",1,c130
+r10480,3,"^6b6723de-57d0-457e-ae3a-3a8ed443bd8b$","1","crowdtap.com/",1,c130
+r10481,3,"^4da5715b-3a9d-4c65-bd3a-985efb471c3e$","1","crowdtap.com/",1,c130
+r10482,3,"^11d91ebe-1ffa-4839-8560-6d3df421c47b$","1","crowdtap.com/",1,c130
+r10483,3,"^ac833769-a0ca-44eb-9421-ee97d02708a8$","1","crowdtap.com/",1,c130
+r10484,3,"^3b89d7b4-8568-4088-aebf-e3967a8f6780$","1","crowdtap.com/",1,c130
+r10485,3,"^5ed3ae2f-ccf3-41ff-a62d-af6d20c83da4$","1","crowdtap.com/",1,c130
+r10486,3,"^6f2e11eb-70a3-48f2-ba2a-501cc041db72$","1","crowdtap.com/",1,c130
+r10487,3,"^fbca09f4-06fc-4ae1-9838-aef952120c72$","1","crowdtap.com/",1,c130
+r10488,3,"^f6054f54-0f9d-4095-b725-439ca27f9017$","1","crowdtap.com/",1,c130
+r10489,3,"^99023e61-5f9f-4fa5-83f6-c8f816221132$","1","crowdtap.com/",1,c130
+r10490,3,"^c6354527-ea60-4012-97e0-196b54a282da$","1","crowdtap.com/",1,c130
+r10491,3,"^fb848325-42a4-459d-8d67-ddcaebbc8fcd$","1","crowdtap.com/",1,c130
+r10492,0,"input\[_ngcontent-kbf-c82\]","600","crowdtap.com/",1,c130
+r10493,3,"^7335ea21-989c-4a0f-95ab-44e5cbfa6e05$","1","crowdtap.com/",1,c130
+r10494,3,"^0e2100f1-1ae5-46df-af66-a99dd0a599c1$","1","crowdtap.com/",1,c130
+r10495,3,"^d994f9ab-b879-4a17-aa09-96f8d3d17195$","1","crowdtap.com/",1,c130
+r10496,3,"^09c46be8-abb3-4253-92e0-02eb194598e2$","1","crowdtap.com/",1,c130
+r10497,3,"^7c3a6259-c752-4b49-aba2-adf42ce5de70$","1","crowdtap.com/",1,c130
+r10498,3,"^a9e73baa-7c37-4350-b0f0-7b68ff2d41e1$","1","crowdtap.com/",1,c130
+r10499,3,"^9b7a9b59-4843-449e-b59a-dfd24611b2e9$","1","crowdtap.com/",1,c130
+r10500,3,"^7cf78e02-fabb-4d93-b40b-ae782f981083$","1","crowdtap.com/",1,c130
+r10501,3,"^207cd049-1c50-40b0-9259-9a8b367ffd19$","1","crowdtap.com/",1,c130
+r10502,3,"^7a845f53-e558-40df-b827-bc4898c8bc23$","1","crowdtap.com/",1,c130
+r10503,3,"^d583dc22-b51f-4be9-9bab-d43750502430$","1","crowdtap.com/",1,c130
+r10504,3,"^b8053eb3-0224-44cc-8a67-e4b2c2555ff1$","1","crowdtap.com/",1,c130
+r10505,3,"^82deff5d-a2d1-48ce-bd63-4db304b8812f$","1","crowdtap.com/",1,c130
+r10506,3,"^14904769-ac13-4072-b39e-75fb4393362a$","1","crowdtap.com/",1,c130
+r10507,3,"^0d073b3b-8155-46d7-8dac-a6a95636feb8$","1","crowdtap.com/",1,c130
+r10508,3,"^f9b3f2b5-0ae4-40b8-82c6-e8e8da83b22c$","1","crowdtap.com/",1,c130
+r10509,3,"^7746e0ee-30ad-40c6-9203-49ffd1260e72$","1","crowdtap.com/",1,c95
+r10510,3,"^67cb7ffb-2358-4584-a86e-3aab4500979f$","1","crowdtap.com/",1,c95
+r10511,3,"^3b7b4df0-ec0e-497c-aa07-4c6fbf8097ec$","1","crowdtap.com/",1,c95
+r10512,3,"^956168d5-3f44-4d84-967a-58ef13e666be$","1","crowdtap.com/",1,c95
+r10513,3,"^9a327b8c-df45-4718-b8ad-efe02416656c$","1","crowdtap.com/",1,c95
+r10514,3,"^27d74ff2-60f6-40e3-aba2-76dcc9231eda$","1","crowdtap.com/",1,c95
+r10515,3,"^d40e1ba4-91f2-4853-966b-3757b147022d$","1","crowdtap.com/",1,c95
+r10516,3,"^309184ae-545f-466c-a4fc-a0c4e87f0171$","1","crowdtap.com/",1,c95
+r10517,3,"^893bb285-0e8b-40e9-b1b0-11ea2e7afd28$","1","crowdtap.com/",1,c95
+r10518,3,"^7066db6f-cdd3-44d3-bc49-cf8fe3779cd5$","1","crowdtap.com/",1,c95
+r10519,3,"^4bc809a1-b8c5-4cea-b4f2-afc8e4faf75b$","1","crowdtap.com/",1,c95
+r10520,3,"^1491b288-8c64-4991-9da9-79e00265f045$","1","crowdtap.com/",1,c95
+r10521,3,"^6a5d8767-08d7-4d2f-b2db-94a5b6488e69$","1","crowdtap.com/",1,c95
+r10522,3,"^b01fae45-4adb-4882-ba3d-f3b1af9e641e$","1","crowdtap.com/",1,c95
+r10523,3,"^1f117feb-ba83-4e79-bf51-647d787caf47$","1","crowdtap.com/",1,c95
+r10524,3,"^78ad3671-02b0-4466-b768-d1025618deaa$","1","crowdtap.com/",1,c95
+r10525,3,"^eddb4770-0a3b-4a35-884d-4702754090d7$","1","crowdtap.com/",1,c95
+r10526,3,"^b7fb93d9-5358-4f69-a1f4-86189512ed81$","1","crowdtap.com/",1,c95
+r10527,3,"^e4c208aa-ca1a-49c5-991e-e913a7082655$","1","crowdtap.com/",1,c95
+r10528,3,"^ca476f95-2ce3-4b01-9a05-d1aa0a82ba7e$","1","crowdtap.com/",1,c95
+r10529,3,"^ab86e552-8b5a-4616-8122-e2636dad7018$","1","crowdtap.com/",1,c95
+r10530,3,"^12014ad5-ae91-4ae2-b710-9b05570f3bcd$","1","crowdtap.com/",1,c95
+r10531,3,"^3dfaebd0-ae2c-47c4-bc01-8afaa5fe8102$","1","crowdtap.com/",1,c95
+r10532,3,"^9f3ec2fb-d21e-49ca-bb5e-8ccfdba68d49$","1","crowdtap.com/",1,c95
+r10533,3,"^2ae732fb-88d2-4707-a18e-5580b3826f11$","1","crowdtap.com/",1,c95
+r10534,3,"^1a9e5cbe-11a5-408f-94f0-87b6d7b286e8$","1","crowdtap.com/",1,c95
+r10535,3,"^fad09aae-ddc4-4395-a165-f23dac80efc2$","1","crowdtap.com/",1,c95
+r10536,3,"^9c7549a3-f42e-4cb1-8d42-e89612668e97$","1","crowdtap.com/",1,c95
+r10537,3,"^40a8ce5e-f91f-4afc-bc35-6976385e5c3f$","1","crowdtap.com/",1,c95
+r10538,3,"^3fb75a16-28c6-49ab-85de-a677bfcd6677$","1","crowdtap.com/",1,c95
+r10539,3,"^b37e49f3-5e0c-44db-b2b9-dc1f5ad3f3f9$","1","crowdtap.com/",1,c95
+r10540,3,"^3b32f31b-6b37-4264-bfda-b5e6048bf0f6$","1","crowdtap.com/",1,c95
+r10541,3,"^cc76d97b-74f1-43b8-955d-84f7a74df507$","1","crowdtap.com/",1,c95
+r10542,3,"^244d5513-1f43-4786-b1bb-b25e06787581$","1","crowdtap.com/",1,c95
+r10543,3,"^b25a41da-ff1a-4a3a-bde7-886427d1676d$","1","crowdtap.com/",1,c95
+r10544,3,"^868980f6-8477-456f-bd9f-d9631708da4e$","1","crowdtap.com/",1,c95
+r10545,3,"^e53f2048-c3e2-4660-a4c1-9fd2be392380$","1","crowdtap.com/",1,c95
+r10546,3,"^cf26f705-3bdf-46f9-bd5d-5ce752925dc4$","1","crowdtap.com/",1,c95
+r10547,3,"^26347161-f22d-456e-8d1a-993b74dbaabf$","1","crowdtap.com/",1,c95
+r10548,3,"^62e0b849-e740-438c-8a67-1e7187237223$","1","crowdtap.com/",1,c95
+r10549,3,"^2fe137a3-f8d8-4b36-ad5e-c291f7ba7785$","1","crowdtap.com/",1,c95
+r10550,3,"^ea19d267-dfa8-4ec9-8e46-2a468861d654$","1","crowdtap.com/",1,c95
+r10551,3,"^283a7396-771d-4284-b23a-c3e4815de0be$","1","crowdtap.com/",1,c95
+r10552,3,"^3ac00cee-a169-487e-96b7-6bdd056caf45$","1","crowdtap.com/",1,c95
+r10553,3,"^d3af8b14-5951-41e7-983a-6745d2c708e2$","1","crowdtap.com/",1,c95
+r10554,3,"^Dollar General$","1","crowdtap.com/",1,c95
+r10555,3,"^Walmart$","1","crowdtap.com/",1,c95
+r10556,3,"^Target$","1","crowdtap.com/",1,c95
+r10557,3,"^I believe high quality ingredients are worth paying more for$","1","crowdtap.com/",1,c95
+r10558,3,"^I tend to stick to my favorite brands when shopping for food$","1","crowdtap.com/",1,c95
+r10559,3,"^I prefer to support brands that align with my values$","1","crowdtap.com/",1,c95
+r10560,3,"^I keep frozen meals on hand$","1","crowdtap.com/",1,c95
+r10561,3,"^I’m always looking for new brands/products to try$","1","crowdtap.com/",1,c95
+r10562,3,"^I love quality pre-prepared foods to help me save time when cooking$","1","crowdtap.com/",1,c95
+r10563,3,"^e14c2cde-2455-4723-9f11-859879da4dc7$","1","crowdtap.com/",1,c95
 r10564,3,"^e99b76fc-87ef-4235-8b13-c1473598f17d$","1","",1,c298
 r10565,3,"^98971ed6-9d70-4db7-a69b-027d04f23295$","1","",1,c298
 r10566,3,"^324a37a7-2a29-45bf-a11a-62331f473371$","1","",1,c298
@@ -10341,40 +10338,40 @@ r10612,0,"\[data-track=""member-scale-grid-slider-2""\]","600","",1,c301
 r10613,3,"^1f138deb-7921-4a63-90e0-a219d8612f12$","1","",1,c301
 r10614,3,"^78b1219f-9e19-423d-a805-74ebdb1939cb$","1","",1,c301
 r10615,3,"^bc1db877-2823-4bf0-9d58-386bfb571b39$","1","",1,c301
-r10616,3,"^bd2a0ab2-54df-430a-a811-f91b4c30c891$","1","crowdtap.com/dashboard",1,c202
-r10617,3,"^39c66989-ab56-4fe0-bcbe-0a78492d1dec$","1","crowdtap.com/dashboard",1,c202
-r10618,3,"^34871514-2f28-4727-8bc3-d7d6d35e11c9$","1","crowdtap.com/dashboard",1,c202
-r10619,3,"^60596c4a-b641-4119-903c-06ce47acf063$","1","crowdtap.com/dashboard",1,c202
-r10620,3,"^4d66165b-6b8a-46c7-af68-f72f062e7d69$","1","crowdtap.com/dashboard",1,c202
-r10621,3,"^d9f18ea5-a0ff-4d9d-89b9-627f8f8a9286$","1","crowdtap.com/dashboard",1,c202
-r10622,3,"^0bcc9804-93c3-49bf-be64-037f3ffbc58e$","1","crowdtap.com/dashboard",1,c202
-r10623,3,"^83aba8b8-3c2f-4cb1-a9ac-c622e0e941a3$","1","crowdtap.com/dashboard",1,c202
-r10624,3,"^aa8dbf93-7d2e-4b89-b15b-3d36088768e2$","1","crowdtap.com/dashboard",1,c202
-r10625,3,"^b139e4d6-165b-4408-bcce-907b2fc10a4d$","1","crowdtap.com/dashboard",1,c202
-r10626,3,"^I plan on buying a handbag for myself in the next year$","1","crowdtap.com/dashboard",1,c202
-r10627,3,"^8fe05eb8-24de-45b0-b0ee-834cb83ae03a$","1","crowdtap.com/dashboard",1,c202
-r10628,3,"^8ac3c252-518f-4717-9ab7-2884d619c36e$","1","crowdtap.com/dashboard",1,c202
-r10629,3,"^57138e4a-8166-4968-a90d-43f1a300dc79$","1","crowdtap.com/dashboard",1,c202
-r10630,3,"^58f8a242-c5af-488d-876b-026456ea3db1$","1","crowdtap.com/dashboard",1,c202
-r10631,3,"^7bcef6b9-12e8-4015-8795-69fe2748eaaa$","1","crowdtap.com/dashboard",1,c202
-r10632,3,"^7e76f170-97d8-4da7-be0c-a376bda606e8$","1","crowdtap.com/dashboard",1,c202
-r10633,3,"^aa227c99-875a-41fb-8592-e54c7234896f$","1","crowdtap.com/dashboard",1,c202
-r10634,3,"^d0132c05-f3ec-4d69-bee1-fdabbfe7c08a$","1","crowdtap.com/dashboard",1,c202
-r10635,3,"^640200a8-9385-4fe3-aa34-22f0daad0147$","1","crowdtap.com/dashboard",1,c202
-r10636,3,"^3dbd2d13-ba1d-410f-9461-02ccbc16028e$","1","crowdtap.com/dashboard",1,c202
-r10637,3,"^f8751aaa-003e-4fdf-a946-06aec36492d4$","1","crowdtap.com/dashboard",1,c202
-r10638,3,"^a6bf859e-b5c2-47e7-8328-be2c70201bab$","1","crowdtap.com/dashboard",1,c202
-r10639,3,"^ebca9b97-8bcd-4241-85ba-917e68ab9c7e$","1","crowdtap.com/dashboard",1,c202
-r10640,3,"^ee3bd703-044a-4a95-9c3d-91305e13cfcd$","1","crowdtap.com/dashboard",1,c202
-r10641,3,"^027a6238-217c-4db0-9c10-88c7ec5a8036$","1","crowdtap.com/dashboard",1,c202
-r10642,3,"^88649896-de9f-4c7c-bb61-5be5f5c484e2$","1","crowdtap.com/dashboard",1,c202
-r10643,3,"^945cac12-cff3-4212-8b45-4570fb84dd5b$","1","crowdtap.com/dashboard",1,c202
-r10644,3,"^76d4f10a-d26a-40cf-93b7-f8c9e87cb98d$","1","crowdtap.com/dashboard",1,c202
-r10645,3,"^5af97949-4ed9-4890-9e30-ce8c424bc0ed$","1","crowdtap.com/dashboard",1,c202
-r10646,3,"^6065a7b0-4a10-4691-a086-e80a78146d4b$","1","crowdtap.com/dashboard",1,c202
-r10647,3,"^5- Extremely Important$","1","crowdtap.com/dashboard",1,c202
-r10648,3,"^l am the ‘planner’ of the friend group$","1","crowdtap.com/dashboard",1,c202
-r10649,3,"^Agree$","1","crowdtap.com/dashboard",1,c202
+r10616,3,"^bd2a0ab2-54df-430a-a811-f91b4c30c891$","1","crowdtap.com/",1,c202
+r10617,3,"^39c66989-ab56-4fe0-bcbe-0a78492d1dec$","1","crowdtap.com/",1,c202
+r10618,3,"^34871514-2f28-4727-8bc3-d7d6d35e11c9$","1","crowdtap.com/",1,c202
+r10619,3,"^60596c4a-b641-4119-903c-06ce47acf063$","1","crowdtap.com/",1,c202
+r10620,3,"^4d66165b-6b8a-46c7-af68-f72f062e7d69$","1","crowdtap.com/",1,c202
+r10621,3,"^d9f18ea5-a0ff-4d9d-89b9-627f8f8a9286$","1","crowdtap.com/",1,c202
+r10622,3,"^0bcc9804-93c3-49bf-be64-037f3ffbc58e$","1","crowdtap.com/",1,c202
+r10623,3,"^83aba8b8-3c2f-4cb1-a9ac-c622e0e941a3$","1","crowdtap.com/",1,c202
+r10624,3,"^aa8dbf93-7d2e-4b89-b15b-3d36088768e2$","1","crowdtap.com/",1,c202
+r10625,3,"^b139e4d6-165b-4408-bcce-907b2fc10a4d$","1","crowdtap.com/",1,c202
+r10626,3,"^I plan on buying a handbag for myself in the next year$","1","crowdtap.com/",1,c202
+r10627,3,"^8fe05eb8-24de-45b0-b0ee-834cb83ae03a$","1","crowdtap.com/",1,c202
+r10628,3,"^8ac3c252-518f-4717-9ab7-2884d619c36e$","1","crowdtap.com/",1,c202
+r10629,3,"^57138e4a-8166-4968-a90d-43f1a300dc79$","1","crowdtap.com/",1,c202
+r10630,3,"^58f8a242-c5af-488d-876b-026456ea3db1$","1","crowdtap.com/",1,c202
+r10631,3,"^7bcef6b9-12e8-4015-8795-69fe2748eaaa$","1","crowdtap.com/",1,c202
+r10632,3,"^7e76f170-97d8-4da7-be0c-a376bda606e8$","1","crowdtap.com/",1,c202
+r10633,3,"^aa227c99-875a-41fb-8592-e54c7234896f$","1","crowdtap.com/",1,c202
+r10634,3,"^d0132c05-f3ec-4d69-bee1-fdabbfe7c08a$","1","crowdtap.com/",1,c202
+r10635,3,"^640200a8-9385-4fe3-aa34-22f0daad0147$","1","crowdtap.com/",1,c202
+r10636,3,"^3dbd2d13-ba1d-410f-9461-02ccbc16028e$","1","crowdtap.com/",1,c202
+r10637,3,"^f8751aaa-003e-4fdf-a946-06aec36492d4$","1","crowdtap.com/",1,c202
+r10638,3,"^a6bf859e-b5c2-47e7-8328-be2c70201bab$","1","crowdtap.com/",1,c202
+r10639,3,"^ebca9b97-8bcd-4241-85ba-917e68ab9c7e$","1","crowdtap.com/",1,c202
+r10640,3,"^ee3bd703-044a-4a95-9c3d-91305e13cfcd$","1","crowdtap.com/",1,c202
+r10641,3,"^027a6238-217c-4db0-9c10-88c7ec5a8036$","1","crowdtap.com/",1,c202
+r10642,3,"^88649896-de9f-4c7c-bb61-5be5f5c484e2$","1","crowdtap.com/",1,c202
+r10643,3,"^945cac12-cff3-4212-8b45-4570fb84dd5b$","1","crowdtap.com/",1,c202
+r10644,3,"^76d4f10a-d26a-40cf-93b7-f8c9e87cb98d$","1","crowdtap.com/",1,c202
+r10645,3,"^5af97949-4ed9-4890-9e30-ce8c424bc0ed$","1","crowdtap.com/",1,c202
+r10646,3,"^6065a7b0-4a10-4691-a086-e80a78146d4b$","1","crowdtap.com/",1,c202
+r10647,3,"^5- Extremely Important$","1","crowdtap.com/",1,c202
+r10648,3,"^l am the ‘planner’ of the friend group$","1","crowdtap.com/",1,c202
+r10649,3,"^Agree$","1","crowdtap.com/",1,c202
 r10650,3,"^7ad2c67a-caf9-4242-8df8-e1c73f5f4590$","1","",1,c302
 r10651,3,"^fde42cf1-433f-43f7-a39f-0361018d43d6$","1","",1,c302
 r10652,3,"^9ec42597-26c7-43f3-a8c6-c607b34353aa$","1","",1,c302
@@ -10448,48 +10445,48 @@ r10721,3,"^68d94b27-10dc-4f01-a80d-feaa452265a3$","1","",1,c304
 r10722,3,"^f18c94f2-cf45-48f3-aff3-0242529a66a9$","1","",1,c304
 r10723,3,"^337ea280-b5c6-4c72-81fd-65d13692d035$","1","",1,c304
 r10724,3,"^3d76a981-583d-4cfa-a03d-aa03988971ec$","1","",1,c304
-r10725,3,"^dde69ade-6c27-49b1-a0ab-0750de54ee78$","1","crowdtap.com/dashboard",1,c222
-r10726,3,"^5b039798-c785-45b2-b70f-93cd58fd1de0$","1","crowdtap.com/dashboard",1,c222
-r10727,3,"^b76d814a-1346-4b1e-9dc8-8516b7cc2864$","1","crowdtap.com/dashboard",1,c222
-r10728,3,"^8ed0d861-610d-46b7-8354-79c7f0c12259$","1","crowdtap.com/dashboard",1,c222
-r10729,3,"^c50dc179-a325-47b7-a233-8edeb819e463$","1","crowdtap.com/dashboard",1,c222
-r10730,3,"^4af64a0f-485d-46a8-a2fa-17cb9a52dacf$","1","crowdtap.com/dashboard",1,c222
-r10731,3,"^4a97b4ae-f36d-4ba1-8d78-46f3bfaa1660$","1","crowdtap.com/dashboard",1,c222
-r10732,3,"^d1b14a78-c0a6-4161-baa2-bcc96420a5e6$","1","crowdtap.com/dashboard",1,c254
-r10733,3,"^26c385fa-19f8-4be9-ab9a-b28275e1cda7$","1","crowdtap.com/dashboard",1,c254
-r10734,3,"^With employees$","1","crowdtap.com/dashboard",1,c254
-r10735,3,"^c6162147-e896-4ce9-983a-621d482d60b0$","1","crowdtap.com/dashboard",1,c254
-r10736,3,"^72266584-c9c0-41b6-bd7b-04c86cd5a3d3$","1","crowdtap.com/dashboard",1,c254
-r10737,3,"^4a82387d-c973-456e-acff-962295ba72f9$","1","crowdtap.com/dashboard",1,c254
-r10738,3,"^fd7e3ae2-9e5c-4b28-b77c-520365844486$","1","crowdtap.com/dashboard",1,c254
-r10739,3,"^0ba34e67-73a1-4bf4-8cff-1b027d82d2e8$","1","crowdtap.com/dashboard",1,c254
-r10740,3,"^eabb6f1f-72c5-4d9d-bd0b-a929bb30c7e0$","1","crowdtap.com/dashboard",1,c254
-r10741,3,"^3bd9d2b9-a38d-4365-80ad-12ecc5aa6ce5$","1","crowdtap.com/dashboard",1,c254
-r10742,3,"^25360deb-65f4-4ff9-b963-9c85b60ae625$","1","crowdtap.com/dashboard",1,c254
-r10743,3,"^b863f334-0ab3-4bf6-9707-562fb58a55b4$","1","crowdtap.com/dashboard",1,c254
-r10744,3,"^8957ad17-8509-4264-acaf-c939208c47ba$","1","crowdtap.com/dashboard",1,c254
-r10745,3,"^0af6c42a-8d41-4fa9-91a6-beba9399ef15$","1","crowdtap.com/dashboard",1,c254
-r10746,3,"^0773af3e-8d9d-490c-b70d-0659485f28d9$","1","crowdtap.com/dashboard",1,c254
-r10747,3,"^f1369c83-c0fd-41c7-a8b6-d028e9caae9c$","1","crowdtap.com/dashboard",1,c254
-r10748,3,"^9a668375-993f-4892-a0e4-cf244cef24e5$","1","crowdtap.com/dashboard",1,c254
-r10749,3,"^a440f309-ffd4-43c2-82f7-28f5ae053b75$","1","crowdtap.com/dashboard",1,c254
-r10750,3,"^c3537151-61f4-4618-ad9d-d8991977eba2$","1","crowdtap.com/dashboard",1,c254
-r10751,3,"^eae387a2-94da-4499-836c-359e486772ae$","1","crowdtap.com/dashboard",1,c254
-r10752,3,"^5fafd488-504f-46f2-8a59-b4cd0bc03bda$","1","crowdtap.com/dashboard",1,c254
-r10753,3,"^f6f1cc0f-982b-48ab-be11-74cf2535e78a$","1","crowdtap.com/dashboard",1,c254
-r10754,3,"^dd5d410a-bcaf-4217-8b98-2f4a9d5fe63d$","1","crowdtap.com/dashboard",1,c254
-r10755,3,"^cbca3631-0318-4225-a10e-6cb82be9d3ef$","1","crowdtap.com/dashboard",1,c254
-r10756,3,"^40125bd2-18b9-4450-9979-798229daf6d4$","1","crowdtap.com/dashboard",1,c254
-r10757,3,"^6d72c148-efb5-432a-b720-7d4b39458a51$","1","crowdtap.com/dashboard",1,c254
-r10758,3,"^12962240-a5e4-444a-a679-aed761fd4654$","1","crowdtap.com/dashboard",1,c254
-r10759,3,"^93060e04-9ec8-4ec2-8188-180fcaaff0bd$","1","crowdtap.com/dashboard",1,c254
-r10760,3,"^4b2d9802-608b-4ffa-8c9a-25a9be06a7e6$","1","crowdtap.com/dashboard",1,c254
-r10761,3,"^efa4746c-5846-40de-a311-be734bf5648d$","1","crowdtap.com/dashboard",1,c254
-r10762,3,"^6f3a84ab-de47-47f9-8222-1c67b60bedc9$","1","crowdtap.com/dashboard",1,c254
-r10763,3,"^ca419ad4-bf7d-4c4c-9bef-60c4825183a5$","1","crowdtap.com/dashboard",1,c254
-r10764,3,"^a58d2e82-2cfa-40c4-beb1-3d0ea8c2609e$","1","crowdtap.com/dashboard",1,c254
-r10765,3,"^a94d730a-9fd7-4a6e-9b4e-a228d6690657$","1","crowdtap.com/dashboard",1,c254
-r10766,3,"^0ae700f2-47a6-4f3b-9cd1-2d7bb4bca7d2$","1","crowdtap.com/dashboard",1,c254
+r10725,3,"^dde69ade-6c27-49b1-a0ab-0750de54ee78$","1","crowdtap.com/",1,c222
+r10726,3,"^5b039798-c785-45b2-b70f-93cd58fd1de0$","1","crowdtap.com/",1,c222
+r10727,3,"^b76d814a-1346-4b1e-9dc8-8516b7cc2864$","1","crowdtap.com/",1,c222
+r10728,3,"^8ed0d861-610d-46b7-8354-79c7f0c12259$","1","crowdtap.com/",1,c222
+r10729,3,"^c50dc179-a325-47b7-a233-8edeb819e463$","1","crowdtap.com/",1,c222
+r10730,3,"^4af64a0f-485d-46a8-a2fa-17cb9a52dacf$","1","crowdtap.com/",1,c222
+r10731,3,"^4a97b4ae-f36d-4ba1-8d78-46f3bfaa1660$","1","crowdtap.com/",1,c222
+r10732,3,"^d1b14a78-c0a6-4161-baa2-bcc96420a5e6$","1","crowdtap.com/",1,c254
+r10733,3,"^26c385fa-19f8-4be9-ab9a-b28275e1cda7$","1","crowdtap.com/",1,c254
+r10734,3,"^With employees$","1","crowdtap.com/",1,c254
+r10735,3,"^c6162147-e896-4ce9-983a-621d482d60b0$","1","crowdtap.com/",1,c254
+r10736,3,"^72266584-c9c0-41b6-bd7b-04c86cd5a3d3$","1","crowdtap.com/",1,c254
+r10737,3,"^4a82387d-c973-456e-acff-962295ba72f9$","1","crowdtap.com/",1,c254
+r10738,3,"^fd7e3ae2-9e5c-4b28-b77c-520365844486$","1","crowdtap.com/",1,c254
+r10739,3,"^0ba34e67-73a1-4bf4-8cff-1b027d82d2e8$","1","crowdtap.com/",1,c254
+r10740,3,"^eabb6f1f-72c5-4d9d-bd0b-a929bb30c7e0$","1","crowdtap.com/",1,c254
+r10741,3,"^3bd9d2b9-a38d-4365-80ad-12ecc5aa6ce5$","1","crowdtap.com/",1,c254
+r10742,3,"^25360deb-65f4-4ff9-b963-9c85b60ae625$","1","crowdtap.com/",1,c254
+r10743,3,"^b863f334-0ab3-4bf6-9707-562fb58a55b4$","1","crowdtap.com/",1,c254
+r10744,3,"^8957ad17-8509-4264-acaf-c939208c47ba$","1","crowdtap.com/",1,c254
+r10745,3,"^0af6c42a-8d41-4fa9-91a6-beba9399ef15$","1","crowdtap.com/",1,c254
+r10746,3,"^0773af3e-8d9d-490c-b70d-0659485f28d9$","1","crowdtap.com/",1,c254
+r10747,3,"^f1369c83-c0fd-41c7-a8b6-d028e9caae9c$","1","crowdtap.com/",1,c254
+r10748,3,"^9a668375-993f-4892-a0e4-cf244cef24e5$","1","crowdtap.com/",1,c254
+r10749,3,"^a440f309-ffd4-43c2-82f7-28f5ae053b75$","1","crowdtap.com/",1,c254
+r10750,3,"^c3537151-61f4-4618-ad9d-d8991977eba2$","1","crowdtap.com/",1,c254
+r10751,3,"^eae387a2-94da-4499-836c-359e486772ae$","1","crowdtap.com/",1,c254
+r10752,3,"^5fafd488-504f-46f2-8a59-b4cd0bc03bda$","1","crowdtap.com/",1,c254
+r10753,3,"^f6f1cc0f-982b-48ab-be11-74cf2535e78a$","1","crowdtap.com/",1,c254
+r10754,3,"^dd5d410a-bcaf-4217-8b98-2f4a9d5fe63d$","1","crowdtap.com/",1,c254
+r10755,3,"^cbca3631-0318-4225-a10e-6cb82be9d3ef$","1","crowdtap.com/",1,c254
+r10756,3,"^40125bd2-18b9-4450-9979-798229daf6d4$","1","crowdtap.com/",1,c254
+r10757,3,"^6d72c148-efb5-432a-b720-7d4b39458a51$","1","crowdtap.com/",1,c254
+r10758,3,"^12962240-a5e4-444a-a679-aed761fd4654$","1","crowdtap.com/",1,c254
+r10759,3,"^93060e04-9ec8-4ec2-8188-180fcaaff0bd$","1","crowdtap.com/",1,c254
+r10760,3,"^4b2d9802-608b-4ffa-8c9a-25a9be06a7e6$","1","crowdtap.com/",1,c254
+r10761,3,"^efa4746c-5846-40de-a311-be734bf5648d$","1","crowdtap.com/",1,c254
+r10762,3,"^6f3a84ab-de47-47f9-8222-1c67b60bedc9$","1","crowdtap.com/",1,c254
+r10763,3,"^ca419ad4-bf7d-4c4c-9bef-60c4825183a5$","1","crowdtap.com/",1,c254
+r10764,3,"^a58d2e82-2cfa-40c4-beb1-3d0ea8c2609e$","1","crowdtap.com/",1,c254
+r10765,3,"^a94d730a-9fd7-4a6e-9b4e-a228d6690657$","1","crowdtap.com/",1,c254
+r10766,3,"^0ae700f2-47a6-4f3b-9cd1-2d7bb4bca7d2$","1","crowdtap.com/",1,c254
 r10767,3,"^c35fa45a-8a66-4968-9c99-64513d0d14cc$","1","",1,c305
 r10768,3,"^ee0f5f8a-c5d8-4860-8b63-3eee77ff41ff$","1","",1,c305
 r10769,3,"^9b02b104-12d8-4517-9513-b528dc1b06a7$","1","",1,c305
@@ -10518,88 +10515,88 @@ r10791,3,"^Plant-based milk \(including almond, oat, soy, coconut, etc.\)$","1",
 r10792,3,"^Plant-based creamers \(made from almond, oat, soy, coconut, etc.\)$","1","",1,c306
 r10793,3,"^Half-and-half$","1","",1,c306
 r10794,3,"^20% Plant Based - 80% Dairy$","1","",1,c306
-r10795,3,"^I do all the grocery shopping for my household$","1","crowdtap.com/dashboard",1,c307
-r10796,3,"^4$","1","crowdtap.com/dashboard",1,c307
-r10797,3,"^123eab05-86c3-4bac-b42d-ce84164ed914$","1","crowdtap.com/dashboard",1,c307
-r10798,3,"^066b5e5f-4f38-4013-92e7-084064573d1c$","1","crowdtap.com/dashboard",1,c307
-r10799,3,"^a0fd7fd5-f30d-48d3-bb7a-0e09bee92ca6$","1","crowdtap.com/dashboard",1,c307
-r10800,3,"^5019516a-e77c-4f73-af3f-11c1e5443a29$","1","crowdtap.com/dashboard",1,c307
-r10801,3,"^c075621a-45cc-4b32-99f8-dc207c246f9f$","1","crowdtap.com/dashboard",1,c307
-r10802,3,"^4ab0fbe3-8e75-4f8c-8839-5081546c3892$","1","crowdtap.com/dashboard",1,c307
-r10803,3,"^d778deea-e171-4ba3-ac0e-cf266cda7abb$","1","crowdtap.com/dashboard",1,c307
-r10804,3,"^1082c435-2f07-4abc-9cad-294c9eac9d8f$","1","crowdtap.com/dashboard",1,c307
-r10805,3,"^90c8482c-0495-47da-9c6a-edcc3876e533$","1","crowdtap.com/dashboard",1,c307
-r10806,3,"^23ba7192-a614-43ea-94d1-bb52acf7ece1$","1","crowdtap.com/dashboard",1,c307
-r10807,3,"^08c2a4c4-f514-4a43-b78f-1a825073947a$","1","crowdtap.com/dashboard",1,c307
-r10808,3,"^b4ef920e-c61e-4433-911b-62233dde714e$","1","crowdtap.com/dashboard",1,c307
-r10809,3,"^75eb872c-7856-4656-9992-61e9c9858502$","1","crowdtap.com/dashboard",1,c307
-r10810,3,"^6123e9eb-74c9-442c-a431-e7d7c72ad644$","1","crowdtap.com/dashboard",1,c307
-r10811,3,"^b6aacfaf-1e54-43ab-b405-7ef3d98a2105$","1","crowdtap.com/dashboard",1,c307
-r10812,3,"^cbd9bf5c-0cfd-44f4-bf93-56d52472dae6$","1","crowdtap.com/dashboard",1,c307
-r10813,3,"^faa9d126-943d-4102-ba60-e78d9d6007a6$","1","crowdtap.com/dashboard",1,c307
-r10814,3,"^f264b41c-225f-47d6-ac1c-eea837b51a82$","1","crowdtap.com/dashboard",1,c307
-r10815,3,"^2d4c33eb-08f5-409e-8b04-80403e4201af$","1","crowdtap.com/dashboard",1,c307
-r10816,3,"^60bd9899-c12f-4c46-9496-8ad317a3fc4f$","1","crowdtap.com/dashboard",1,c307
-r10817,3,"^90a55053-54a2-424b-85b6-3e615a406bf2$","1","crowdtap.com/dashboard",1,c307
-r10818,3,"^750eaef1-4825-4b8a-b036-fc2fd4bc256c$","1","crowdtap.com/dashboard",1,c307
-r10819,3,"^7dd2dd73-5965-4948-8711-b6ae18ea88e5$","1","crowdtap.com/dashboard",1,c307
-r10820,3,"^f5040f0e-32de-43fe-893b-aaa1732ca320$","1","crowdtap.com/dashboard",1,c307
-r10821,3,"^e7784d98-f092-485a-9a39-d00ba739814a$","1","crowdtap.com/dashboard",1,c307
-r10822,3,"^8929c6cf-8d2f-49fa-9bab-b72d762f5fbb$","1","crowdtap.com/dashboard",1,c307
-r10823,3,"^483ddd32-e4b9-4458-9b48-00844af94870$","1","crowdtap.com/dashboard",1,c307
-r10824,3,"^1f0e1687-7e5e-4503-baf1-e8b0808dd84f$","1","crowdtap.com/dashboard",1,c307
-r10825,3,"^54abb988-90b1-479b-8c59-4aa9d104d9cb$","1","crowdtap.com/dashboard",1,c307
-r10826,3,"^9bd99c79-dd4e-4055-aed5-855a19fe36ae$","1","crowdtap.com/dashboard",1,c307
-r10827,3,"^b96bca66-b694-44b2-9781-df7a08bd7846$","1","crowdtap.com/dashboard",1,c307
-r10828,3,"^9dc437ea-9ca8-45b0-8915-4f66bc6bb7e9$","1","crowdtap.com/dashboard",1,c307
-r10829,3,"^999e5ef8-72aa-44db-84f2-9754ae9a7b6b$","1","crowdtap.com/dashboard",1,c307
-r10830,3,"^92f5f695-bc00-4dda-9ee4-f56b1a35b08a$","1","crowdtap.com/dashboard",1,c307
-r10831,3,"^2ae4a6d5-a1fa-4731-8b42-fb41fff770ff$","1","crowdtap.com/dashboard",1,c307
-r10832,3,"^8e49b05e-f308-46fc-89d4-1884d7a4e33c$","1","crowdtap.com/dashboard",1,c307
-r10833,3,"^bec42b05-7f80-4260-9d3e-499382b8893f$","1","crowdtap.com/dashboard",1,c307
-r10834,3,"^d13b3fdc-8839-40bc-b154-4985f6246784$","1","crowdtap.com/dashboard",1,c307
-r10835,3,"^9b597a19-cc7d-4634-acb3-2aab6b3b88f9$","1","crowdtap.com/dashboard",1,c307
-r10836,3,"^0e238bd3-7ae0-45e4-84d7-14248ae071e1$","1","crowdtap.com/dashboard",1,c307
-r10837,3,"^b73e770e-bdef-4889-b1bf-f1503691e3ce$","1","crowdtap.com/dashboard",1,c307
-r10838,3,"^450bf8e2-6fbc-40a5-8171-2e70fd2dac14$","1","crowdtap.com/dashboard",1,c307
-r10839,3,"^0c996e9f-7160-4573-b942-174a31850310$","1","crowdtap.com/dashboard",1,c307
-r10840,3,"^5cc65f3c-844a-4d49-81a4-92ff43933a9d$","1","crowdtap.com/dashboard",1,c307
-r10841,3,"^ccb99b87-0a7f-4a8c-9fa9-4ecd5cdd1725$","1","crowdtap.com/dashboard",1,c307
-r10842,3,"^3348bd21-179d-49c6-8266-6ee484a68206$","1","crowdtap.com/dashboard",1,c307
-r10843,3,"^44952522-7bbc-4984-aa74-e742e20cdd32$","1","crowdtap.com/dashboard",1,c307
-r10844,3,"^822a2020-1031-4012-ad67-879bbbb1ee83$","1","crowdtap.com/dashboard",1,c307
-r10845,3,"^f56f8b42-67b1-4ef6-bc7f-9e79a601a579$","1","crowdtap.com/dashboard",1,c307
-r10846,3,"^360a9505-3a0d-4283-85c9-e74a7d0b1182$","1","crowdtap.com/dashboard",1,c307
-r10847,3,"^26df56a1-8b7b-47fc-ac42-fb8328d13056$","1","crowdtap.com/dashboard",1,c307
-r10848,3,"^235c1164-9921-427a-9ab1-6b84773e880f$","1","crowdtap.com/dashboard",1,c307
-r10849,3,"^6f4a2c16-ed5b-4ad0-bcf4-9b9110a390f1$","1","crowdtap.com/dashboard",1,c307
-r10850,3,"^5760a664-cbad-4bb6-8972-ce427364c67f$","1","crowdtap.com/dashboard",1,c307
-r10851,3,"^bcfc7aaa-3e7c-4981-9fa4-f079066100a6$","1","crowdtap.com/dashboard",1,c307
-r10852,3,"^7810396e-43b4-426d-aeae-b3148ec496be$","1","crowdtap.com/dashboard",1,c307
-r10853,3,"^56d6aedb-c690-4dcc-93c2-6eb87678d815$","1","crowdtap.com/in-progress",1,c307
-r10854,3,"^d8c2e375-3ecd-4590-80c2-6cc2c956abdc$","1","crowdtap.com/in-progress",1,c307
-r10855,3,"^f5ea2279-afad-4313-87d5-c510a1a99ed9$","1","crowdtap.com/in-progress",1,c307
-r10856,3,"^0a9a2f70-4fb4-43c1-a5dc-dbe71141adcc$","1","crowdtap.com/in-progress",1,c307
-r10857,3,"^03983e5b-7894-4afb-84b8-ae3a1d983b81$","1","crowdtap.com/in-progress",1,c307
-r10858,3,"^a8e81e5f-82f0-4536-a325-faa347a2e275$","1","crowdtap.com/in-progress",1,c307
-r10859,3,"^9ec784f5-933d-4590-aa18-236c20f175b3$","1","crowdtap.com/in-progress",1,c307
-r10860,3,"^043a4236-79be-49ed-ab14-68ed4f7235a9$","1","crowdtap.com/in-progress",1,c307
-r10861,3,"^d171e082-4048-4fd9-b032-3011380fdb82$","1","crowdtap.com/in-progress",1,c307
-r10862,3,"^17560b00-9ec6-49ba-a1d6-0cefa38fdd04$","1","crowdtap.com/in-progress",1,c307
-r10863,3,"^4dee96ea-2843-4012-b808-2dee1bfc4e88$","1","crowdtap.com/in-progress",1,c307
-r10864,3,"^options$","10000","crowdtap.com/in-progress",1,c307
-r10865,3,"^8eac948e-72ad-4d3b-bff3-0afd5694254e$","1","crowdtap.com/in-progress",1,c307
-r10866,3,"^6f2a6be8-cca4-43d0-b7b5-c48ef1b51701$","1","crowdtap.com/in-progress",1,c307
-r10867,3,"^3ab02e1d-e582-48c2-8a01-4528197ac127$","1","crowdtap.com/in-progress",1,c307
-r10868,3,"^b607a402-f02a-4c01-8c3e-91a1c81814c5$","1","crowdtap.com/in-progress",1,c307
-r10869,3,"^b3ab2237-c29c-4b3a-a248-0f31b8bf76ae$","1","crowdtap.com/in-progress",1,c307
-r10870,3,"^c20a735f-b822-4c11-9df4-10a214f07eb5$","1","crowdtap.com/in-progress",1,c307
-r10871,3,"^b2416447-e4d0-40e5-891f-dfe501a02d50$","1","crowdtap.com/in-progress",1,c307
-r10872,3,"^9503571d-6c78-43c6-92f4-50559eb72012$","1","crowdtap.com/in-progress",1,c307
-r10873,3,"^49561c95-2974-4b67-863c-890a898e7960$","1","crowdtap.com/in-progress",1,c307
-r10874,3,"^e5a74a86-ab4c-4af2-af10-436c49730bc8$","1","crowdtap.com/in-progress",1,c307
-r10875,3,"^171fc8e6-7b4b-40c3-91a7-f4fd7abb0ff9$","1","crowdtap.com/in-progress",1,c307
-r10876,3,"^b1080231-6fb8-4fbe-9dcb-04901e83590d$","1","crowdtap.com/in-progress",1,c307
+r10795,3,"^I do all the grocery shopping for my household$","1","crowdtap.com/",1,c307
+r10796,3,"^4$","1","crowdtap.com/",1,c307
+r10797,3,"^123eab05-86c3-4bac-b42d-ce84164ed914$","1","crowdtap.com/",1,c307
+r10798,3,"^066b5e5f-4f38-4013-92e7-084064573d1c$","1","crowdtap.com/",1,c307
+r10799,3,"^a0fd7fd5-f30d-48d3-bb7a-0e09bee92ca6$","1","crowdtap.com/",1,c307
+r10800,3,"^5019516a-e77c-4f73-af3f-11c1e5443a29$","1","crowdtap.com/",1,c307
+r10801,3,"^c075621a-45cc-4b32-99f8-dc207c246f9f$","1","crowdtap.com/",1,c307
+r10802,3,"^4ab0fbe3-8e75-4f8c-8839-5081546c3892$","1","crowdtap.com/",1,c307
+r10803,3,"^d778deea-e171-4ba3-ac0e-cf266cda7abb$","1","crowdtap.com/",1,c307
+r10804,3,"^1082c435-2f07-4abc-9cad-294c9eac9d8f$","1","crowdtap.com/",1,c307
+r10805,3,"^90c8482c-0495-47da-9c6a-edcc3876e533$","1","crowdtap.com/",1,c307
+r10806,3,"^23ba7192-a614-43ea-94d1-bb52acf7ece1$","1","crowdtap.com/",1,c307
+r10807,3,"^08c2a4c4-f514-4a43-b78f-1a825073947a$","1","crowdtap.com/",1,c307
+r10808,3,"^b4ef920e-c61e-4433-911b-62233dde714e$","1","crowdtap.com/",1,c307
+r10809,3,"^75eb872c-7856-4656-9992-61e9c9858502$","1","crowdtap.com/",1,c307
+r10810,3,"^6123e9eb-74c9-442c-a431-e7d7c72ad644$","1","crowdtap.com/",1,c307
+r10811,3,"^b6aacfaf-1e54-43ab-b405-7ef3d98a2105$","1","crowdtap.com/",1,c307
+r10812,3,"^cbd9bf5c-0cfd-44f4-bf93-56d52472dae6$","1","crowdtap.com/",1,c307
+r10813,3,"^faa9d126-943d-4102-ba60-e78d9d6007a6$","1","crowdtap.com/",1,c307
+r10814,3,"^f264b41c-225f-47d6-ac1c-eea837b51a82$","1","crowdtap.com/",1,c307
+r10815,3,"^2d4c33eb-08f5-409e-8b04-80403e4201af$","1","crowdtap.com/",1,c307
+r10816,3,"^60bd9899-c12f-4c46-9496-8ad317a3fc4f$","1","crowdtap.com/",1,c307
+r10817,3,"^90a55053-54a2-424b-85b6-3e615a406bf2$","1","crowdtap.com/",1,c307
+r10818,3,"^750eaef1-4825-4b8a-b036-fc2fd4bc256c$","1","crowdtap.com/",1,c307
+r10819,3,"^7dd2dd73-5965-4948-8711-b6ae18ea88e5$","1","crowdtap.com/",1,c307
+r10820,3,"^f5040f0e-32de-43fe-893b-aaa1732ca320$","1","crowdtap.com/",1,c307
+r10821,3,"^e7784d98-f092-485a-9a39-d00ba739814a$","1","crowdtap.com/",1,c307
+r10822,3,"^8929c6cf-8d2f-49fa-9bab-b72d762f5fbb$","1","crowdtap.com/",1,c307
+r10823,3,"^483ddd32-e4b9-4458-9b48-00844af94870$","1","crowdtap.com/",1,c307
+r10824,3,"^1f0e1687-7e5e-4503-baf1-e8b0808dd84f$","1","crowdtap.com/",1,c307
+r10825,3,"^54abb988-90b1-479b-8c59-4aa9d104d9cb$","1","crowdtap.com/",1,c307
+r10826,3,"^9bd99c79-dd4e-4055-aed5-855a19fe36ae$","1","crowdtap.com/",1,c307
+r10827,3,"^b96bca66-b694-44b2-9781-df7a08bd7846$","1","crowdtap.com/",1,c307
+r10828,3,"^9dc437ea-9ca8-45b0-8915-4f66bc6bb7e9$","1","crowdtap.com/",1,c307
+r10829,3,"^999e5ef8-72aa-44db-84f2-9754ae9a7b6b$","1","crowdtap.com/",1,c307
+r10830,3,"^92f5f695-bc00-4dda-9ee4-f56b1a35b08a$","1","crowdtap.com/",1,c307
+r10831,3,"^2ae4a6d5-a1fa-4731-8b42-fb41fff770ff$","1","crowdtap.com/",1,c307
+r10832,3,"^8e49b05e-f308-46fc-89d4-1884d7a4e33c$","1","crowdtap.com/",1,c307
+r10833,3,"^bec42b05-7f80-4260-9d3e-499382b8893f$","1","crowdtap.com/",1,c307
+r10834,3,"^d13b3fdc-8839-40bc-b154-4985f6246784$","1","crowdtap.com/",1,c307
+r10835,3,"^9b597a19-cc7d-4634-acb3-2aab6b3b88f9$","1","crowdtap.com/",1,c307
+r10836,3,"^0e238bd3-7ae0-45e4-84d7-14248ae071e1$","1","crowdtap.com/",1,c307
+r10837,3,"^b73e770e-bdef-4889-b1bf-f1503691e3ce$","1","crowdtap.com/",1,c307
+r10838,3,"^450bf8e2-6fbc-40a5-8171-2e70fd2dac14$","1","crowdtap.com/",1,c307
+r10839,3,"^0c996e9f-7160-4573-b942-174a31850310$","1","crowdtap.com/",1,c307
+r10840,3,"^5cc65f3c-844a-4d49-81a4-92ff43933a9d$","1","crowdtap.com/",1,c307
+r10841,3,"^ccb99b87-0a7f-4a8c-9fa9-4ecd5cdd1725$","1","crowdtap.com/",1,c307
+r10842,3,"^3348bd21-179d-49c6-8266-6ee484a68206$","1","crowdtap.com/",1,c307
+r10843,3,"^44952522-7bbc-4984-aa74-e742e20cdd32$","1","crowdtap.com/",1,c307
+r10844,3,"^822a2020-1031-4012-ad67-879bbbb1ee83$","1","crowdtap.com/",1,c307
+r10845,3,"^f56f8b42-67b1-4ef6-bc7f-9e79a601a579$","1","crowdtap.com/",1,c307
+r10846,3,"^360a9505-3a0d-4283-85c9-e74a7d0b1182$","1","crowdtap.com/",1,c307
+r10847,3,"^26df56a1-8b7b-47fc-ac42-fb8328d13056$","1","crowdtap.com/",1,c307
+r10848,3,"^235c1164-9921-427a-9ab1-6b84773e880f$","1","crowdtap.com/",1,c307
+r10849,3,"^6f4a2c16-ed5b-4ad0-bcf4-9b9110a390f1$","1","crowdtap.com/",1,c307
+r10850,3,"^5760a664-cbad-4bb6-8972-ce427364c67f$","1","crowdtap.com/",1,c307
+r10851,3,"^bcfc7aaa-3e7c-4981-9fa4-f079066100a6$","1","crowdtap.com/",1,c307
+r10852,3,"^7810396e-43b4-426d-aeae-b3148ec496be$","1","crowdtap.com/",1,c307
+r10853,3,"^56d6aedb-c690-4dcc-93c2-6eb87678d815$","1","crowdtap.com/",1,c307
+r10854,3,"^d8c2e375-3ecd-4590-80c2-6cc2c956abdc$","1","crowdtap.com/",1,c307
+r10855,3,"^f5ea2279-afad-4313-87d5-c510a1a99ed9$","1","crowdtap.com/",1,c307
+r10856,3,"^0a9a2f70-4fb4-43c1-a5dc-dbe71141adcc$","1","crowdtap.com/",1,c307
+r10857,3,"^03983e5b-7894-4afb-84b8-ae3a1d983b81$","1","crowdtap.com/",1,c307
+r10858,3,"^a8e81e5f-82f0-4536-a325-faa347a2e275$","1","crowdtap.com/",1,c307
+r10859,3,"^9ec784f5-933d-4590-aa18-236c20f175b3$","1","crowdtap.com/",1,c307
+r10860,3,"^043a4236-79be-49ed-ab14-68ed4f7235a9$","1","crowdtap.com/",1,c307
+r10861,3,"^d171e082-4048-4fd9-b032-3011380fdb82$","1","crowdtap.com/",1,c307
+r10862,3,"^17560b00-9ec6-49ba-a1d6-0cefa38fdd04$","1","crowdtap.com/",1,c307
+r10863,3,"^4dee96ea-2843-4012-b808-2dee1bfc4e88$","1","crowdtap.com/",1,c307
+r10864,3,"^options$","10000","crowdtap.com/",1,c307
+r10865,3,"^8eac948e-72ad-4d3b-bff3-0afd5694254e$","1","crowdtap.com/",1,c307
+r10866,3,"^6f2a6be8-cca4-43d0-b7b5-c48ef1b51701$","1","crowdtap.com/",1,c307
+r10867,3,"^3ab02e1d-e582-48c2-8a01-4528197ac127$","1","crowdtap.com/",1,c307
+r10868,3,"^b607a402-f02a-4c01-8c3e-91a1c81814c5$","1","crowdtap.com/",1,c307
+r10869,3,"^b3ab2237-c29c-4b3a-a248-0f31b8bf76ae$","1","crowdtap.com/",1,c307
+r10870,3,"^c20a735f-b822-4c11-9df4-10a214f07eb5$","1","crowdtap.com/",1,c307
+r10871,3,"^b2416447-e4d0-40e5-891f-dfe501a02d50$","1","crowdtap.com/",1,c307
+r10872,3,"^9503571d-6c78-43c6-92f4-50559eb72012$","1","crowdtap.com/",1,c307
+r10873,3,"^49561c95-2974-4b67-863c-890a898e7960$","1","crowdtap.com/",1,c307
+r10874,3,"^e5a74a86-ab4c-4af2-af10-436c49730bc8$","1","crowdtap.com/",1,c307
+r10875,3,"^171fc8e6-7b4b-40c3-91a7-f4fd7abb0ff9$","1","crowdtap.com/",1,c307
+r10876,3,"^b1080231-6fb8-4fbe-9dcb-04901e83590d$","1","crowdtap.com/",1,c307
 r10877,3,"^I am the primary purchaser of groceries for my household$","1","crowdtap.com/",1,c308
 r10878,3,"^OK - I get by, but there's not a lot left by the time the basics are taken care of$","1","crowdtap.com/",1,c308
 r10879,3,"^8f680bf0-1abb-4bbf-91b1-23208437f169$","1","crowdtap.com/",1,c308
