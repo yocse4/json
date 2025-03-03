@@ -6,6 +6,14 @@
         "description": "We want to hear from you about your household consumer product shopping."
     },
     {
+        "text": "Learning More About You",
+        "id": "Daini 69",
+        "requiredTexts": [
+            "Learning More About You",
+            "Before you begin, please note that"
+        ]
+    },    
+    {
         "text": "Let’s talk about beauty and personal care.",
         "id": "Daini 51",
         "requiredTexts": [
