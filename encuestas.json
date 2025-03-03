@@ -1,275 +1,419 @@
 [
-  {
-    "id": 0,
-    "title": "Questions for You",
-    "pts": 54,
-    "description": "We want to hear from you about your household consumer product shopping."
-  },
-  {
-    "id": 1,
-    "title": "Health and Fitness digital service and consumer product",
-    "pts": 54,
-    "description": "Today we\u2019re going to be talking about technology and your thoughts on health and fitness."
-  },
-  {
-    "id": 2,
-    "title": "Tell us about you!",
-    "pts": 54,
-    "description": "We'd like to know a bit about some of the products you may use."
-  },
-  {
-    "id": 3,
-    "title": "Shopping questions",
-    "pts": 54,
-    "description": "Some questions for you. Please answer honestly there are no right or wrong answers."
-  },
-  {
-    "id": 4,
-    "title": "Baby Registry Usage",
-    "pts": 54,
-    "description": "A question about if you have used a retailer baby registry before."
-  },
-  {
-    "id": 5,
-    "title": "One question about your household!",
-    "pts": 54,
-    "description": "Super quick we promise!"
-  },
-  {
-    "id": 6,
-    "title": "A few questions about your recent product purchases",
-    "pts": 54,
-    "description": "Please answer a few questions about your recent product purchases"
-  },
-  {
-    "id": 7,
-    "title": "A few questions about fast food or fast casual restaurants",
-    "pts": 54,
-    "description": "Please answer a few short questions about fast food or fast casual restaurants you have visited or ordered from recently."
-  },
-  {
-    "id": 8,
-    "title": "Getting to Know You",
-    "pts": 54,
-    "description": "We\u2019d love to learn more about you! Answer a few quick questions to share your experiences and perspectives."
-  },
-  {
-    "id": 9,
-    "title": "Your Recent Shopping Behavior",
-    "pts": 54,
-    "description": "Please answer these few questions on your recent shopping behavior."
-  },
-  {
-    "id": 10,
-    "title": "Tell us about you!",
-    "pts": 54,
-    "description": "We have a few questions for you on personal care products"
-  },
-  {
-    "id": 11,
-    "title": "Outdoor Fun!",
-    "pts": 54,
-    "description": "A few quick questions about outdoor activities you like to engage in"
-  },
-  {
-    "id": 12,
-    "title": "All about you.",
-    "pts": 54,
-    "description": "We\u2019d love to hear a bit more about you!"
-  },
-  {
-    "id": 13,
-    "title": "This is a survey about skin care products",
-    "pts": 54,
-    "description": "Please, help us with 5 minutes of your time"
-  },
-  {
-    "id": 14,
-    "title": "All About Your Tech!",
-    "pts": 54,
-    "description": "We have some questions about you and your tech!"
-  },
-  {
-    "id": 15,
-    "title": "We have some questions about what you're drinking!",
-    "pts": 54,
-    "description": "Welcome and thank you for your participation! In this survey, we\u2019d like to get your thoughts on what you\u2019re drinking. Remember, there are no \u201cright\u201d or \u201cwrong\u201d answers - we are interested only in your opinion."
-  },
-  {
-    "id": 16,
-    "title": "All about you!",
-    "pts": 54,
-    "description": "Today we\u2019re going to learn something about you!"
-  },
-  {
-    "id": 17,
-    "title": "Let's talk about YOU!",
-    "pts": 54,
-    "description": "We would like to learn more about you and your current purchasing habits."
-  },
-  {
-    "id": 18,
-    "title": "Let\u2019s talk about beauty and personal care.",
-    "pts": 54,
-    "description": "We\u2019d like to learn more about your opinions! Please remember there are no right or wrong answers and thank you for your participation."
-  },
-  {
-    "id": 19,
-    "title": "Calling all Grocery Shoppers!",
-    "pts": 54,
-    "description": "We want to know about where you shop and what you buy."
-  },
-  {
-    "id": 20,
-    "title": "Getting to know you!",
-    "pts": 54,
-    "description": "We have a couple of questions for you, thanks for your participation!"
-  },
-  {
-    "id": 21,
-    "title": "Beverage Consumption",
-    "pts": 54,
-    "description": "We have a few questions about the types of beverages & brands you typically drink."
-  },
-  {
-    "id": 22,
-    "title": "All about entertainment",
-    "pts": 54,
-    "description": "We have a few questions all about entertainment"
-  },
-  {
-    "id": 23,
-    "title": "Let\u2019s talk shopping!",
-    "pts": 54,
-    "description": "We\u2019d like to hear from you about what\u2019s important to you when shopping!"
-  },
-  {
-    "id": 24,
-    "title": "Tell us about you!",
-    "pts": 54,
-    "description": "We have a couple of questions for you about your health and wellness habits, thanks for your participation!"
-  },
-  {
-    "id": 25,
-    "title": "Relationship Status",
-    "pts": 54,
-    "description": "We have a few questions for you!"
-  },
-  {
-    "id": 26,
-    "title": "Getting to know you!",
-    "pts": 54,
-    "description": "We want to know more about you! Remember, there are no right or wrong answers. Thank you for participating."
-  },
-  {
-    "id": 27,
-    "title": "Asking About Your Favorite Stores and Brands!",
-    "pts": 54,
-    "description": "Tell us more about the stores and brands you prefer to shop."
-  },
-  {
-    "id": 28,
-    "title": "All about your grocery shopping habits!",
-    "pts": 54,
-    "description": "Let\u2019s talk about the snacks you\u2019ve been buying lately! Please remember to answer the following questions honestly to accrue full points."
-  },
-  {
-    "id": 29,
-    "title": "A few questions about you!",
-    "pts": 54,
-    "description": "We have some questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
-  },
-  {
-    "id": 30,
-    "title": "Learning More About You",
-    "pts": 54,
-    "description": "Before you begin, please note that \\"
-  },
-  {
-    "id": 31,
-    "title": "Some questions about you!",
-    "pts": 54,
-    "description": "We have some questions about the clothing items you purchase. There are no right or wrong answers so please answer honestly. Thank you for your time!"
-  },
-  {
-    "id": 32,
-    "title": "Some questions about you!",
-    "pts": 54,
-    "description": "We have a couple of quick questions for you. We appreciate your time and honesty!"
-  },
-  {
-    "id": 33,
-    "title": "Let's Talk Electronics in your life!",
-    "pts": 54,
-    "description": "Just a few questions."
-  },
-  {
-    "id": 34,
-    "title": "Food Shopping!",
-    "pts": 54,
-    "description": "We'd like to ask you a few questions about food."
-  },
-  {
-    "id": 35,
-    "title": "Hi, we value your feedback!",
-    "pts": 54,
-    "description": "We would greatly appreciate your opinion on a few potential product names."
-  },
-  {
-    "id": 36,
-    "title": "Financial wellness study",
-    "pts": 54,
-    "description": "We'd like to learn more about your financial needs and preferences."
-  },
-  {
-    "id": 37,
-    "title": "Your Views!",
-    "pts": 54,
-    "description": "We\u2019d like to learn more about you. Remember, there are no right or wrong answers. Thanks for your participation!"
-  },
-  {
-    "id": 38,
-    "title": "Just a few quick questions for you!",
-    "pts": 54,
-    "description": "We have just a few general health questions for you. There are no right or wrong answers, so please be honest!"
-  },
-  {
-    "id": 39,
-    "title": "Some questions about you!",
-    "pts": 54,
-    "description": "We have some questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
-  },
-  {
-    "id": 40,
-    "title": "Let's talking shopping!",
-    "pts": 54,
-    "description": "Hi there! We'd like to learn more about your recent shopping purchases & habits! Your input will be invaluable as we work on optimizing products you shop for so please be honest in your responses. We really appreciate your participation!"
-  },
-  {
-    "id": 41,
-    "title": "Are you a Content Creator? Tell us more",
-    "pts": 54,
-    "description": "Please answer several questions about content creation experience. Approximate time to complete is up to 10 mins"
-  },
-  {
-    "id": 42,
-    "title": "All about your grocery shopping habits!",
-    "pts": 54,
-    "description": "Let\u2019s talk about the snacks you\u2019ve been buying lately! Please remember to answer the following questions honestly to accrue full points."
-  },
-  {
-    "id": 43,
-    "title": "Lets talk about your favorite clothing!",
-    "pts": 54,
-    "description": "We have some questions about your go-to clothing and your favorite activities."
-  },
-  {
-    "id": 44,
-    "title": "Let\u2019s talk about grocery shopping!",
-    "pts": 54,
-    "description": "We have a few questions for you to answer."
-  },
-      {
+    {
+        "id": 0,
+        "title": "Questions for You",
+        "pts": 54,
+        "description": "We want to hear from you about your household consumer product shopping."
+    },
+    {
+        "text": "Let’s talk about beauty and personal care.",
+        "id": "Daini 51",
+        "requiredTexts": [
+            "Let’s talk about beauty and personal care.",
+            "We’d like to learn more about your opinions! Please remember there are no right or wrong answers and thank you for your participation."
+        ]
+    },
+    {
+        "text": "Getting to know you!",
+        "id": "Daini 52",
+        "requiredTexts": [
+            "Getting to know you!",
+            "We have a couple of questions for you, thanks for your participation!"
+        ]
+    },
+    {
+        "text": "Relationship Status",
+        "id": "Daini 53",
+        "requiredTexts": [
+            "Relationship Status",
+            "We have a few questions for you!"
+        ]
+    },
+    {
+        "text": "Let’s talk shopping!",
+        "id": "Daini 54",
+        "requiredTexts": [
+            "Let’s talk shopping!",
+            "We’d like to hear from you about what’s important to you when shopping!"
+        ]
+    },
+    {
+        "text": "Tell us about you!",
+        "id": "Daini 55",
+        "requiredTexts": [
+            "Tell us about you!",
+            "We have a couple of questions for you about your health and wellness habits, thanks for your participation!"
+        ]
+    },
+    {
+        "text": "Asking About Your Favorite Stores and Brands!",
+        "id": "Daini 56",
+        "requiredTexts": [
+            "Asking About Your Favorite Stores and Brands!",
+            "Tell us more about the stores and brands you prefer to shop."
+        ]
+    },
+    {
+        "text": "A few questions about you!",
+        "id": "Daini 57",
+        "requiredTexts": [
+            "A few questions about you!",
+            "We have some questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+        ]
+    },
+    {
+        "text": "Learning More About You",
+        "id": "Daini 58",
+        "requiredTexts": [
+            "Learning More About You",
+            "Before you begin, please note that 'infant or toddler' refers to children under 3 years old. 'Infant or toddler products' include reusable items like feeding products, healthcare, travel gear, and toys but exclude disposables like diapers and wipes."
+        ]
+    },
+    {
+        "text": "Some questions about you!",
+        "id": "Daini 59",
+        "requiredTexts": [
+            "Some questions about you!",
+            "We have some questions about the clothing items you purchase. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+        ]
+    },
+    {
+        "text": "Just a few quick questions for you!",
+        "id": "Daini 60",
+        "requiredTexts": [
+            "Just a few quick questions for you!",
+            "We would greatly appreciate your opinion on a few potential product names."
+        ]
+    },
+    {
+        "text": "Just a few quick questions for you!",
+        "id": "Daini 61",
+        "requiredTexts": [
+            "Just a few quick questions for you!",
+            "We have just a few general health questions for you. There are no right or wrong answers, so please be honest!"
+        ]
+    },
+    {
+        "text": "A few quick questions about what you eat!",
+        "id": "Daini 62",
+        "requiredTexts": [
+            "A few quick questions about what you eat!",
+            "Share more about what you eat in this short survey."
+        ]
+    },
+    {
+        "text": "Lets talk about your favorite clothing!",
+        "id": "Daini 63",
+        "requiredTexts": [
+            "Lets talk about your favorite clothing!",
+            "We have some questions about your go-to clothing and your favorite activities."
+        ]
+    },
+    {
+        "text": "Let's talk about you!",
+        "id": "Daini 64",
+        "requiredTexts": [
+            "Let's talk about you!",
+            "We have some questions for you about yourself. Thanks in advance for your participation!"
+        ]
+    },
+    {
+        "text": "Some questions about you!",
+        "id": "Daini 65",
+        "requiredTexts": [
+            "Some questions about you!",
+            "We have some questions about the food items you purchase. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+        ]
+    },
+    {
+        "text": "We want to hear from you!",
+        "id": "Daini 66",
+        "requiredTexts": [
+            "We want to hear from you!",
+            "Please answer a few questions about your habits."
+        ]
+    },
+    {
+        "text": "A little about you",
+        "id": "Daini 67",
+        "requiredTexts": [
+            "A little about you",
+            "We have a few questions for you about the products you purchase."
+        ]
+    },
+    {
+        "text": "All about your grocery shopping!",
+        "id": "Daini 68",
+        "requiredTexts": [
+            "All about your grocery shopping!",
+            "Let’s talk about the snacks you’ve been buying lately! Please remember to answer the following questions honestly to accrue full points."
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Health and Fitness digital service and consumer product",
+        "pts": 54,
+        "description": "Today we\u2019re going to be talking about technology and your thoughts on health and fitness."
+    },
+    {
+        "id": 2,
+        "title": "Tell us about you!",
+        "pts": 54,
+        "description": "We'd like to know a bit about some of the products you may use."
+    },
+    {
+        "id": 3,
+        "title": "Shopping questions",
+        "pts": 54,
+        "description": "Some questions for you. Please answer honestly there are no right or wrong answers."
+    },
+    {
+        "id": 4,
+        "title": "Baby Registry Usage",
+        "pts": 54,
+        "description": "A question about if you have used a retailer baby registry before."
+    },
+    {
+        "id": 5,
+        "title": "One question about your household!",
+        "pts": 54,
+        "description": "Super quick we promise!"
+    },
+    {
+        "id": 6,
+        "title": "A few questions about your recent product purchases",
+        "pts": 54,
+        "description": "Please answer a few questions about your recent product purchases"
+    },
+    {
+        "id": 7,
+        "title": "A few questions about fast food or fast casual restaurants",
+        "pts": 54,
+        "description": "Please answer a few short questions about fast food or fast casual restaurants you have visited or ordered from recently."
+    },
+    {
+        "id": 8,
+        "title": "Getting to Know You",
+        "pts": 54,
+        "description": "We\u2019d love to learn more about you! Answer a few quick questions to share your experiences and perspectives."
+    },
+    {
+        "id": 9,
+        "title": "Your Recent Shopping Behavior",
+        "pts": 54,
+        "description": "Please answer these few questions on your recent shopping behavior."
+    },
+    {
+        "id": 10,
+        "title": "Tell us about you!",
+        "pts": 54,
+        "description": "We have a few questions for you on personal care products"
+    },
+    {
+        "id": 11,
+        "title": "Outdoor Fun!",
+        "pts": 54,
+        "description": "A few quick questions about outdoor activities you like to engage in"
+    },
+    {
+        "id": 12,
+        "title": "All about you.",
+        "pts": 54,
+        "description": "We\u2019d love to hear a bit more about you!"
+    },
+    {
+        "id": 13,
+        "title": "This is a survey about skin care products",
+        "pts": 54,
+        "description": "Please, help us with 5 minutes of your time"
+    },
+    {
+        "id": 14,
+        "title": "All About Your Tech!",
+        "pts": 54,
+        "description": "We have some questions about you and your tech!"
+    },
+    {
+        "id": 15,
+        "title": "We have some questions about what you're drinking!",
+        "pts": 54,
+        "description": "Welcome and thank you for your participation! In this survey, we\u2019d like to get your thoughts on what you\u2019re drinking. Remember, there are no \u201cright\u201d or \u201cwrong\u201d answers - we are interested only in your opinion."
+    },
+    {
+        "id": 16,
+        "title": "All about you!",
+        "pts": 54,
+        "description": "Today we\u2019re going to learn something about you!"
+    },
+    {
+        "id": 17,
+        "title": "Let's talk about YOU!",
+        "pts": 54,
+        "description": "We would like to learn more about you and your current purchasing habits."
+    },
+    {
+        "id": 18,
+        "title": "Let\u2019s talk about beauty and personal care.",
+        "pts": 54,
+        "description": "We\u2019d like to learn more about your opinions! Please remember there are no right or wrong answers and thank you for your participation."
+    },
+    {
+        "id": 19,
+        "title": "Calling all Grocery Shoppers!",
+        "pts": 54,
+        "description": "We want to know about where you shop and what you buy."
+    },
+    {
+        "id": 20,
+        "title": "Getting to know you!",
+        "pts": 54,
+        "description": "We have a couple of questions for you, thanks for your participation!"
+    },
+    {
+        "id": 21,
+        "title": "Beverage Consumption",
+        "pts": 54,
+        "description": "We have a few questions about the types of beverages & brands you typically drink."
+    },
+    {
+        "id": 22,
+        "title": "All about entertainment",
+        "pts": 54,
+        "description": "We have a few questions all about entertainment"
+    },
+    {
+        "id": 23,
+        "title": "Let\u2019s talk shopping!",
+        "pts": 54,
+        "description": "We\u2019d like to hear from you about what\u2019s important to you when shopping!"
+    },
+    {
+        "id": 24,
+        "title": "Tell us about you!",
+        "pts": 54,
+        "description": "We have a couple of questions for you about your health and wellness habits, thanks for your participation!"
+    },
+    {
+        "id": 25,
+        "title": "Relationship Status",
+        "pts": 54,
+        "description": "We have a few questions for you!"
+    },
+    {
+        "id": 26,
+        "title": "Getting to know you!",
+        "pts": 54,
+        "description": "We want to know more about you! Remember, there are no right or wrong answers. Thank you for participating."
+    },
+    {
+        "id": 27,
+        "title": "Asking About Your Favorite Stores and Brands!",
+        "pts": 54,
+        "description": "Tell us more about the stores and brands you prefer to shop."
+    },
+    {
+        "id": 28,
+        "title": "All about your grocery shopping habits!",
+        "pts": 54,
+        "description": "Let\u2019s talk about the snacks you\u2019ve been buying lately! Please remember to answer the following questions honestly to accrue full points."
+    },
+    {
+        "id": 29,
+        "title": "A few questions about you!",
+        "pts": 54,
+        "description": "We have some questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+    },
+    {
+        "id": 30,
+        "title": "Learning More About You",
+        "pts": 54,
+        "description": "Before you begin, please note that \\"
+    },
+    {
+        "id": 31,
+        "title": "Some questions about you!",
+        "pts": 54,
+        "description": "We have some questions about the clothing items you purchase. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+    },
+    {
+        "id": 32,
+        "title": "Some questions about you!",
+        "pts": 54,
+        "description": "We have a couple of quick questions for you. We appreciate your time and honesty!"
+    },
+    {
+        "id": 33,
+        "title": "Let's Talk Electronics in your life!",
+        "pts": 54,
+        "description": "Just a few questions."
+    },
+    {
+        "id": 34,
+        "title": "Food Shopping!",
+        "pts": 54,
+        "description": "We'd like to ask you a few questions about food."
+    },
+    {
+        "id": 35,
+        "title": "Hi, we value your feedback!",
+        "pts": 54,
+        "description": "We would greatly appreciate your opinion on a few potential product names."
+    },
+    {
+        "id": 36,
+        "title": "Financial wellness study",
+        "pts": 54,
+        "description": "We'd like to learn more about your financial needs and preferences."
+    },
+    {
+        "id": 37,
+        "title": "Your Views!",
+        "pts": 54,
+        "description": "We\u2019d like to learn more about you. Remember, there are no right or wrong answers. Thanks for your participation!"
+    },
+    {
+        "id": 38,
+        "title": "Just a few quick questions for you!",
+        "pts": 54,
+        "description": "We have just a few general health questions for you. There are no right or wrong answers, so please be honest!"
+    },
+    {
+        "id": 39,
+        "title": "Some questions about you!",
+        "pts": 54,
+        "description": "We have some questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+    },
+    {
+        "id": 40,
+        "title": "Let's talking shopping!",
+        "pts": 54,
+        "description": "Hi there! We'd like to learn more about your recent shopping purchases & habits! Your input will be invaluable as we work on optimizing products you shop for so please be honest in your responses. We really appreciate your participation!"
+    },
+    {
+        "id": 41,
+        "title": "Are you a Content Creator? Tell us more",
+        "pts": 54,
+        "description": "Please answer several questions about content creation experience. Approximate time to complete is up to 10 mins"
+    },
+    {
+        "id": 42,
+        "title": "All about your grocery shopping habits!",
+        "pts": 54,
+        "description": "Let\u2019s talk about the snacks you\u2019ve been buying lately! Please remember to answer the following questions honestly to accrue full points."
+    },
+    {
+        "id": 43,
+        "title": "Lets talk about your favorite clothing!",
+        "pts": 54,
+        "description": "We have some questions about your go-to clothing and your favorite activities."
+    },
+    {
+        "id": 44,
+        "title": "Let\u2019s talk about grocery shopping!",
+        "pts": 54,
+        "description": "We have a few questions for you to answer."
+    },
+    {
         "text": "We want to hear from you!",
         "id": "Daini 50",
         "requiredTexts": [
@@ -277,50 +421,50 @@
             "Please answer a few questions about your habits."
         ]
     },
-  {
-    "id": 45,
-    "title": "Let's talk about you!",
-    "pts": 54,
-    "description": "We have some questions for you about yourself. Thanks in advance for your participation!"
-  },
-  {
+    {
+        "id": 45,
+        "title": "Let's talk about you!",
+        "pts": 54,
+        "description": "We have some questions for you about yourself. Thanks in advance for your participation!"
+    },
+    {
         "text": "We have a few questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!",
         "id": "Daini 47"
-  },
-  {
-    "id": 46,
-    "title": "Pet Ownership!",
-    "pts": 54,
-    "description": "We have some questions for you about the pets you own and the type of food/treats you're feeding them! Please answer all questions fully and accurately in order to accrue full points."
-  },
-  {
-    "id": 47,
-    "title": "A few questions about you!",
-    "pts": 54,
-    "description": "We have a few questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
-  },
-  {
-    "id": 48,
-    "title": "We\u2019d love to learn about you!",
-    "pts": 54,
-    "description": "Tell us about you and the pets that live in your home."
-  },
-  {
-    "id": 49,
-    "title": "A few questions about you!",
-    "pts": 54,
-    "description": "We have some questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
-  },
-  {
-    "id": 50,
-    "title": "We want to hear from you!",
-    "pts": 54,
-    "description": "Please answer a few questions about your habits."
-  },
-  {
-    "id": 51,
-    "title": "Some questions about you!",
-    "pts": 54,
-    "description": "We have a few questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
-  }
+    },
+    {
+        "id": 46,
+        "title": "Pet Ownership!",
+        "pts": 54,
+        "description": "We have some questions for you about the pets you own and the type of food/treats you're feeding them! Please answer all questions fully and accurately in order to accrue full points."
+    },
+    {
+        "id": 47,
+        "title": "A few questions about you!",
+        "pts": 54,
+        "description": "We have a few questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+    },
+    {
+        "id": 48,
+        "title": "We\u2019d love to learn about you!",
+        "pts": 54,
+        "description": "Tell us about you and the pets that live in your home."
+    },
+    {
+        "id": 49,
+        "title": "A few questions about you!",
+        "pts": 54,
+        "description": "We have some questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+    },
+    {
+        "id": 50,
+        "title": "We want to hear from you!",
+        "pts": 54,
+        "description": "Please answer a few questions about your habits."
+    },
+    {
+        "id": 51,
+        "title": "Some questions about you!",
+        "pts": 54,
+        "description": "We have a few questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+    }
 ]
