@@ -10,6 +10,14 @@
         "title": "A few questions about you!",
         "pts": 54,
         "description": "We have a few questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+    },
+    {
+        "text": "A few questions about you!",
+        "id": "Daini 72",
+        "requiredTexts": [
+            "A few questions about you!",
+            "We have a few questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+        ]
     },    
     {
         "text": "Learning More About You",
