@@ -12,7 +12,15 @@
             "Learning More About You",
             "Before you begin, please note that"
         ]
-    },    
+    },
+    {
+        "text": "Hi, we value your feedback!",
+        "id": "Daini 70",
+        "requiredTexts": [
+            "Hi, we value your feedback!",
+            "We would greatly appreciate your opinion on a few potential product names."
+        ]
+    },
     {
         "text": "Let’s talk about beauty and personal care.",
         "id": "Daini 51",
