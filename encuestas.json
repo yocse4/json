@@ -6,6 +6,12 @@
         "description": "We want to hear from you about your household consumer product shopping."
     },
     {
+        "id": 72,
+        "title": "A few questions about you!",
+        "pts": 54,
+        "description": "We have a few questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+    },    
+    {
         "text": "Learning More About You",
         "id": "Daini 69",
         "requiredTexts": [
