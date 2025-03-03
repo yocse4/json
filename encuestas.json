@@ -160,13 +160,13 @@
     {
         "id": 1,
         "title": "Health and Fitness digital service and consumer product",
-        "pts": 54,
+        "pts": 39,
         "description": "Today we\u2019re going to be talking about technology and your thoughts on health and fitness."
     },
     {
         "id": 2,
         "title": "Tell us about you!",
-        "pts": 54,
+        "pts": 36,
         "description": "We'd like to know a bit about some of the products you may use."
     },
     {
@@ -178,67 +178,67 @@
     {
         "id": 4,
         "title": "Baby Registry Usage",
-        "pts": 54,
+        "pts": 19,
         "description": "A question about if you have used a retailer baby registry before."
     },
     {
         "id": 5,
         "title": "One question about your household!",
-        "pts": 54,
+        "pts": 19,
         "description": "Super quick we promise!"
     },
     {
         "id": 6,
         "title": "A few questions about your recent product purchases",
-        "pts": 54,
+        "pts": 25,
         "description": "Please answer a few questions about your recent product purchases"
     },
     {
         "id": 7,
         "title": "A few questions about fast food or fast casual restaurants",
-        "pts": 54,
+        "pts": 12,
         "description": "Please answer a few short questions about fast food or fast casual restaurants you have visited or ordered from recently."
     },
     {
         "id": 8,
         "title": "Getting to Know You",
-        "pts": 54,
+        "pts": 16,
         "description": "We\u2019d love to learn more about you! Answer a few quick questions to share your experiences and perspectives."
     },
     {
         "id": 9,
         "title": "Your Recent Shopping Behavior",
-        "pts": 54,
+        "pts": 6,
         "description": "Please answer these few questions on your recent shopping behavior."
     },
     {
         "id": 10,
         "title": "Tell us about you!",
-        "pts": 54,
+        "pts": 51,
         "description": "We have a few questions for you on personal care products"
     },
     {
         "id": 11,
         "title": "Outdoor Fun!",
-        "pts": 54,
+        "pts": 6,
         "description": "A few quick questions about outdoor activities you like to engage in"
     },
     {
         "id": 12,
         "title": "All about you.",
-        "pts": 54,
+        "pts": 37,
         "description": "We\u2019d love to hear a bit more about you!"
     },
     {
         "id": 13,
         "title": "This is a survey about skin care products",
-        "pts": 54,
+        "pts": 84,
         "description": "Please, help us with 5 minutes of your time"
     },
     {
         "id": 14,
         "title": "All About Your Tech!",
-        "pts": 54,
+        "pts": 19,
         "description": "We have some questions about you and your tech!"
     },
     {
@@ -250,7 +250,7 @@
     {
         "id": 16,
         "title": "All about you!",
-        "pts": 54,
+        "pts": 12,
         "description": "Today we\u2019re going to learn something about you!"
     },
     {
