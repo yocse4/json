@@ -407,3 +407,20 @@
             "Please answer the following questions to the best of your ability"
         ]
     },
+    {
+        "text": "A few questions about you!",
+        "id": "Daini 144",
+        "requiredTexts": [
+            "A few questions about you!",
+            "We have some questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+        ]
+    },
+    {
+        "text": "Learning More About You",
+        "id": "Daini 145",
+        "requiredTexts": [
+            "Learning More About You",
+            "Before you begin, please note that \"infant or toddler\" refers to children under 3 years old. \"Infant or toddler products\" include reusable items like feeding products, healthcare, travel gear, and toys but exclude disposables like diapers and wipes."
+        ]
+    }
+]
