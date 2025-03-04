@@ -342,5 +342,45 @@
             "All About Apps",
             "Please answer a few questions about apps."
         ]
+    },
+    {
+        "text": "Let's talk about you!",
+        "id": "Daini 136",
+        "requiredTexts": [
+            "Let's talk about you!",
+            "We would like to learn more about you and your current purchasing habits."
+        ]
+    },
+    {
+        "text": "Let’s talk about beauty and personal care.",
+        "id": "Daini 137",
+        "requiredTexts": [
+            "Let’s talk about beauty and personal care.",
+            "We’d like to learn more about your opinions! Please remember there are no right or wrong answers and thank you for your participation."
+        ]
+    },
+    {
+        "text": "Getting to know you!",
+        "id": "Daini 138",
+        "requiredTexts": [
+            "Getting to know you!",
+            "We have a couple of questions for you, thanks for your participation!"
+        ]
+    },
+    {
+        "text": "Relationship Status",
+        "id": "Daini 139",
+        "requiredTexts": [
+            "Relationship Status",
+            "We have a few questions for you!"
+        ]
+    },
+    {
+        "text": "Asking About Your Favorite Stores and Brands!",
+        "id": "Daini 140",
+        "requiredTexts": [
+            "Asking About Your Favorite Stores and Brands!",
+            "Tell us more about the stores and brands you prefer to shop."
+        ]
     }
 ]
