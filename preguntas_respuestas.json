@@ -11,6 +11,12 @@
             "respuestas": [
                 "I have children at home"
             ]
+        },
+        {
+            "pregunta": "Do you, any member of your household, or any close friends or relatives work in any of the following fields?",
+            "respuestas": [
+                "None of these"
+            ]
         }
     ]
 }
