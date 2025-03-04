@@ -422,5 +422,29 @@
             "Learning More About You",
             "Before you begin, please note that \"infant or toddler\" refers to children under 3 years old. \"Infant or toddler products\" include reusable items like feeding products, healthcare, travel gear, and toys but exclude disposables like diapers and wipes."
         ]
+    },
+    {
+        "text": "Hi, we value your feedback!",
+        "id": "Daini 146",
+        "requiredTexts": [
+            "Hi, we value your feedback!",
+            "We would greatly appreciate your opinion on a few potential product names."
+        ]
+    },
+    {
+        "text": "Tell us about you!",
+        "id": "Dno sirve",
+        "requiredTexts": [
+            "Tell us about you!",
+            "We have a couple of questions for you about your health and wellness habits, thanks for your participation!"
+        ]
+    },
+    {
+        "text": "Beverages Study",
+        "id": "Daini 148",
+        "requiredTexts": [
+            "Beverages Study",
+            "We have a few questions for you about the beverages you consume!"
+        ]
     }
 ]
