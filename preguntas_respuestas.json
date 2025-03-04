@@ -5,6 +5,12 @@
             "respuestas": [
                 "I see products that I use as a tool for an activity, not as fashion statements."
             ]
+        },
+        {
+            "pregunta": "Which of the following best describes your parenting status?",
+            "respuestas": [
+                "I have children at home"
+            ]
         }
     ]
 }
