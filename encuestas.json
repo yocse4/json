@@ -352,11 +352,11 @@
         ]
     },
     {
-        "text": "Let’s talk about beauty and personal care.",
+        "text": "Let\u2019s talk about beauty and personal care.",
         "id": "Daini 137",
         "requiredTexts": [
-            "Let’s talk about beauty and personal care.",
-            "We’d like to learn more about your opinions! Please remember there are no right or wrong answers and thank you for your participation."
+            "Let\u2019s talk about beauty and personal care.",
+            "We\u2019d like to learn more about your opinions! Please remember there are no right or wrong answers and thank you for your participation."
         ]
     },
     {
@@ -381,6 +381,30 @@
         "requiredTexts": [
             "Asking About Your Favorite Stores and Brands!",
             "Tell us more about the stores and brands you prefer to shop."
+        ]
+    },
+    {
+        "text": "Tell us about yourself!",
+        "id": "Daini 141",
+        "requiredTexts": [
+            "Tell us about yourself!",
+            "Please answer some questions about your habits and purchase behavior."
+        ]
+    },
+    {
+        "text": "Getting to know you!",
+        "id": "Daini 142",
+        "requiredTexts": [
+            "Getting to know you!",
+            "We want to know more about you! Thank you for participating!"
+        ]
+    },
+    {
+        "text": "Let's talk about you!",
+        "id": "Daini 143",
+        "requiredTexts": [
+            "Let's talk about you!",
+            "Please answer the following questions to the best of your ability"
         ]
     }
 ]
