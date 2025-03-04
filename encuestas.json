@@ -326,5 +326,21 @@
             "Questions for You",
             "We want to hear from you about your household consumer product shopping."
         ]
+    },
+    {
+        "text": "Let's talk tech!",
+        "id": "Daini 134",
+        "requiredTexts": [
+            "Let's talk tech!",
+            "We have a 3 questions for you!"
+        ]
+    },
+    {
+        "text": "All About Apps",
+        "id": "Daini 135",
+        "requiredTexts": [
+            "All About Apps",
+            "Please answer a few questions about apps."
+        ]
     }
 ]
