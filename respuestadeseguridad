@@ -55,6 +55,10 @@
         {
             "tipo": "respuesta_de_seguridad",
             "mensaje": "Carros\nHibrido enchufable y  a gasolina"
+        },
+        {
+            "tipo": "respuesta_de_seguridad",
+            "mensaje": "level education\n Graduate or professional degree"
         }
     ]
 }
