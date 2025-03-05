@@ -432,14 +432,6 @@
         ]
     },
     {
-        "text": "Tell us about you!",
-        "id": "Daini 147",
-        "requiredTexts": [
-            "Tell us about you!",
-            "We have a couple of questions for you about your health and wellness habits, thanks for your participation!"
-        ]
-    },
-    {
         "text": "Beverages Study",
         "id": "Daini 148",
         "requiredTexts": [
@@ -496,7 +488,7 @@
         ]
     },
     {
-        "text": "We want to hear from youcc",
+        "text": "We want to hear from you",
         "id": "Daini 155",
         "requiredTexts": [
             "We want to hear from youcc",
