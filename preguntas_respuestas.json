@@ -1,21 +1,170 @@
 {
     "preguntas": [
         {
-            "pregunta": "Please indicate to what extent you agree or disagree with the following statements.",
+            "pregunta": "Do you or any member of your immediate family CURRENTLY work for any of the following companies?",
             "respuestas": [
-                "I see products that I use as a tool for an activity, not as fashion statements."
+                "None of the above"
             ]
         },
         {
-            "pregunta": "Which of the following best describes your parenting status?",
+            "pregunta": "¿Su hijo sufre actualmente o ha sufrido recientemente, de cualquiera de los siguientes alentos? ",
             "respuestas": [
-                "I have children at home"
+                "Dolores de cabeza frecuentes",
+                "Dolor de espalda"
             ]
         },
         {
-            "pregunta": "Do you, any member of your household, or any close friends or relatives work in any of the following fields?",
+            "pregunta": "¿Cuál de los siguientes ha hecho en los últimos 3 años? ",
             "respuestas": [
-                "None of these"
+                "Establezca una campaña de recaudación de fondos en línea (por ejemplo, GoFundMe, Kickstarter). ",
+                " Abrió una tienda en línea o perfil de mercado (por ejemplo, Etsy, eBay)."
+            ]
+        },
+        {
+            "pregunta": "¿Para qué usas los encendedores normalmente? ",
+            "respuestas": [
+                "Para fumar marihuana u otros productos de cannabis ",
+                " Para fumar una pipa"
+            ]
+        },
+        {
+            "pregunta": "¿Cuánto está de acuerdo / en desacuerdo con la declaración \"Quiero usar enjuague bucal, pero olvido usarlo\"",
+            "respuestas": [
+                "Sin opinión"
+            ]
+        },
+        {
+            "pregunta": "Cuánto está de acuerdo / en desacuerdo con la declaración \"El enjuague bucal no es necesario, el cepillado y / o el hilo dental es suficiente\" ",
+            "respuestas": [
+                "Un poco en desacuerdo"
+            ]
+        },
+        {
+            "pregunta": "¿Qué describe mejor su situación laboral? ",
+            "respuestas": [
+                "Tengo una configuración híbrida, trabajo fuera del hogar y en casa cantidades iguales"
+            ]
+        },
+        {
+            "pregunta": "¿Con qué frecuencia lavas la ropa? ",
+            "respuestas": [
+                "A diario"
+            ]
+        },
+        {
+            "pregunta": "¿Qué para el cuidado productos de la piel ha comprado en los últimos 12 meses? ",
+            "respuestas": [
+                "Matorral"
+            ]
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes, si lo hay, ha comprado en los últimos 4 años? ",
+            "respuestas": [
+                "Anteojos recetados ",
+                "Lentes de contacto",
+                "Gafas de sol recetadas"
+            ]
+        },
+        {
+            "pregunta": "¿Qué tamaño de perro (s) tienes? Seleccione solo aquellos que se aplican.",
+            "respuestas": [
+                "Pequeño (11-25 lbs)"
+            ]
+        },
+        {
+            "pregunta": "Please select the one option that best describes your education level.",
+            "respuestas": [
+                "Graduate or professional degree"
+            ]
+        },
+        {
+            "pregunta": "¿Cuál fue la principal forma que esperaba usar el artículo de New Balance ? Seleccione uno. ",
+            "respuestas": [
+                "Actividades deportivas (por ejemplo, carrera, tenis, baloncesto, skateboard)"
+            ]
+        },
+        {
+            "pregunta": "¿Cómo describirías tu situación financiera?",
+            "respuestas": [
+                "Saludable: me queda dinero al final del mes para algunos lujos o para agregar a mis ahorros"
+            ]
+        },
+        {
+            "pregunta": "¿Cuáles son las edades de los niños menores de 18 años que viven en su hogar? ",
+            "respuestas": [
+                "12 - 17 meses"
+            ]
+        },
+        {
+            "pregunta": "¿Cuándo adquiriste tu iPhone ?",
+            "respuestas": [
+                "Más de 1 pero hace menos de 2 años"
+            ]
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes opciones describe mejor su tipo de empleo? Si tiene múltiples trabajos, seleccione todos los que se apliquen a usted. Por ejemplo: si es empleado por una empresa y también tiene una pequeña empresa, seleccione (a) y (c) ",
+            "respuestas": [
+                "Propietario de trabajo por cuenta propia / al menos otro socio comercial o empleado"
+            ]
+        },
+        {
+            "pregunta": "Cuando se trata de comprar comestibles para su hogar, ¿cuál de las siguientes opciones se aplica mejor a usted? ",
+            "respuestas": [
+                "Hago algunas de las compras de comestibles para mi hogar"
+            ]
+        },
+        {
+            "pregunta": "How many hours per week do you spend on content creation?",
+            "respuestas": [
+                "5 - 10 hours"
+            ]
+        },
+        {
+            "pregunta": "How would you describe your financial situation?",
+            "respuestas": [
+                "Healthy - I have money left at the end of the month for a few luxuries or to add to my savings"
+            ]
+        },
+        {
+            "pregunta": "Which of the following ages best describes your child(ren)?",
+            "respuestas": [
+                "Less than 2 years old"
+            ]
+        },
+        {
+            "pregunta": "Which of the following payroll providers / platforms does your company use? As an employee, this would most likely be the platform you can view your paychecks and put in vacation requests.",
+            "respuestas": [
+                "Square"
+            ]
+        },
+        {
+            "pregunta": "How old is/are the cat(s) in your household?",
+            "respuestas": [
+                "Less than 1 year"
+            ]
+        },
+        {
+            "pregunta": "How old is/are the dog(s) in your household?",
+            "respuestas": [
+                "Less than 1 year"
+            ]
+        },
+        {
+            "pregunta": "What size dog(s) do you own?",
+            "respuestas": [
+                "Small (11-25 lbs.)"
+            ]
+        },
+        {
+            "pregunta": "How would you describe your financial situation?",
+            "respuestas": [
+                "OK - I get by, but there's not a lot left by the time the basics are taken care of"
+            ]
+        },
+        {
+            "pregunta": "Which of the following ages best describes your child(ren)?",
+            "respuestas": [
+                "Less than 2 years old"
             ]
         }
     ]
