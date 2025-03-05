@@ -23,6 +23,38 @@
         {
             "tipo": "respuesta_de_seguridad",
             "mensaje": "Edad hijos 2 5 12 a;os"
+        },
+        {
+            "tipo": "respuesta_de_seguridad",
+            "mensaje": "lentes Bifocal or trifocal"
+        },
+        {
+            "tipo": "respuesta_de_seguridad",
+            "mensaje": "marcas conocidas de vision\n MyEyeDr \n Walmart Vision Center"
+        },
+        {
+            "tipo": "respuesta_de_seguridad",
+            "mensaje": "Trabajo Tiempo completo hibrido"
+        },
+        {
+            "tipo": "respuesta_de_seguridad",
+            "mensaje": "Mascotas dos 2 perros y 2 gatos"
+        },
+        {
+            "tipo": "respuesta_de_seguridad",
+            "mensaje": "Tipo de piel \ncombinanda"
+        },
+        {
+            "tipo": "respuesta_de_seguridad",
+            "mensaje": "piel\nalgo sensible"
+        },
+        {
+            "tipo": "respuesta_de_seguridad",
+            "mensaje": "Trabajo \nConstruccion"
+        },
+        {
+            "tipo": "respuesta_de_seguridad",
+            "mensaje": "Carros\nHibrido enchufable y  a gasolina"
         }
     ]
 }
