@@ -409,7 +409,7 @@
     },
     {
         "text": "A few questions about you!",
-        "id": "Se hace a PIE si quieres",
+        "id": "Daini 144",
         "requiredTexts": [
             "A few questions about you!",
             "We have some questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
@@ -429,6 +429,14 @@
         "requiredTexts": [
             "Hi, we value your feedback!",
             "We would greatly appreciate your opinion on a few potential product names."
+        ]
+    },
+    {
+        "text": "Tell us about you!",
+        "id": "Daini 147",
+        "requiredTexts": [
+            "Tell us about you!",
+            "We have a couple of questions for you about your health and wellness habits, thanks for your participation!"
         ]
     },
     {
@@ -488,10 +496,10 @@
         ]
     },
     {
-        "text": "We want to hear from you",
+        "text": "We want to hear from youcc",
         "id": "Daini 155",
         "requiredTexts": [
-            "We want to hear from you",
+            "We want to hear from youcc",
             "Tell us about your preferences when it comes to health & personal care products."
         ]
     },
@@ -517,6 +525,38 @@
         "requiredTexts": [
             "Tell us about you!",
             "Looking forward to hearing what you think!"
+        ]
+    },
+    {
+        "text": "We\u2019d like to hear from you!",
+        "id": "Daini 159",
+        "requiredTexts": [
+            "We\u2019d like to hear from you!",
+            "Please tell us about yourself."
+        ]
+    },
+    {
+        "text": "Some questions about you!",
+        "id": "Daini 160",
+        "requiredTexts": [
+            "Some questions about you!",
+            "Please be honest \u2013 there are no right or wrong answers! Thank you for your time."
+        ]
+    },
+    {
+        "text": "Shopping for your home!",
+        "id": "Daini 161",
+        "requiredTexts": [
+            "Shopping for your home!",
+            "We want to learn more about how you shop for your home. Please answer as honestly as possible."
+        ]
+    },
+    {
+        "text": "A few quick questions about what you eat!",
+        "id": "Daini 162",
+        "requiredTexts": [
+            "A few quick questions about what you eat!",
+            "Share more about what you eat in this short survey."
         ]
     }
 ]
