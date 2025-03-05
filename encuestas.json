@@ -470,5 +470,21 @@
             "A few questions about you!",
             "We have a few questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
         ]
+    },
+    {
+        "text": "Lets talk about you!",
+        "id": "Daini 152",
+        "requiredTexts": [
+            "Lets talk about you!",
+            "Please answer the following questions honestly. There are no right or wrong answers!"
+        ]
+    },
+    {
+        "text": "We're conducting a survey to better understand the experiences and preferences of electric vehicle (EV) drivers.",
+        "id": "Daini 153",
+        "requiredTexts": [
+            "We're conducting a survey to better understand the experiences and preferences of electric vehicle (EV) drivers.",
+            "This survey is designed to explore your experiences with electric vehicles, including ownership, charging habits, and general sentiments. Your input will help us improve EV-related products and services."
+        ]
     }
 ]
