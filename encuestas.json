@@ -486,5 +486,13 @@
             "We're conducting a survey to better understand the experiences and preferences of electric vehicle (EV) drivers.",
             "This survey is designed to explore your experiences with electric vehicles, including ownership, charging habits, and general sentiments. Your input will help us improve EV-related products and services."
         ]
+    },
+    {
+        "text": "Let's talk snacks",
+        "id": "Daini 154",
+        "requiredTexts": [
+            "Let's talk snacks",
+            "We have a few questions about snacking"
+        ]
     }
 ]
