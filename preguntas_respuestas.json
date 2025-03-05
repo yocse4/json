@@ -19,17 +19,21 @@
             ]
         },
         {
+            "pregunta": "Now please tell us how much you agree with each of the following statements when considering your views on skincare on a scale of 1 to 7 where 1 means disagree completely, 7 means agree completely. How much do you agree or disagree with...",
+            "respuestas": [
+                " I believe in a holistic approach to skincare that nurtures both the skin and body"
+            ]
+        },
+        {
             "pregunta": "Thinking about skincare, please indicate how much you agree with each of the following statements related to your product choices on a scale of 1 to 7 where 1 means disagree completely, 7 means agree completely. How much do you agree or disagree...",
             "respuestas": [
                 "I mainly choose brands/products that I’m familiar with/have used before"
             ]
-        },
+        },        
         {
             "pregunta": "Now please tell us how much you agree with each of the following statements when considering your views on skincare on a scale of 1 to 7 where 1 means disagree completely, 7 means agree completely. How much do you agree or disagree with...",
             "respuestas": [
-                "I reject mainstream ideas when it comes to beauty ",
-                "",
-                " I believe in a holistic approach to skincare that nurtures both the skin and body"
+                "I reject mainstream ideas when it comes to beauty "
             ]
         }
     ]
