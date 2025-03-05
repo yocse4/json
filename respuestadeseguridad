@@ -3,6 +3,26 @@
         {
             "tipo": "respuesta_de_seguridad",
             "mensaje": "Redes Sociales\nSnapchat\nPinterest\nX (formerly Twitter)\nTikTok\nDiscord \nFacebook\nInstagram"
+        },
+        {
+            "tipo": "respuesta_de_seguridad",
+            "mensaje": "Where were you in birth order? 1"
+        },
+        {
+            "tipo": "respuesta_de_seguridad",
+            "mensaje": "Carros 2"
+        },
+        {
+            "tipo": "respuesta_de_seguridad",
+            "mensaje": "alfombras 3-4"
+        },
+        {
+            "tipo": "respuesta_de_seguridad",
+            "mensaje": "teléfono apple"
+        },
+        {
+            "tipo": "respuesta_de_seguridad",
+            "mensaje": "Edad hijos 2 5 12 a;os"
         }
     ]
 }
