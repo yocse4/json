@@ -494,5 +494,37 @@
             "Let's talk snacks",
             "We have a few questions about snacking"
         ]
+    },
+    {
+        "text": "We want to hear from youcc",
+        "id": "Daini 155",
+        "requiredTexts": [
+            "We want to hear from youcc",
+            "Tell us about your preferences when it comes to health & personal care products."
+        ]
+    },
+    {
+        "text": "Home & Lifestyle Personalities",
+        "id": "Daini 156",
+        "requiredTexts": [
+            "Home & Lifestyle Personalities",
+            "We have a few quick questions for you!"
+        ]
+    },
+    {
+        "text": "Home Sweet Home",
+        "id": "Daini 157",
+        "requiredTexts": [
+            "Home Sweet Home",
+            "What makes your home, your home? We\u2019re curious about how you think about your home. There are no right or wrong answers so please answer honestly. This will be less than 10 questions."
+        ]
+    },
+    {
+        "text": "Tell us about you!",
+        "id": "Daini 158",
+        "requiredTexts": [
+            "Tell us about you!",
+            "Looking forward to hearing what you think!"
+        ]
     }
 ]
