@@ -590,5 +590,45 @@
             "A few quick questions!",
             "Just a few quick questions for you today\u2026 jump right in!"
         ]
+    },
+    {
+        "text": "All About You!",
+        "id": "Daini 167",
+        "requiredTexts": [
+            "All About You!",
+            "We have a few quick questions for you!"
+        ]
+    },
+    {
+        "text": "All about you!",
+        "id": "Daini 168",
+        "requiredTexts": [
+            "All about you!",
+            "Take this short survey to share more about you. Thanks in advance for participating!"
+        ]
+    },
+    {
+        "text": "Let\u2019s talk technology!",
+        "id": "Daini 169",
+        "requiredTexts": [
+            "Let\u2019s talk technology!",
+            "In this short survey, we want to understand a little bit more about the technology you use."
+        ]
+    },
+    {
+        "text": "Places you have shopped",
+        "id": "Daini 170",
+        "requiredTexts": [
+            "Places you have shopped",
+            "Please answer 1 question to tell us where you have shopped recently."
+        ]
+    },
+    {
+        "text": "We have a few questions about your shopping behaviors",
+        "id": "Daini 171",
+        "requiredTexts": [
+            "We have a few questions about your shopping behaviors",
+            "Please answer the following questions about your grocery (food & beverage) shopping behaviors"
+        ]
     }
 ]
