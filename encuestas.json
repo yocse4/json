@@ -678,5 +678,37 @@
             "What does healthcare management look like for YOU",
             "Please answer a few question about your healthcare management"
         ]
+    },
+    {
+        "text": "Tell us about you!",
+        "id": "Daini 178",
+        "requiredTexts": [
+            "Tell us about you!",
+            "Please answer a few questions about purchasing everyday essentials for your family."
+        ]
+    },
+    {
+        "text": "Tell us about what goes in your cart!",
+        "id": "Daini 179",
+        "requiredTexts": [
+            "Tell us about what goes in your cart!",
+            "A quick survey about your grocery shopping habits."
+        ]
+    },
+    {
+        "text": "Some questions about you!",
+        "id": "Daini 180",
+        "requiredTexts": [
+            "Some questions about you!",
+            "We have a few questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+        ]
+    },
+    {
+        "text": "Tell us a bit more about what products and services you use.",
+        "id": "Daini 181",
+        "requiredTexts": [
+            "Tell us a bit more about what products and services you use.",
+            "We have a few questions to get to know you better. Remember, there are no right or wrong answers. Thank you for your participation."
+        ]
     }
 ]
