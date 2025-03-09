@@ -558,5 +558,37 @@
             "A few quick questions about what you eat!",
             "Share more about what you eat in this short survey."
         ]
+    },
+    {
+        "text": "We want to learn about you!",
+        "id": "Daini 163",
+        "requiredTexts": [
+            "We want to learn about you!",
+            "Please be honest, there are no wrong answers"
+        ]
+    },
+    {
+        "text": "Dining habits",
+        "id": "Daini 164",
+        "requiredTexts": [
+            "Dining habits",
+            "We\u2019d love to hear more about your dining behavior"
+        ]
+    },
+    {
+        "text": "All about you",
+        "id": "Daini 165",
+        "requiredTexts": [
+            "All about you",
+            "Please tell us a bit about you"
+        ]
+    },
+    {
+        "text": "A few quick questions!",
+        "id": "Daini 166",
+        "requiredTexts": [
+            "A few quick questions!",
+            "Just a few quick questions for you today\u2026 jump right in!"
+        ]
     }
 ]
