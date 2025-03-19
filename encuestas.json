@@ -814,5 +814,13 @@
             "Some surveys ask about spending habits\u2014your household income helps us match you to them. What's your total household income before taxes?",
             "Please select 1 answer"
         ]
+    },
+    {
+        "text": "Your work status helps us match you with career-related surveys. What's your current employment situation?",
+        "id": "Daini 195",
+        "requiredTexts": [
+            "Your work status helps us match you with career-related surveys. What's your current employment situation?",
+            "Your work status helps us match you with career-related surveys. What's your current employment situation?"
+        ]
     }
 ]
