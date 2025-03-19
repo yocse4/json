@@ -846,5 +846,101 @@
             "Crowdtap 101: The Basics",
             "Learn how to answer surveys, earn rewards, and get contest updates!"
         ]
+    },
+    {
+        "text": "Time Management and Daily Priorities",
+        "id": "Daini 199",
+        "requiredTexts": [
+            "Time Management and Daily Priorities",
+            "This is a short survey to gather insights about how people manage their time and priorities. There are no right or wrong answers \u2014 share your honest experience. It should only take 2-3 minutes to complete."
+        ]
+    },
+    {
+        "text": "Pot of Gold \ud83c\udf40\u2618\ufe0f",
+        "id": "Daini 200",
+        "requiredTexts": [
+            "Pot of Gold \ud83c\udf40\u2618\ufe0f",
+            "You found one of your \"Pot of Gold\" surveys. Good job!!"
+        ]
+    },
+    {
+        "text": "Pot of Gold \ud83e\udd67",
+        "id": "Daini 201",
+        "requiredTexts": [
+            "Pot of Gold \ud83e\udd67",
+            "You found one of your \"Pot of Gold\" surveys. Good job!!"
+        ]
+    },
+    {
+        "text": "Pot of Gold \ud83c\udfa9",
+        "id": "Daini 202",
+        "requiredTexts": [
+            "Pot of Gold \ud83c\udfa9",
+            "You found one of your \"Pot of Gold\" surveys. Good job!!"
+        ]
+    },
+    {
+        "text": "Pot of Gold \ud83c\uddee\ud83c\uddea",
+        "id": "Daini 203",
+        "requiredTexts": [
+            "Pot of Gold \ud83c\uddee\ud83c\uddea",
+            "You found one of your \"Pot of Gold\" surveys. Good job!!"
+        ]
+    },
+    {
+        "text": "Pot of Gold \u2728",
+        "id": "Daini 204",
+        "requiredTexts": [
+            "Pot of Gold \u2728",
+            "You found one of your \"Pot of Gold\" surveys. Good job!!"
+        ]
+    },
+    {
+        "text": "Pot of Gold \ud83d\udcb0",
+        "id": "Daini 205",
+        "requiredTexts": [
+            "Pot of Gold \ud83d\udcb0",
+            "You found one of your \"Pot of Gold\" surveys. Good job!!"
+        ]
+    },
+    {
+        "text": "Pot of Gold \ud83c\udf08",
+        "id": "Daini 206",
+        "requiredTexts": [
+            "Pot of Gold \ud83c\udf08",
+            "You found one of your \"Pot of Gold\" surveys. Good job!!"
+        ]
+    },
+    {
+        "text": "A Few Questions About You",
+        "id": "Daini 207",
+        "requiredTexts": [
+            "A Few Questions About You",
+            "Please answer the following questions to the best of your ability. Thank you"
+        ]
+    },
+    {
+        "text": "We want to hear what you\u2019re eating!",
+        "id": "Daini 208",
+        "requiredTexts": [
+            "We want to hear what you\u2019re eating!",
+            "Please be honest, there\u2019s no wrong answer."
+        ]
+    },
+    {
+        "text": "Tell us more about you!",
+        "id": "Daini 209",
+        "requiredTexts": [
+            "Tell us more about you!",
+            "Answer a few questions all about you in this short survey. Thanks for participating."
+        ]
+    },
+    {
+        "text": "A survey about you!",
+        "id": "Daini 210",
+        "requiredTexts": [
+            "A survey about you!",
+            "Thanks for your participation in this short survey. Remember, there are no right or wrong answers!"
+        ]
     }
 ]
