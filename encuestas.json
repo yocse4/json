@@ -433,7 +433,7 @@
     },
     {
         "text": "Tell us about you!",
-        "id": "Daini No se hace",
+        "id": "Daini 147",
         "requiredTexts": [
             "Tell us about you!",
             "We have a couple of questions for you about your health and wellness habits, thanks for your participation!"
@@ -709,6 +709,110 @@
         "requiredTexts": [
             "Tell us a bit more about what products and services you use.",
             "We have a few questions to get to know you better. Remember, there are no right or wrong answers. Thank you for your participation."
+        ]
+    },
+    {
+        "text": "To help us send you more relevant surveys, how do you identify?",
+        "id": "Daini 182",
+        "requiredTexts": [
+            "To help us send you more relevant surveys, how do you identify?",
+            "Please select 1 answer"
+        ]
+    },
+    {
+        "text": "What state do you live in?",
+        "id": "Daini 183",
+        "requiredTexts": [
+            "What state do you live in?",
+            "What state do you live in?"
+        ]
+    },
+    {
+        "text": "We'd love to send you age-appropriate surveys! When's your birthday?",
+        "id": "Daini 184",
+        "requiredTexts": [
+            "We'd love to send you age-appropriate surveys! When's your birthday?",
+            "We'd love to send you age-appropriate surveys! When's your birthday?"
+        ]
+    },
+    {
+        "text": "We'd love to send you age-appropriate surveys! When's your birthday?",
+        "id": "Daini 185",
+        "requiredTexts": [
+            "We'd love to send you age-appropriate surveys! When's your birthday?",
+            "We'd love to send you age-appropriate surveys! When's your birthday?"
+        ]
+    },
+    {
+        "text": "What is your zip code? This helps us match you with local surveys!",
+        "id": "Daini 186",
+        "requiredTexts": [
+            "What is your zip code? This helps us match you with local surveys!",
+            "What is your zip code? This helps us match you with local surveys!"
+        ]
+    },
+    {
+        "text": "What city do you live in? This helps us send you location-specific surveys!",
+        "id": "Daini 187",
+        "requiredTexts": [
+            "What city do you live in? This helps us send you location-specific surveys!",
+            "What city do you live in? This helps us send you location-specific surveys!"
+        ]
+    },
+    {
+        "text": "We want to make sure our surveys reflect diverse perspectives. How do you identify?",
+        "id": "Daini 188",
+        "requiredTexts": [
+            "We want to make sure our surveys reflect diverse perspectives. How do you identify?",
+            "Please select 1 answer"
+        ]
+    },
+    {
+        "text": "Some surveys are designed for people with specific education backgrounds. What's the highest level of school you've completed?",
+        "id": "Daini 189",
+        "requiredTexts": [
+            "Some surveys are designed for people with specific education backgrounds. What's the highest level of school you've completed?",
+            "Some surveys are designed for people with specific education backgrounds. What's the highest level of school you've completed?"
+        ]
+    },
+    {
+        "text": "Some surveys focus on relationships and family life. What's your relationship status?",
+        "id": "Daini 190",
+        "requiredTexts": [
+            "Some surveys focus on relationships and family life. What's your relationship status?",
+            "Some surveys focus on relationships and family life. What's your relationship status?"
+        ]
+    },
+    {
+        "text": "Some surveys focus on relationships and family life. What's your relationship status?",
+        "id": "Daini 191",
+        "requiredTexts": [
+            "Some surveys focus on relationships and family life. What's your relationship status?",
+            "Some surveys focus on relationships and family life. What's your relationship status?"
+        ]
+    },
+    {
+        "text": "Household size can impact spending habits\u2014help us send you the right surveys! How many people live in your household, including yourself?",
+        "id": "Daini 192",
+        "requiredTexts": [
+            "Household size can impact spending habits\u2014help us send you the right surveys! How many people live in your household, including yourself?",
+            "Please select 1 answer"
+        ]
+    },
+    {
+        "text": "Some surveys focus on family life. Which best describes your parenting status?",
+        "id": "Daini 193",
+        "requiredTexts": [
+            "Some surveys focus on family life. Which best describes your parenting status?",
+            "Please select 1 answer"
+        ]
+    },
+    {
+        "text": "Some surveys ask about spending habits\u2014your household income helps us match you to them. What's your total household income before taxes?",
+        "id": "Daini 194",
+        "requiredTexts": [
+            "Some surveys ask about spending habits\u2014your household income helps us match you to them. What's your total household income before taxes?",
+            "Please select 1 answer"
         ]
     }
 ]
