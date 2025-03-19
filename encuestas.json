@@ -822,37 +822,5 @@
             "Your work status helps us match you with career-related surveys. What's your current employment situation?",
             "Your work status helps us match you with career-related surveys. What's your current employment situation?"
         ]
-    },
-    {
-        "text": "Crowdtap 101: The Basics",
-        "id": "Daini 196",
-        "requiredTexts": [
-            "Crowdtap 101: The Basics",
-            "Learn how to answer surveys, earn rewards, and get contest updates!"
-        ]
-    },
-    {
-        "text": "Crowdtap 101: Question Types",
-        "id": "Daini 197",
-        "requiredTexts": [
-            "Crowdtap 101: Question Types",
-            "Let us introduce you to all the different question types you'll be asked to answer."
-        ]
-    },
-    {
-        "text": "Crowdtap 101: Tips and Tricks",
-        "id": "Daini 198",
-        "requiredTexts": [
-            "Crowdtap 101: Tips and Tricks",
-            "We're giving you the inside scoop on how to make the most of Crowdtap!"
-        ]
-    },
-    {
-        "text": "Crowdtap 101: Tips and Tricks",
-        "id": "Daini 199",
-        "requiredTexts": [
-            "Crowdtap 101: Tips and Tricks",
-            "We're giving you the inside scoop on how to make the most of Crowdtap!"
-        ]
     }
 ]
