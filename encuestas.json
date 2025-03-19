@@ -942,5 +942,37 @@
             "A survey about you!",
             "Thanks for your participation in this short survey. Remember, there are no right or wrong answers!"
         ]
+    },
+    {
+        "text": "Let's talk tech!",
+        "id": "Daini 211",
+        "requiredTexts": [
+            "Let's talk tech!",
+            "We have a 3 questions for you!"
+        ]
+    },
+    {
+        "text": "Let's talk tech!",
+        "id": "Daini 212",
+        "requiredTexts": [
+            "Let's talk tech!",
+            "We have a 3 questions for you!"
+        ]
+    },
+    {
+        "text": "Neutrogena Hydro Boost face creams that come in a jar",
+        "id": "Daini 213",
+        "requiredTexts": [
+            "Neutrogena Hydro Boost face creams that come in a jar",
+            "Please respond yes to this survey if you currently use Neutrogena Hydro Boost face creams that come in a jar"
+        ]
+    },
+    {
+        "text": "A few questions about where you're eating!",
+        "id": "Daini 214",
+        "requiredTexts": [
+            "A few questions about where you're eating!",
+            "Welcome and thank you for participating! We have a few questions for you about where you're eating."
+        ]
     }
 ]
