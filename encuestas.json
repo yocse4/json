@@ -941,7 +941,94 @@
         "requiredTexts": [
             "A survey about you!",
             "Thanks for your participation in this short survey. Remember, there are no right or wrong answers!"
-
+        ]
+    },
+    {
+        "text": "Shopping & beverage survey!",
+        "id": "Daini 211",
+        "requiredTexts": [
+            "Shopping & beverage survey!",
+            "This survey may take you 10 minutes of your time. Please answer honestly!"
+        ]
+    },
+    {
+        "text": "All About You!",
+        "id": "Daini 212",
+        "requiredTexts": [
+            "All About You!",
+            "We just have two quick questions for you."
+        ]
+    },
+    {
+        "text": "A few opinions are needed!",
+        "id": "Daini 213",
+        "requiredTexts": [
+            "A few opinions are needed!",
+            "Thank you for your opinion on these questions. There are no right or wrong answers, so please be honest!"
+        ]
+    },
+    {
+        "text": "A few questions about you!",
+        "id": "Daini 214",
+        "requiredTexts": [
+            "A few questions about you!",
+            "We\u2019d like to ask you a few questions about your health and wellness habits. There are no right or wrong answers, so please share your honest answers."
+        ]
+    },
+    {
+        "text": "Some questions about your lawn and garden care",
+        "id": "Daini 215",
+        "requiredTexts": [
+            "Some questions about your lawn and garden care",
+            "We have some questions about the lawn and garden products you use. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+        ]
+    },
+    {
+        "text": "Some questions about your lawn.",
+        "id": "Daini 216",
+        "requiredTexts": [
+            "Some questions about your lawn.",
+            "We have some questions about the lawn products you use. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+        ]
+    },
+    {
+        "text": "Please tell us about your household",
+        "id": "Daini 217",
+        "requiredTexts": [
+            "Please tell us about your household",
+            "We have a few questions about your household and the products you use"
+        ]
+    },
+    {
+        "text": "Let's talk about you!",
+        "id": "Daini 218",
+        "requiredTexts": [
+            "Let's talk about you!",
+            "We have some questions for you about yourself. Thanks in advance for your participation!"
+        ]
+    },
+    {
+        "text": "Some questions about your lawn and garden care.",
+        "id": "Daini 219",
+        "requiredTexts": [
+            "Some questions about your lawn and garden care.",
+            "We have some questions about the lawn and garden products you use. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+        ]
+    },
+    {
+        "text": "A few questions about you!",
+        "id": "Daini 220",
+        "requiredTexts": [
+            "A few questions about you!",
+            "We have a few questions about you. There are no right or wrong answers so please answer honestly. Thank you for your time!"
+        ]
+    },
+    {
+        "text": "A few questions about you!",
+        "id": "Daini 221",
+        "requiredTexts": [
+            "A few questions about you!",
+            "Thanks for your time and honesty!"
         ]
     }
 ]
