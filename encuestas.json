@@ -1030,5 +1030,29 @@
             "A few questions about you!",
             "Thanks for your time and honesty!"
         ]
+    },
+    {
+        "text": "More about you",
+        "id": "Daini 222",
+        "requiredTexts": [
+            "More about you",
+            "We want to know more about how you use technology!"
+        ]
+    },
+    {
+        "text": "All about you!",
+        "id": "Daini 223",
+        "requiredTexts": [
+            "All about you!",
+            "We\u2019re seeking insights into your eating habits and food preferences. Please take a few minutes to share your thoughts\u2014there are no right or wrong answers!"
+        ]
+    },
+    {
+        "text": "Tell Us About the Products You Buy!",
+        "id": "Daini 224",
+        "requiredTexts": [
+            "Tell Us About the Products You Buy!",
+            "We want to know a little more about the the products you purchase!"
+        ]
     }
 ]
