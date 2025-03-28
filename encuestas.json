@@ -1054,5 +1054,13 @@
             "Tell Us About the Products You Buy!",
             "We want to know a little more about the the products you purchase!"
         ]
+    },
+    {
+        "text": "We\u2019d love to learn about you!",
+        "id": "Daini 225",
+        "requiredTexts": [
+            "We\u2019d love to learn about you!",
+            "Tell us about you and the pets that live in your home."
+        ]
     }
 ]
