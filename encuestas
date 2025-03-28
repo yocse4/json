@@ -110,6 +110,7 @@ c370,"Multiple Choice","crowdtap.com/","",,,
 c371,"Daini 222","crowdtap.com/","",,,
 c372,"Daini 223","crowdtap.com/","",,,
 c373,"Daini 224","crowdtap.com/","",,,
+c374,"Profile Question","crowdtap.com/","",,,
 ### AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r1982,3,"^f044e75a-f466-4a19-8e98-f501d3133c86$","1","",1,c59
@@ -4708,6 +4709,18 @@ r13314,3,"^36786376-6294-4ff1-95be-de5bdfe92999$","1","",1,c373
 r13315,3,"^67e7a28b-9fba-40fb-a5a5-c4020cbcd1e2$","1","",1,c373
 r13316,3,"^0098a9b8-a6a1-4781-bd27-42a8ed02f1e3$","1","",1,c373
 r13317,3,"^cd5f3ddd-f54f-421d-9750-9d9b6c649d7f$","1","",1,c373
+r13318,3,"^Female/Female Identifying$","1","",1,c374
+r13319,2,"^response$","""4ff12f39-04ad-463b-a62d-5d29334512b1""","",1,c374
+r13320,2,"^Month$","""2""","",1,c374
+r13321,2,"^Day$","""16""","",1,c374
+r13322,2,"^Year$","""1990""","",1,c374
+r13324,3,"^White / Caucasian$","1","",1,c374
+r13325,3,"^Graduate or professional degree$","1","",1,c374
+r13326,3,"^Employed full-time$","1","",1,c374
+r13327,3,"^Married$","1","",1,c374
+r13328,3,"^5\+$","1","",1,c374
+r13329,3,"^I have children at home$","1","",1,c374
+r13330,3,"^\$150,000 or more$","1","",1,c374
 ### AUTOFILL SETTINGS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
@@ -4737,7 +4750,7 @@ manual,0,,,,,
 mask,1,,,,,
 menu,1,"2",,,,
 overwrite,1,,,,,
-parselabels,0,,,,,
+parselabels,1,,,,,
 randdelay,1,,,,,
 regexalerts,1,,,,,
 sitefilters,1,"0",,,,
