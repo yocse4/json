@@ -97,7 +97,7 @@ c357,"Daini 177","crowdtap.com/","",,,
 c358,"Daini 211","crowdtap.com/","",,,
 c359,"Daini 212","crowdtap.com/","",,,
 c360,"Daini 213","crowdtap.com/","",,,
-c361,"Daini 214","crowdtap.com/","",,,
+c361,"Daini 214","","",,,
 c362,"Daini 215","crowdtap.com/","",,,
 c363,"Daini 216","crowdtap.com/","",,,
 c364,"Daini 217","crowdtap.com/","",,,
@@ -4249,19 +4249,19 @@ r12850,3,"^\$!25,000-\$149,999$","1","",1,c360
 r12851,3,"^34970ef3-b992-4348-ad2f-4580b24af34f$","1","",1,c360
 r12852,3,"^10a475ad-eae9-4b8b-a774-bf54d5d9668f$","1","",1,c360
 r12853,3,"^f1d7d934-080f-4c58-9736-974935e4d394$","1","",1,c360
-r12854,3,"^ce2b38e2-5469-461b-90d6-8b88097cc16a$","1","",1,c361
-r12855,3,"^I am primarily responsible for purchasing nutritional supplements$","1","",1,c361
-r12856,3,"^Productos de limpieza para el hogar$","1","",1,c361
-r12857,3,"^Productos de belleza$","1","",1,c361
-r12858,3,"^Champú/acondicionador$","1","",1,c361
-r12859,3,"^Suplementos nutricionales \(por ejemplo, multivitamínicos, proteína en polvo, aceite de pescado, probióticos, etc.\)$","1","",1,c361
-r12860,3,"^Suplementos de nutrición deportiva y fitness \(por ejemplo, creatina, pre-entrenamientos, etc.\)$","1","",1,c361
-r12861,3,"^Equipo de fitness$","1","",1,c361
-r12862,3,"^Frutas y verduras orgánicas$","1","",1,c361
-r12863,3,"^Ayudas dietéticas/productos para el control de peso$","1","",1,c361
-r12864,3,"^Medicamentos de venta libre$","1","",1,c361
-r12865,3,"^3c150178-3965-4f1e-9c06-229aa4ac757f$","1","",1,c361
-r12866,3,"^4b1187e9-e89b-4fd5-a3b7-c8d357def838$","1","",1,c361
+r12854,3,"^ce2b38e2-5469-461b-90d6-8b88097cc16a$","1","crowdtap.com/",1,c361
+r12855,3,"^I am primarily responsible for purchasing nutritional supplements$","1","crowdtap.com/",1,c361
+r12856,3,"^Productos de limpieza para el hogar$","1","crowdtap.com/",1,c361
+r12857,3,"^Productos de belleza$","1","crowdtap.com/",1,c361
+r12858,3,"^Champú/acondicionador$","1","crowdtap.com/",1,c361
+r12859,3,"^Suplementos nutricionales \(por ejemplo, multivitamínicos, proteína en polvo, aceite de pescado, probióticos, etc.\)$","1","crowdtap.com/",1,c361
+r12860,3,"^Suplementos de nutrición deportiva y fitness \(por ejemplo, creatina, pre-entrenamientos, etc.\)$","1","crowdtap.com/",1,c361
+r12861,3,"^Equipo de fitness$","1","crowdtap.com/",1,c361
+r12862,3,"^Frutas y verduras orgánicas$","1","crowdtap.com/",1,c361
+r12863,3,"^Ayudas dietéticas/productos para el control de peso$","1","crowdtap.com/",1,c361
+r12864,3,"^Medicamentos de venta libre$","1","crowdtap.com/",1,c361
+r12865,3,"^3c150178-3965-4f1e-9c06-229aa4ac757f$","1","crowdtap.com/",1,c361
+r12866,3,"^4b1187e9-e89b-4fd5-a3b7-c8d357def838$","1","crowdtap.com/",1,c361
 r12867,3,"^251e246d-56c5-4f82-b178-43b8a1e200d9$","1","",1,c362
 r12868,3,"^Own$","1","",1,c362
 r12870,3,"^Single family detached home$","1","",1,c362
@@ -4762,6 +4762,15 @@ r13367,3,"^d95a4896-e178-4c04-9150-3fa31130affd$","1","",1,c375
 r13368,3,"^13c97603-f01e-41f7-a806-8c1ad42c5ad8$","1","",1,c375
 r13369,3,"^I am focused on my pet\(s\)’ OVERALL HEALTH$","1","",1,c375
 r13370,3,"^I focus on my pet\(s\)’ long-term health and work to preempt/avoid health issues$","1","",1,c375
+r13371,3,"^153d6901-c069-4427-85c1-869eaa9c58c1$","1","crowdtap.com/",1,c361
+r13372,3,"^9ea6cb9d-daa8-4f79-a797-cce3b90bb0e8$","1","crowdtap.com/",1,c361
+r13373,3,"^ca02588a-8938-401e-be48-ea964390c38c$","1","crowdtap.com/",1,c361
+r13374,3,"^e1665f9d-ba45-4cbd-b335-fb93abf83867$","1","crowdtap.com/",1,c361
+r13375,3,"^5a1f5803-3a45-4020-bce0-6935db499753$","1","crowdtap.com/",1,c361
+r13376,3,"^6fe286a0-63dd-4f18-ab22-8656b736dd75$","1","crowdtap.com/",1,c361
+r13377,3,"^1370aece-ea0f-4b32-a327-af5a83bd09e3$","1","crowdtap.com/",1,c361
+r13378,3,"^69d0bdc5-0edf-48fd-9994-d691b5045382$","1","crowdtap.com/",1,c361
+r13379,3,"^d70ad7fd-ff34-48db-9edd-fbc0f8d4be71$","1","crowdtap.com/",1,c361
 ### AUTOFILL SETTINGS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
@@ -4791,7 +4800,7 @@ manual,0,,,,,
 mask,1,,,,,
 menu,1,"2",,,,
 overwrite,1,,,,,
-parselabels,1,,,,,
+parselabels,0,,,,,
 randdelay,1,,,,,
 regexalerts,1,,,,,
 sitefilters,1,"0",,,,
