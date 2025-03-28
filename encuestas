@@ -111,6 +111,7 @@ c371,"Daini 222","crowdtap.com/","",,,
 c372,"Daini 223","crowdtap.com/","",,,
 c373,"Daini 224","crowdtap.com/","",,,
 c374,"Profile Question","crowdtap.com/","",,,
+c375,"Daini 225","crowdtap.com/","",,,
 ### AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r1982,3,"^f044e75a-f466-4a19-8e98-f501d3133c86$","1","",1,c59
@@ -4721,6 +4722,46 @@ r13327,3,"^Married$","1","",1,c374
 r13328,3,"^5\+$","1","",1,c374
 r13329,3,"^I have children at home$","1","",1,c374
 r13330,3,"^\$150,000 or more$","1","",1,c374
+r13331,3,"^d5c08218-73b8-4cbc-a86f-89c8fe7d151e$","1","",1,c375
+r13332,3,"^cac4b320-fe4b-499b-90c5-fe8fe37a14d9$","1","",1,c375
+r13333,3,"^I am primarily responsible$","1","",1,c375
+r13334,3,"^Less than 1 year$","1","",1,c375
+r13335,3,"^1 to 6 years$","1","",1,c375
+r13336,3,"^Meal complements: broth, soups, gravies, toppers, mix-ins, etc$","1","",1,c375
+r13337,3,"^Frozen cat food \(sold from in-store freezer\)$","1","",1,c375
+r13338,3,"^Purees \(fruits/veggies/meats blended into smooth form\)$","1","",1,c375
+r13339,3,"^Wet cat food \(cans, pouches, cups, trays, etc.\)$","1","",1,c375
+r13340,3,"^Supplement products to address cat’s health concerns \(e.g., skin & coat, hairball, etc.\)$","1","",1,c375
+r13341,3,"^Refrigerated cat food \(sold from in-store refrigerator/cooler\)$","1","",1,c375
+r13342,3,"^Dry cat food$","1","",1,c375
+r13343,3,"^Soft-moist cat food \(moist and meaty\)$","1","",1,c375
+r13344,3,"^Cat treats or snacks to feed between meals \(e.g., crunchy treats, chews, etc.\)$","1","",1,c375
+r13345,3,"^Customized food subscription service delivered to my home \(e.g., Smalls, Cat Person, NomNom, etc.\)$","1","",1,c375
+r13346,3,"^de0804e2-2412-4a16-87c1-b1c4bc19151b$","1","",1,c375
+r13347,3,"^Slightly overweight$","1","",1,c375
+r13348,3,"^Skin & coat health$","1","",1,c375
+r13349,3,"^Digestive health$","1","",1,c375
+r13350,3,"^Immune system support$","1","",1,c375
+r13351,3,"^d8e53e01-9871-46cc-9d8b-33c96a540fc2$","1","",1,c375
+r13352,3,"^4c8d942c-14fa-4d0f-a4a7-861ae5aeb47c$","1","",1,c375
+r13353,3,"^36a13d30-ea4c-498a-bade-f470e03c32ed$","1","",1,c375
+r13354,3,"^32e816d3-4cd3-4249-9eef-685bba36365b$","1","",1,c375
+r13355,3,"^f3603314-435e-431f-92f6-19e0a2836ec9$","1","",1,c375
+r13356,3,"^cbd148c3-f1bb-4944-8569-cc2e805dd489$","1","",1,c375
+r13357,3,"^eeacd813-9a20-499a-926d-ff52980ab137$","1","",1,c375
+r13358,3,"^3d39615b-1a7f-4860-b578-71a32be1b378$","1","",1,c375
+r13359,3,"^0589a0d5-ad98-499c-b781-cb0a858c6d71$","1","",1,c375
+r13360,3,"^e18d989b-b272-4d94-b9de-a8d05da8b760$","1","",1,c375
+r13361,3,"^d44239bf-5729-4b43-830d-2d51499f6052$","1","",1,c375
+r13362,3,"^9d5d6bc5-0cf8-47b6-a0e8-9df85b665991$","1","",1,c375
+r13363,3,"^b7c3b4b6-68de-4cb2-ae78-4683875515e8$","1","",1,c375
+r13364,3,"^1c06413b-d524-40ca-b714-85a7b35701ac$","1","",1,c375
+r13365,3,"^73c5a348-4bba-4bc2-80cd-d11147119615$","1","",1,c375
+r13366,3,"^5fdeb16f-3d92-4352-92be-a444d27416f1$","1","",1,c375
+r13367,3,"^d95a4896-e178-4c04-9150-3fa31130affd$","1","",1,c375
+r13368,3,"^13c97603-f01e-41f7-a806-8c1ad42c5ad8$","1","",1,c375
+r13369,3,"^I am focused on my pet\(s\)’ OVERALL HEALTH$","1","",1,c375
+r13370,3,"^I focus on my pet\(s\)’ long-term health and work to preempt/avoid health issues$","1","",1,c375
 ### AUTOFILL SETTINGS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
