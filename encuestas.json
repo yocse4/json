@@ -72,12 +72,6 @@
         "description": "A few quick questions about outdoor activities you like to engage in"
     },
     {
-        "id": 12,
-        "title": "All about you.",
-        "pts": 54,
-        "description": "We\u2019d love to hear a bit more about you!"
-    },
-    {
         "id": 13,
         "title": "This is a survey about skin care products",
         "pts": 54,
@@ -1143,5 +1137,23 @@
             "Please take a moment to answer a few questions about your preferences."
         ],
         "escrita": ""
+    },
+    {
+        "text": "Shopping & beverage survey!",
+        "id": "Daini 235",
+        "requiredTexts": [
+            "Shopping & beverage survey!",
+            "This survey may take you 10 minutes of your time. Please answer honestly!"
+        ],
+        "escrita": "ESCRITA"
+    },
+    {
+        "text": "All about you.",
+        "id": "Daini 12",
+        "requiredTexts": [
+            "All about you.",
+            "We\u2019d love to hear a bit more about you!"
+        ],
+        "escrita": "ESCRITA"
     }
 ]
