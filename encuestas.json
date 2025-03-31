@@ -72,6 +72,12 @@
         "description": "A few quick questions about outdoor activities you like to engage in"
     },
     {
+        "id": 12,
+        "title": "All about you.",
+        "pts": 54,
+        "description": "We\u2019d love to hear a bit more about you!"
+    },
+    {
         "id": 13,
         "title": "This is a survey about skin care products",
         "pts": 54,
@@ -1149,7 +1155,7 @@
     },
     {
         "text": "All about you.",
-        "id": "Daini 12",
+        "id": "Daini 237",
         "requiredTexts": [
             "All about you.",
             "We\u2019d love to hear a bit more about you!"
