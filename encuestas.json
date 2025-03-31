@@ -264,12 +264,6 @@
         "description": "We have some questions about your go-to clothing and your favorite activities."
     },
     {
-        "id": 44,
-        "title": "Let\u2019s talk about grocery shopping!",
-        "pts": 54,
-        "description": "We have a few questions for you to answer."
-    },
-    {
         "id": 45,
         "title": "Let's talk about you!",
         "pts": 54,
@@ -1263,10 +1257,28 @@
     },
     {
         "text": "We're conducting a survey to better understand the experiences and preferences of electric vehicle (EV) drivers.",
-        "id": "Daini 153",
+        "id": "Daini 248",
         "requiredTexts": [
             "We're conducting a survey to better understand the experiences and preferences of electric vehicle (EV) drivers.",
             "This survey is designed to explore your experiences with electric vehicles, including ownership, charging habits, and general sentiments. Your input will help us improve EV-related products and services."
+        ],
+        "escrita": "ESCRITA"
+    },
+    {
+        "text": "We have some questions about what you're drinking!",
+        "id": "Daini 249",
+        "requiredTexts": [
+            "We have some questions about what you're drinking!",
+            "Welcome and thank you for your participation! In this survey, we\\u2019d like to get your thoughts on what you\\u2019re drinking. Remember, there are no \\u201cright\\u201d or \\u201cwrong\\u201d answers - we are interested only in your opinion."
+        ],
+        "escrita": "ESCRITA"
+    },
+    {
+        "text": "Let\\u2019s talk about grocery shopping!",
+        "id": "Daini 44",
+        "requiredTexts": [
+            "Let\\u2019s talk about grocery shopping!",
+            "We have a few questions for you to answer."
         ],
         "escrita": "ESCRITA"
     }
