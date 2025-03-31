@@ -328,14 +328,6 @@
         ]
     },
     {
-        "text": "Let's talk tech!",
-        "id": "Daini 134",
-        "requiredTexts": [
-            "Let's talk tech!",
-            "We have a 3 questions for you!"
-        ]
-    },
-    {
         "text": "All About Apps",
         "id": "Daini 135",
         "requiredTexts": [
@@ -597,6 +589,14 @@
         "requiredTexts": [
             "All About You!",
             "We have a few quick questions for you!"
+        ]
+    },
+    {
+        "text": "All about you!",
+        "id": "Daini 168",
+        "requiredTexts": [
+            "All about you!",
+            "Take this short survey to share more about you. Thanks in advance for participating!"
         ]
     },
     {
@@ -1075,10 +1075,19 @@
     },
     {
         "text": "All about you!",
-        "id": "Daini 168",
+        "id": "Daini 228",
         "requiredTexts": [
             "All about you!",
             "Take this short survey to share more about you. Thanks in advance for participating!"
+        ],
+        "escrita": "Escrita"
+    },
+    {
+        "text": "Let's talk tech!",
+        "id": "Daini 134",
+        "requiredTexts": [
+            "Let's talk tech!",
+            "We have a 3 questions for you!"
         ],
         "escrita": "Escrita"
     }
