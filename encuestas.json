@@ -84,6 +84,12 @@
         "description": "Please, help us with 5 minutes of your time"
     },
     {
+        "id": 14,
+        "title": "All About Your Tech!",
+        "pts": 54,
+        "description": "We have some questions about you and your tech!"
+    },
+    {
         "id": 15,
         "title": "We have some questions about what you're drinking!",
         "pts": 54,
@@ -1158,10 +1164,109 @@
     },
     {
         "text": "All About Your Tech!",
-        "id": "Daini 14",
+        "id": "Daini 237",
         "requiredTexts": [
             "All About Your Tech!",
             "We have some questions about you and your tech!"
+        ],
+        "escrita": "ESCRITA"
+    },
+    {
+        "text": "All About You!",
+        "id": "Daini 238",
+        "requiredTexts": [
+            "All About You!",
+            "We have a few quick questions for you!"
+        ],
+        "escrita": "ESCRITA"
+    },
+    {
+        "text": "Let\u2019s talk about you!cc",
+        "id": "Daini 239",
+        "requiredTexts": [
+            "Let\u2019s talk about you!cc",
+            "In this short survey, we want to get to know you a little better!"
+        ],
+        "escrita": "ESCRITA"
+    },
+    {
+        "text": "What apps are you using?",
+        "id": "Daini 240",
+        "requiredTexts": [
+            "What apps are you using?",
+            "In this short survey, we want to talk to you about the apps you utilize."
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "A few questions about where you're eating!",
+        "id": "Daini 242",
+        "requiredTexts": [
+            "A few questions about where you're eating!",
+            "Welcome and thank you for participating! We have a few questions for you about where you're eating."
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "All About Beverages!",
+        "id": "Daini 242",
+        "requiredTexts": [
+            "All About Beverages!",
+            "We have a few questions about what types of beverages you enjoy drinking!"
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "All About Beverages!",
+        "id": "Daini 243",
+        "requiredTexts": [
+            "All About Beverages!",
+            "We have a few questions about what types of beverages you enjoy drinking!"
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "Getting to know you!",
+        "id": "Daini 244",
+        "requiredTexts": [
+            "Getting to know you!",
+            "We want to know more about you! Thank you for participating!"
+        ],
+        "escrita": "ESCRITA"
+    },
+    {
+        "text": "All About Apps",
+        "id": "Daini 245",
+        "requiredTexts": [
+            "All About Apps",
+            "Please answer a few questions about apps."
+        ],
+        "escrita": "ESCRITA"
+    },
+    {
+        "text": "All about you.",
+        "id": "Daini 246",
+        "requiredTexts": [
+            "All about you.",
+            "We\\u2019d love to hear a bit more about you!"
+        ],
+        "escrita": "ESCRITA"
+    },
+    {
+        "text": "We're conducting a survey to better understand the experiences and preferences of electric vehicle (EV) drivers.",
+        "id": "Daini 247",
+        "requiredTexts": [
+            "We're conducting a survey to better understand the experiences and preferences of electric vehicle (EV) drivers.",
+            "This survey is designed to explore your experiences with electric vehicles, including ownership, charging habits, and general sentiments. Your input will help us improve EV-related products and services."
+        ],
+        "escrita": "ESCRITA"
+    },
+    {
+        "text": "We're conducting a survey to better understand the experiences and preferences of electric vehicle (EV) drivers.",
+        "id": "Daini 153",
+        "requiredTexts": [
+            "We're conducting a survey to better understand the experiences and preferences of electric vehicle (EV) drivers.",
+            "This survey is designed to explore your experiences with electric vehicles, including ownership, charging habits, and general sentiments. Your input will help us improve EV-related products and services."
         ],
         "escrita": "ESCRITA"
     }
