@@ -6,15 +6,6 @@
         "description": "We want to hear from you about your household consumer product shopping."
     },
     {
-        "text": "All about beverages!",
-        "id": "Daini 800",
-        "requiredTexts": [
-            "All about beverages!",
-            "We\u2019d like to know what beverages you drink"
-        ],
-        "escrita": "EScrita"
-    },   
-    {
         "id": 1,
         "title": "Health and Fitness digital service and consumer product",
         "pts": 54,
@@ -1071,5 +1062,14 @@
             "We\u2019d love to learn about you!",
             "Tell us about you and the pets that live in your home."
         ]
+    },
+    {
+        "text": "All about beverages!",
+        "id": "Daini 226",
+        "requiredTexts": [
+            "All about beverages!",
+            "We\u2019d like to know what beverages you drink"
+        ],
+        "escrita": "Escrita"
     }
 ]
