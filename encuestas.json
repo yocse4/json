@@ -84,12 +84,6 @@
         "description": "Please, help us with 5 minutes of your time"
     },
     {
-        "id": 14,
-        "title": "All About Your Tech!",
-        "pts": 54,
-        "description": "We have some questions about you and your tech!"
-    },
-    {
         "id": 15,
         "title": "We have some questions about what you're drinking!",
         "pts": 54,
@@ -1159,6 +1153,15 @@
         "requiredTexts": [
             "All about you.",
             "We\u2019d love to hear a bit more about you!"
+        ],
+        "escrita": "ESCRITA"
+    },
+    {
+        "text": "All About Your Tech!",
+        "id": "Daini 14",
+        "requiredTexts": [
+            "All About Your Tech!",
+            "We have some questions about you and your tech!"
         ],
         "escrita": "ESCRITA"
     }
