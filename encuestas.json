@@ -328,6 +328,14 @@
         ]
     },
     {
+        "text": "Let's talk tech!",
+        "id": "Daini 134",
+        "requiredTexts": [
+            "Let's talk tech!",
+            "We have a 3 questions for you!"
+        ]
+    },
+    {
         "text": "All About Apps",
         "id": "Daini 135",
         "requiredTexts": [
@@ -840,14 +848,6 @@
         ]
     },
     {
-        "text": "Time Management and Daily Priorities",
-        "id": "Daini 199",
-        "requiredTexts": [
-            "Time Management and Daily Priorities",
-            "This is a short survey to gather insights about how people manage their time and priorities. There are no right or wrong answers \u2014 share your honest experience. It should only take 2-3 minutes to complete."
-        ]
-    },
-    {
         "text": "Pot of Gold \ud83c\udf40\u2618\ufe0f",
         "id": "Daini 200",
         "requiredTexts": [
@@ -1084,10 +1084,19 @@
     },
     {
         "text": "Let's talk tech!",
-        "id": "Daini 134",
+        "id": "Daini 229",
         "requiredTexts": [
             "Let's talk tech!",
             "We have a 3 questions for you!"
+        ],
+        "escrita": "Escrita"
+    },
+    {
+        "text": "Time Management and Daily Priorities",
+        "id": "Daini 230",
+        "requiredTexts": [
+            "Time Management and Daily Priorities",
+            "This is a short survey to gather insights about how people manage their time and priorities. There are no right or wrong answers \u2014 share your honest experience. It should only take 2-3 minutes to complete."
         ],
         "escrita": "Escrita"
     }
