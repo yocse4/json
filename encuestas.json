@@ -848,6 +848,14 @@
         ]
     },
     {
+        "text": "Time Management and Daily Priorities",
+        "id": "Daini 199",
+        "requiredTexts": [
+            "Time Management and Daily Priorities",
+            "This is a short survey to gather insights about how people manage their time and priorities. There are no right or wrong answers \u2014 share your honest experience. It should only take 2-3 minutes to complete."
+        ]
+    },
+    {
         "text": "Pot of Gold \ud83c\udf40\u2618\ufe0f",
         "id": "Daini 200",
         "requiredTexts": [
@@ -1098,6 +1106,42 @@
             "Time Management and Daily Priorities",
             "This is a short survey to gather insights about how people manage their time and priorities. There are no right or wrong answers \u2014 share your honest experience. It should only take 2-3 minutes to complete."
         ],
-        "escrita": "SEMANAL"
+        "escrita": "Escrita"
+    },
+    {
+        "text": "Let's talk tech!",
+        "id": "Daini 231",
+        "requiredTexts": [
+            "Let's talk tech!",
+            "We have a few questions about you and your technology."
+        ],
+        "escrita": "Escrita"
+    },
+    {
+        "text": "This survey is about haircare products",
+        "id": "Daini 232",
+        "requiredTexts": [
+            "This survey is about haircare products",
+            "Please help us to answer a quick survey about your haircare products"
+        ],
+        "escrita": "Escrita"
+    },
+    {
+        "text": "All about your health!",
+        "id": "Daini 233",
+        "requiredTexts": [
+            "All about your health!",
+            "Please answer a few questions about your health and care you are interested in receiving."
+        ],
+        "escrita": "Escrita"
+    },
+    {
+        "text": "We want to hear from you!",
+        "id": "Daini 234",
+        "requiredTexts": [
+            "We want to hear from you!",
+            "Please take a moment to answer a few questions about your preferences."
+        ],
+        "escrita": ""
     }
 ]
