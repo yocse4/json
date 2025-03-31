@@ -82,9 +82,9 @@ c342,"Daini 161","crowdtap.com/","",,,
 c343,"Daini 163","crowdtap.com/","",,,
 c344,"Daini 164","crowdtap.com/","",,,
 c345,"Daini 165","crowdtap.com/","",,,
-c346,"Daini 166","crowdtap.com/","",,,
+c346,"Daini 166","","",,,
 c347,"Daini 167","crowdtap.com/","",,,
-c348,"Daini 168","crowdtap.com/","",,,
+c348,"Daini 168","","",,,
 c349,"Daini 169","crowdtap.com/","",,,
 c350,"Daini 170","crowdtap.com/","",,,
 c351,"Daini 171","crowdtap.com/","",,,
@@ -112,6 +112,17 @@ c372,"Daini 223","crowdtap.com/","",,,
 c373,"Daini 224","crowdtap.com/","",,,
 c374,"Profile Question","crowdtap.com/","",,,
 c375,"Daini 225","crowdtap.com/","",,,
+c376,"Daini 226","crowdtap.com/","",,,
+c377,"Daini 231","crowdtap.com/","",,,
+c378,"Daini 232","crowdtap.com/","",,,
+c379,"Daini 233","crowdtap.com/","",,,
+c380,"Daini 234","crowdtap.com/","",,,
+c381,"Daini 237","crowdtap.com/","",,,
+c382,"Daini 239","crowdtap.com/","",,,
+c383,"Daini 240","crowdtap.com/","",,,
+c384,"Daini 241","crowdtap.com/","",,,
+c385,"Daini 242","crowdtap.com/","",,,
+c386,"Daini 243","crowdtap.com/","",,,
 ### AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r1982,3,"^f044e75a-f466-4a19-8e98-f501d3133c86$","1","",1,c59
@@ -3896,8 +3907,8 @@ r12494,3,"^42b528f0-8573-4c6c-b2aa-2f3d735f8c3d$","1","crowdtap.com/",1,c129
 r12495,3,"^a0bf50e1-2883-4cd5-a1ee-671a4593c28d$","1","crowdtap.com/",1,c129
 r12496,3,"^7847a636-8c1b-406f-8198-2e4f0042ab81$","1","crowdtap.com/",1,c129
 r12497,3,"^Definitely will$","1","crowdtap.com/",1,c129
-r12498,3,"^7fb36553-e579-4371-ad76-3b23ef7fce1e$","1","",1,c346
-r12499,3,"^Construction Worker/ Contractor \(e.g., New Construction, Renovation, Remodeling\)$","1","",1,c346
+r12498,3,"^7fb36553-e579-4371-ad76-3b23ef7fce1e$","1","crowdtap.com/",1,c346
+r12499,3,"^Construction Worker/ Contractor \(e.g., New Construction, Renovation, Remodeling\)$","1","crowdtap.com/",1,c346
 r12500,3,"^4438d3c9-9aa3-47ad-b26b-ae2591ab02cf$","1","crowdtap.com/",1,c318
 r12501,3,"^cff6ca42-cdb5-4e3e-bbec-d7c027e346bd$","1","crowdtap.com/",1,c318
 r12502,3,"^0d662085-958f-408c-b9a4-afac41fe352d$","1","crowdtap.com/",1,c318
@@ -3916,14 +3927,14 @@ r12514,3,"^Apple iOS$","1","",1,c347
 r12515,3,"^Have used multiple AI tools$","1","",1,c347
 r12516,3,"^My phone has built-in AI, but I also use other AI apps, tools, and websites$","1","",1,c347
 r12517,3,"^09d34e5c-d5c2-4951-8552-f1cfff235ffa$","1","",1,c347
-r12518,3,"^I’m the primary decision-maker$","1","",1,c348
-r12519,3,"^3cd1162e-a617-4f5e-856a-4ed3f6d41e8f$","1","",1,c348
-r12520,3,"^cc3bb16e-6d90-4db4-94c4-081b5204d675$","1","",1,c348
-r12521,3,"^52fbf7e9-8801-44d9-ab34-0437eb29a2d3$","1","",1,c348
-r12522,3,"^8f68408d-1845-4bfa-8c8a-11e9e12d83fd$","1","",1,c348
-r12523,3,"^88ed6ce3-1473-484c-b700-c498289e90db$","1","",1,c348
-r12524,3,"^1927e080-2882-425e-b6ab-8e4c8c1fc800$","1","",1,c348
-r12525,3,"^b2fef1f4-a2fe-4d54-bd28-e3b902f27450$","1","",1,c348
+r12518,3,"^I’m the primary decision-maker$","1","crowdtap.com/",1,c348
+r12519,3,"^3cd1162e-a617-4f5e-856a-4ed3f6d41e8f$","1","crowdtap.com/",1,c348
+r12520,3,"^cc3bb16e-6d90-4db4-94c4-081b5204d675$","1","crowdtap.com/",1,c348
+r12521,3,"^52fbf7e9-8801-44d9-ab34-0437eb29a2d3$","1","crowdtap.com/",1,c348
+r12522,3,"^8f68408d-1845-4bfa-8c8a-11e9e12d83fd$","1","crowdtap.com/",1,c348
+r12523,3,"^88ed6ce3-1473-484c-b700-c498289e90db$","1","crowdtap.com/",1,c348
+r12524,3,"^1927e080-2882-425e-b6ab-8e4c8c1fc800$","1","crowdtap.com/",1,c348
+r12525,3,"^b2fef1f4-a2fe-4d54-bd28-e3b902f27450$","1","crowdtap.com/",1,c348
 r12526,3,"^cd89a15a-f2d6-4cd7-97b3-0ea353ba974c$","1","",1,c349
 r12527,3,"^e45bbe6a-6860-4759-9c85-70738989878e$","1","",1,c349
 r12528,3,"^5835329a-18b6-466c-b1fc-d29ae4b6209a$","1","",1,c349
@@ -4771,6 +4782,333 @@ r13376,3,"^6fe286a0-63dd-4f18-ab22-8656b736dd75$","1","crowdtap.com/",1,c361
 r13377,3,"^1370aece-ea0f-4b32-a327-af5a83bd09e3$","1","crowdtap.com/",1,c361
 r13378,3,"^69d0bdc5-0edf-48fd-9994-d691b5045382$","1","crowdtap.com/",1,c361
 r13379,3,"^d70ad7fd-ff34-48db-9edd-fbc0f8d4be71$","1","crowdtap.com/",1,c361
+r13380,3,"^19347c5b-0a6a-41be-a0d8-4225f688569d$","1","",1,c376
+r13381,3,"^295e8476-a1f9-4bb9-a848-66336f9897e4$","1","",1,c376
+r13382,3,"^1ddfa230-3dea-4c1e-8f6c-a81bcb30edae$","1","",1,c376
+r13383,3,"^44681469-0342-41a8-8f1d-465d9eb14f1b$","1","",1,c376
+r13384,3,"^fe94b65a-a00e-4cb3-9c9a-72c44f5459a2$","1","",1,c376
+r13385,3,"^f0fdd713-9b18-4629-969c-ba64bf0d4fbe$","1","",1,c376
+r13386,3,"^c5dea4fb-c596-41fe-ad75-8208c379cee5$","1","",1,c376
+r13387,3,"^af914d18-047c-471b-9148-fe16063a4d65$","1","",1,c376
+r13388,3,"^c8d38cc2-0e7f-4f52-b56e-a406b2020ebe$","1","",1,c376
+r13389,3,"^57592124-90fe-4052-8501-9c879bc88ab8$","1","",1,c376
+r13390,3,"^06fb79d1-501b-41ad-b948-ef1b818e40cd$","1","",1,c376
+r13391,3,"^2c5d63c3-ea11-403f-a2cf-814a58ea1a82$","1","",1,c376
+r13392,3,"^d318a55e-a3fc-4a45-9aba-a0d8d8c974b0$","1","",1,c376
+r13394,3,"^a0b15d64-4be0-4a50-9199-6a9ca99351ab$","1","",1,c376
+r13395,3,"^51640ecf-88ff-4c64-a656-76d6c389ab9d$","1","",1,c376
+r13396,3,"^58e716e1-a9c2-4202-aeff-5056e20033dc$","1","",1,c376
+r13397,3,"^596a7bd6-abff-457f-ba89-4b052c163600$","1","",1,c376
+r13398,3,"^10f7a052-e90e-4270-ab08-dbb917b5bda6$","1","",1,c376
+r13399,3,"^e2fe9136-8f83-403a-8732-33f6fdf726b5$","1","",1,c376
+r13400,3,"^3c2020d0-e0fe-4ee5-a53d-cf1c5bf9451c$","1","",1,c376
+r13401,3,"^b1c3d4ad-6e0e-448d-b984-e0f6ae783e5c$","1","",1,c376
+r13402,3,"^5 - Extremely satisfied$","1","",1,c376
+r13403,3,"^5 - Very interested$","1","",1,c376
+r13404,3,"^eb1b5a73-29b5-4eea-9cf9-b9115c1cadfa$","1","",1,c376
+r13405,3,"^Green bricks$","1","",1,c376
+r13406,3,"^Woman$","1","crowdtap.com/",1,c348
+r13407,3,"^Skincare products \(e.g., moisturizers, cleansers\)$","1","crowdtap.com/",1,c348
+r13408,3,"^Fragrances \(e.g., perfume, cologne\)$","1","crowdtap.com/",1,c348
+r13409,3,"^Shaving and hair removal products \(e.g., razors, shaving cream\)$","1","crowdtap.com/",1,c348
+r13410,3,"^Personal care products \(e.g., deodorant, body wash, lotion\)$","1","crowdtap.com/",1,c348
+r13411,3,"^Hand and foot care products \(e.g., hand creams, foot scrubs\)$","1","crowdtap.com/",1,c348
+r13412,3,"^Haircare products \(e.g., shampoo, styling products\)$","1","crowdtap.com/",1,c348
+r13413,3,"^Sun care products \(e.g., sunscreen, after-sun lotion\)$","1","crowdtap.com/",1,c348
+r13414,3,"^Health & wellness products \(e.g., supplements, vitamins\)$","1","crowdtap.com/",1,c348
+r13415,3,"^Nail care products \(e.g., cuticle oil, nail strengtheners\)$","1","crowdtap.com/",1,c348
+r13416,3,"^Oral care products \(e.g., toothpaste, mouthwash\)$","1","crowdtap.com/",1,c348
+r13417,3,"^d3b74c8d-f04b-4415-957a-7d2e6bd9fd1a$","1","crowdtap.com/",1,c348
+r13418,3,"^8f4c422f-1e91-4b64-94f9-b1f44c7777fa$","1","crowdtap.com/",1,c348
+r13419,3,"^872a10bd-0e6b-4a09-9ebf-5ab395e8547f$","1","crowdtap.com/",1,c348
+r13420,3,"^981e2086-41c9-4ec7-83b3-0715008ad3c8$","1","crowdtap.com/",1,c348
+r13421,3,"^b28571fb-15e0-461a-8042-2f54e161c492$","1","crowdtap.com/",1,c348
+r13422,3,"^e9ecab17-34b1-4350-ba75-9c43a5c78d75$","1","crowdtap.com/",1,c348
+r13423,3,"^aec1513e-f28f-4da2-b059-b468acbff11c$","1","crowdtap.com/",1,c348
+r13424,3,"^73a4066f-ccf6-43ad-b594-4a2e6bf73798$","1","crowdtap.com/",1,c348
+r13425,3,"^c84604ba-33dd-4366-b142-dc6f35d88501$","1","crowdtap.com/",1,c348
+r13426,3,"^dbb9b304-8cca-4bb1-8d4f-e01a88e60434$","1","crowdtap.com/",1,c348
+r13427,3,"^ad0a63ed-0443-468e-bffe-63978db396f4$","1","crowdtap.com/",1,c348
+r13428,3,"^0f170f27-a712-4c99-b66b-efa7acaa035f$","1","crowdtap.com/",1,c348
+r13429,3,"^0ac3c4a0-3d50-4267-92a7-c6950ee4245f$","1","crowdtap.com/",1,c348
+r13430,3,"^75ac29cc-607e-4546-8b57-6f0d1ad65891$","1","crowdtap.com/",1,c348
+r13431,3,"^Both medicated AND non-medicated products$","1","crowdtap.com/",1,c348
+r13432,3,"^Satisfied$","1","crowdtap.com/",1,c348
+r13433,3,"^92b00392-bcd9-42bc-826d-f2513adbcc26$","1","crowdtap.com/",1,c348
+r13434,3,"^668104f3-72ba-4a85-8c7d-2144eb5da082$","1","crowdtap.com/",1,c348
+r13435,3,"^1afefb17-bd6e-4833-9315-04e695835c9a$","1","crowdtap.com/",1,c348
+r13436,3,"^93afc2c6-a31c-4b46-877f-930083368548$","1","crowdtap.com/",1,c348
+r13437,3,"^3871078d-9a03-44a2-9543-4d4f9434f572$","1","crowdtap.com/",1,c348
+r13438,3,"^Straight$","1","crowdtap.com/",1,c348
+r13439,3,"^f716112e-8627-410b-905a-e1af0ee01233$","1","crowdtap.com/",1,c348
+r13440,3,"^69e8b852-bf52-4e76-ba2c-569f1d5af5d0$","1","crowdtap.com/",1,c348
+r13441,3,"^b98bbd35-3f74-4c6f-8ee9-2a050e5b23a1$","1","crowdtap.com/",1,c348
+r13442,3,"^0a469129-1800-4bfd-95e6-9fd89aaf2d24$","1","crowdtap.com/",1,c348
+r13443,3,"^a2ca4c55-0581-40e1-a4ff-0fc70dd7cd15$","1","crowdtap.com/",1,c348
+r13444,3,"^835ca7ed-40d1-4385-a4b8-3114307e2f2e$","1","crowdtap.com/",1,c348
+r13445,3,"^ff27ada1-09b5-441d-abd5-5baab8d7231d$","1","crowdtap.com/",1,c348
+r13446,3,"^5409762e-f4e3-49fa-8833-806c078e97c0$","1","crowdtap.com/",1,c348
+r13447,3,"^22d65014-3909-482a-9ed8-bd5958d7c098$","1","crowdtap.com/",1,c348
+r13448,3,"^46117f6b-b21b-408b-8b7c-1655bb042fd5$","1","crowdtap.com/",1,c348
+r13449,3,"^9715b13e-4464-4183-8021-edfa851fcf22$","1","crowdtap.com/",1,c348
+r13450,3,"^95f84bdd-8a05-43f0-bc06-9cf2ef707243$","1","crowdtap.com/",1,c348
+r13451,3,"^Viviscal$","1","crowdtap.com/",1,c348
+r13452,3,"^2$","1","crowdtap.com/",1,c348
+r13453,3,"^a9388d6d-8f7a-471c-8022-c51b2e11231b$","1","crowdtap.com/",1,c348
+r13454,3,"^70f7e96f-7101-4b95-b3af-ce509128a5e1$","1","crowdtap.com/",1,c348
+r13455,3,"^4b1ccb04-b47d-4c2a-825c-b8d88cec784c$","1","crowdtap.com/",1,c348
+r13456,3,"^Yes$","1","crowdtap.com/",1,c348
+r13457,3,"^c45e2009-967d-48ab-a57c-69f004583b8a$","1","crowdtap.com/",1,c348
+r13458,3,"^fdd69144-b559-4123-ab63-1af74610edda$","1","crowdtap.com/",1,c348
+r13459,3,"^9a21bb58-de82-41ef-a022-e5f6eba03011$","1","crowdtap.com/",1,c348
+r13460,3,"^e99796db-4afd-4d08-989c-b0f35b6e31a6$","1","crowdtap.com/",1,c346
+r13461,3,"^fce54d9f-bfca-4433-a0cb-eb5ebde9ea95$","1","crowdtap.com/",1,c346
+r13462,3,"^183ad493-ea65-40f1-a877-e3095e503662$","1","crowdtap.com/",1,c346
+r13463,3,"^0c504ae9-8130-44bf-af7a-1bd03f68ca8b$","1","crowdtap.com/",1,c346
+r13464,3,"^775dc742-8c8d-4f80-aea8-c0cb57e904c8$","1","crowdtap.com/",1,c346
+r13465,3,"^52acf201-6420-4884-87e6-6a750b15c350$","1","crowdtap.com/",1,c346
+r13466,3,"^d24a2686-bd34-4f4a-ac28-126658460000$","1","crowdtap.com/",1,c346
+r13467,3,"^8\+ years$","1","crowdtap.com/",1,c346
+r13468,3,"^I’m the primary decision maker$","1","crowdtap.com/",1,c346
+r13469,3,"^fe0f229a-a47f-4f41-bbb5-3da85ed67f63$","1","crowdtap.com/",1,c346
+r13470,3,"^c981850f-2efa-46ee-86ec-97e073ecfad0$","1","crowdtap.com/",1,c346
+r13471,3,"^9ed4e570-d9e8-4dd9-851d-db5c2b045ff8$","1","crowdtap.com/",1,c346
+r13472,3,"^7966a5a4-e9ea-4cef-a392-abc0cd20b06d$","1","crowdtap.com/",1,c346
+r13473,3,"^a4eba47d-93bb-4a55-a9b3-d501a09ba043$","1","crowdtap.com/",1,c346
+r13474,3,"^2acb4a86-3b3e-4e5d-8256-153a6843d27f$","1","crowdtap.com/",1,c346
+r13475,3,"^448ff7e4-ed34-457d-9caf-0056d2e2d7dd$","1","crowdtap.com/",1,c346
+r13476,3,"^eb3d8d60-9da4-4bf1-9f41-02e22c000f64$","1","crowdtap.com/",1,c346
+r13477,3,"^715cb71f-464c-4a15-bbd4-d9ee8a4bdb6e$","1","crowdtap.com/",1,c346
+r13478,3,"^d49cefdd-0b84-433f-8dfe-83505c3f8a73$","1","crowdtap.com/",1,c346
+r13479,3,"^65ec44bb-db56-4858-87fa-4d249b3787b6$","1","crowdtap.com/",1,c346
+r13480,3,"^6eaa202d-590a-4c30-82c1-3de81c1c046a$","1","crowdtap.com/",1,c346
+r13481,3,"^f4b3595b-cab1-4b92-85b5-9b7ef073e9db$","1","crowdtap.com/",1,c346
+r13482,3,"^7f877933-0470-4277-b907-994f921bdc45$","1","crowdtap.com/",1,c346
+r13483,3,"^d5267213-500b-4309-b15e-b674e6f27e18$","1","crowdtap.com/",1,c346
+r13484,3,"^1c097aac-2187-4f54-a2f7-44d85cd5d1e7$","1","crowdtap.com/",1,c346
+r13485,3,"^280ee791-a701-42ab-a90b-12bf4ccb0dd6$","1","crowdtap.com/",1,c346
+r13486,3,"^086c08bd-0b8c-4736-9b3d-292063cd5df3$","1","",1,c377
+r13487,3,"^ca66b5cc-745c-4af5-b9d8-c9cb44e17cbc$","1","",1,c377
+r13488,3,"^d307d2e3-da4e-4629-8b7a-004ad0fc5593$","1","",1,c377
+r13489,3,"^a67b4e0a-a8c0-4049-a88b-1d959941b0bf$","1","",1,c377
+r13490,3,"^8b628d7f-5dd9-411f-9c50-d0b1b14aab40$","1","",1,c377
+r13491,3,"^192f57c3-6001-4be4-940f-45cb77cc7afe$","1","",1,c377
+r13492,3,"^adfadd05-175e-46bf-9efe-1fc8f92306e2$","1","",1,c377
+r13493,3,"^20f1c1f6-b36f-4402-880e-6140d56c9580$","1","",1,c377
+r13494,3,"^I am the primary decision maker$","1","",1,c377
+r13495,3,"^Smartphone$","1","",1,c377
+r13496,3,"^Smart home display \(e.g., Amazon Echo Show, Google Nest Home\)$","1","",1,c377
+r13497,3,"^Smart home speaker \(e.g., Amazon Echo, Google Nest Mini\)$","1","",1,c377
+r13498,3,"^Smart TV \(has built in “apps” - e.g., Samsung, Vuze, Sony, etc.\)$","1","",1,c377
+r13499,3,"^Smartwatch \(perform multiple functions such as accessing apps, playing music, phone calls, etc.\)$","1","",1,c377
+r13500,3,"^Laptop$","1","",1,c377
+r13501,3,"^Tablet \(e.g., Apple iPad, Samsung Galaxy Tab, etc.\)$","1","",1,c377
+r13502,3,"^Apple iPhone$","1","",1,c377
+r13503,3,"^I am the sole decision maker about which wireless service provider plan is chosen$","1","",1,c377
+r13504,3,"^Somewhat difficult$","1","",1,c377
+r13505,3,"^7 - Very open to switching$","1","",1,c377
+r13506,3,"^673da33d-0184-4ea6-8179-09902d42f247$","1","",1,c377
+r13507,3,"^e987a39c-c5a5-46b4-82b5-14fbe6ab6bcd$","1","",1,c377
+r13508,3,"^5295163f-5011-45e7-b696-7eca7ffc8b8a$","1","",1,c378
+r13509,3,"^a7a0a21e-dd13-48ae-b7ac-78443df1fb0c$","1","",1,c378
+r13510,3,"^4996033b-085f-4a33-868d-a740808e5dff$","1","",1,c378
+r13511,3,"^ca710fc0-fbcb-4eba-9628-62536afdeb36$","1","",1,c378
+r13512,3,"^5b3d8b9b-38a3-4a79-a581-00d6801304d5$","1","",1,c378
+r13513,3,"^c165cedc-fedb-4976-a329-785e0eb0d93f$","1","",1,c378
+r13514,3,"^b03ddd08-b36f-458c-8806-b80b2391bb08$","1","",1,c378
+r13515,3,"^048614b0-f95f-488f-87e8-935347f26393$","1","",1,c378
+r13516,3,"^47a112cd-041d-4aed-b68c-6689652c32cb$","1","",1,c378
+r13517,3,"^ce1741ed-4ba8-4326-95c6-f80a1224f45c$","1","",1,c378
+r13518,3,"^086ba953-8c21-427a-861d-64d3d36b67c6$","1","",1,c378
+r13519,3,"^68b38746-fd41-4301-9927-26c294d8b86c$","1","",1,c378
+r13520,3,"^b72e1528-17ca-478c-a11b-6480df03b015$","1","",1,c378
+r13521,3,"^1b3da8a7-b4ce-40ff-832b-51fd87e43bd1$","1","",1,c378
+r13522,3,"^5d03f66c-4cb0-4aa4-aedf-552cad996c08$","1","",1,c378
+r13527,3,"^Tresseme$","1","",1,c378
+r13528,3,"^Maui Moisture$","1","",1,c378
+r13529,3,"^Aussie$","1","",1,c378
+r13531,3,"^Nexxus$","1","",1,c378
+r13533,3,"^Shea Moisture$","1","",1,c378
+r13534,3,"^Redken$","1","",1,c378
+r13540,3,"^Kristin Ess$","1","",1,c378
+r13541,3,"^Straight$","1","",1,c378
+r13542,3,"^Medium density$","1","",1,c378
+r13543,3,"^2 or 3 times per week$","1","",1,c378
+r13544,3,"^e61df32f-84b0-4a4d-9d3f-12387537d7ed$","1","",1,c378
+r13545,3,"^1047c054-79d9-4be6-b34c-18d00b09b6ee$","1","",1,c378
+r13546,3,"^9ff6d4d4-877c-4032-9cf6-5d6ea026f017$","1","",1,c378
+r13547,3,"^7f519e2f-b6ea-4666-af2c-8278b5b9bdd9$","1","",1,c378
+r13548,3,"^71b73e91-7cee-41ed-ab76-4bffedd03572$","1","",1,c378
+r13549,3,"^5a91f82e-7c8b-4863-b3ce-a7bfcfca1e46$","1","",1,c378
+r13550,3,"^33b85ef0-5b00-4920-9a32-f1b834200b2c$","1","",1,c378
+r13551,3,"^71d1c270-0096-4343-9bb8-1ccadcfe8f6f$","1","",1,c378
+r13552,3,"^ee391f86-7d69-4c1d-a154-8b87e037b467$","1","",1,c378
+r13553,3,"^3ea7678a-2210-40b3-aa9e-910148f37bc9$","1","",1,c378
+r13554,3,"^39e23026-ec78-4adf-87d8-e87ad73564f4$","1","",1,c378
+r13555,3,"^06811a95-8fbf-4927-b28f-a45a19fcba9a$","1","",1,c378
+r13556,3,"^Stylings$","1","",1,c378
+r13557,3,"^Oils & Treatments$","1","",1,c378
+r13558,3,"^Shampoos$","1","",1,c378
+r13559,3,"^Conditioners$","1","",1,c378
+r13560,3,"^Stylers$","1","",1,c378
+r13561,3,"^efc80059-f3db-405f-a4b9-c51852e9ef60$","1","",1,c378
+r13562,3,"^dc79176b-105f-4325-b55b-c1b23942830c$","1","",1,c378
+r13563,3,"^81fabedf-d313-44b7-9ee8-6fdaccb22f81$","1","",1,c378
+r13564,3,"^7064530a-1e71-409e-a01a-106d3fa4d1ba$","1","",1,c378
+r13565,3,"^f5bfe69b-d79c-41ee-96da-f2a492b957dd$","1","",1,c378
+r13566,3,"^98270f91-7ebc-474d-89ac-b01ca616d224$","1","",1,c378
+r13567,3,"^2295cba9-8322-4b1d-875c-4bf2e672f3f0$","1","",1,c378
+r13568,3,"^b60bf8a6-0a71-4674-b426-198b1f717f05$","1","",1,c378
+r13569,3,"^0dabcea6-5392-45ef-b2a6-d3c26c20aef7$","1","",1,c379
+r13570,3,"^9a03c2e3-0f25-487f-b2c3-03f39fa92bdb$","1","",1,c380
+r13571,3,"^366a389b-8de4-4967-9747-3a3cf2ebce15$","1","",1,c380
+r13572,3,"^a5d81302-9747-483a-adf1-d72cb18b0132$","1","",1,c380
+r13573,3,"^393c8d64-0eb9-4fc5-96b3-1ba49210c872$","1","",1,c380
+r13574,3,"^85445c86-773b-41db-8b04-6b44c769fdd3$","1","",1,c380
+r13575,3,"^588ebbd0-341e-4b5f-a14b-1d33c2d64edf$","1","",1,c380
+r13576,3,"^28a0f1a6-0b4f-4338-b761-3abee301e7eb$","1","",1,c380
+r13577,3,"^Daily$","1","",1,c380
+r13578,3,"^fb9ee161-32c0-48da-be56-197083c9686d$","1","",1,c380
+r13579,3,"^ef45f6f1-99c2-4b6c-98e1-04ac99ad2e11$","1","",1,c380
+r13580,3,"^52555a76-1477-4711-a895-a34fffa39f71$","1","",1,c380
+r13581,3,"^efaacfe1-f07c-4d65-a5bb-ab5abee3f5ca$","1","",1,c380
+r13582,3,"^401876bc-be8b-4798-97ac-9f49a8a2c35e$","1","",1,c380
+r13583,3,"^ca90bacd-30f7-44f8-b603-5987d54b5c7a$","1","",1,c380
+r13584,3,"^7e1f9e69-fb3e-4bb1-b922-163736e1af85$","1","",1,c380
+r13585,3,"^be4ede41-8670-434b-a364-b54862cb714e$","1","",1,c380
+r13586,3,"^03949ba6-4d80-4d7c-84c3-94c5edff1b05$","1","",1,c380
+r13587,3,"^15bd3158-db53-4786-a449-767f80c3ca7f$","1","",1,c380
+r13588,3,"^dc2192fa-926b-4c88-a0ab-554a1ce3dda1$","1","",1,c380
+r13589,3,"^290598c7-efa8-4c3c-906d-66cf06ab86a2$","1","",1,c380
+r13590,3,"^1dc176fc-cced-4c25-bfcd-4ab96637303f$","1","",1,c380
+r13591,3,"^f06cb7c9-7819-4bd8-9573-ab748c1c8010$","1","",1,c380
+r13592,3,"^Yes$","1","",1,c380
+r13593,3,"^353f9aca-5960-41ac-96f2-cb30cac6e987$","1","crowdtap.com/",1,c166
+r13594,3,"^a49e95ac-b902-47e6-a6e7-fc61745336ab$","1","crowdtap.com/",1,c166
+r13595,3,"^7d5dbf2d-7391-431a-b9ef-9ceebb13e9d7$","1","crowdtap.com/",1,c166
+r13596,3,"^Healthy Digestive or proactive Gut Health$","1","crowdtap.com/",1,c166
+r13597,3,"^Intimate Feminine Care, i.e., cleansing, yeast infection/itching, intimate dryness$","1","crowdtap.com/",1,c166
+r13598,3,"^Menstrual Pain$","1","crowdtap.com/",1,c166
+r13599,3,"^OTC Medication for UPPER Digestive Health \(heartburn, acid reflux, etc.\)$","1","crowdtap.com/",1,c166
+r13600,3,"^Adult Allergy, i.e., seasonal, non-seasonal, indoor environmental$","1","crowdtap.com/",1,c166
+r13601,3,"^Nicotine Products \(white pouches, i.e., ZYN, Rogue, etc.\)$","1","crowdtap.com/",1,c166
+r13602,3,"^Scar treatment products, i.e., ScarAway, Mederma, etc.$","1","crowdtap.com/",1,c166
+r13603,3,"^Tobacco \(cigarettes, vapes, etc.\)$","1","crowdtap.com/",1,c166
+r13604,3,"^Hydration/Electrolyte Drinks or Powders$","1","crowdtap.com/",1,c166
+r13605,3,"^Adult OTC Pain Medicine – topical$","1","crowdtap.com/",1,c166
+r13606,3,"^Adult OTC Pain Medicine – oral dose$","1","crowdtap.com/",1,c166
+r13607,3,"^Women’s Reproductive Health \(birth control, emergency birth control, etc.\)$","1","crowdtap.com/",1,c166
+r13608,3,"^Adult OTC Cold/Flu Medicine$","1","crowdtap.com/",1,c166
+r13609,3,"^Sleep Aids$","1","crowdtap.com/",1,c166
+r13610,3,"^Nicotine Replacement Therapy \(patch, gum, etc.\)$","1","crowdtap.com/",1,c166
+r13611,3,"^OTC Medication for LOWER Digestive Health \(diarrhea, constipation, etc.\)$","1","crowdtap.com/",1,c166
+r13612,3,"^Child Allergy, i.e., seasonal, non-seasonal, indoor environmental$","1","crowdtap.com/",1,c166
+r13613,3,"^Children’s OTC Cold/Flu Medicine$","1","crowdtap.com/",1,c166
+r13614,3,"^Infant/Toddler Nutrition \(infant formula, pediatric nutrition drinks, etc.\)$","1","crowdtap.com/",1,c166
+r13615,3,"^Oral Care \(floss, teeth whiteners, night guards, etc.\)$","1","crowdtap.com/",1,c166
+r13616,3,"^Sun Protection$","1","crowdtap.com/",1,c166
+r13617,3,"^eb64d1b4-3b08-4fba-a0e2-0318201a1874$","1","crowdtap.com/",1,c166
+r13618,3,"^58147f06-637a-40c6-8925-47f8f424a81d$","1","crowdtap.com/",1,c166
+r13619,3,"^2c551d9a-8374-435d-b1ed-6ea5a93ee2dd$","1","crowdtap.com/",1,c166
+r13620,3,"^72256560-e510-4796-b7f6-b20224755b03$","1","crowdtap.com/",1,c166
+r13621,3,"^da77c896-39b2-46fd-9304-e9e42c0011b3$","1","crowdtap.com/",1,c166
+r13622,3,"^98bbfe72-cacc-498f-b2ea-0d96e4ca441f$","1","crowdtap.com/",1,c166
+r13623,3,"^39b36e56-a149-4687-9d04-53f56f76970c$","1","crowdtap.com/",1,c166
+r13624,3,"^fa36dc85-9bd6-42c0-ba46-aef85a2d5ea6$","1","crowdtap.com/",1,c166
+r13625,3,"^10f54070-dc8a-4fe8-94de-d480acef6398$","1","crowdtap.com/",1,c166
+r13626,3,"^fce0ee03-68bd-495c-9f72-162807975e23$","1","crowdtap.com/",1,c166
+r13627,3,"^98fa6ce3-25fc-479d-8c5a-1c09b8b99079$","1","crowdtap.com/",1,c166
+r13628,3,"^a56ec869-c5b1-46f9-a16c-db1fa1209d00$","1","crowdtap.com/",1,c166
+r13629,3,"^54817a4f-fc35-4886-933b-89b17de9f023$","1","crowdtap.com/",1,c166
+r13630,3,"^8f28d0c5-c3b5-4959-87ab-2db8bd600156$","1","crowdtap.com/",1,c166
+r13631,3,"^a7aed82d-a28d-402b-997a-baa4042d25f0$","1","crowdtap.com/",1,c166
+r13632,3,"^2e713f3a-7e01-4ccd-9933-6ec9f0c0c6f4$","1","crowdtap.com/",1,c166
+r13633,3,"^a2f2c66e-988a-4557-859e-9e7c14e12d53$","1","crowdtap.com/",1,c166
+r13634,3,"^b5b9ab83-79af-4e94-a9a1-55d56c6fb345$","1","crowdtap.com/",1,c166
+r13635,3,"^f0fdae24-46cb-4a52-8b4e-e61f415cb621$","1","crowdtap.com/",1,c166
+r13636,3,"^44f7e088-e0ca-46a4-8367-e4c9ee4f9978$","1","crowdtap.com/",1,c166
+r13637,3,"^9bda0c28-0ec7-424e-a103-a00664dd4774$","1","crowdtap.com/",1,c166
+r13638,3,"^650833a3-bb90-42ed-8277-6ebbf02b3c18$","1","crowdtap.com/",1,c166
+r13639,3,"^d066ff4f-973e-4e93-80fd-455e1543b85a$","1","crowdtap.com/",1,c166
+r13640,3,"^ae4c139d-2ab9-4020-8937-61116037d16f$","1","crowdtap.com/",1,c166
+r13641,3,"^3e103975-7876-4dcc-a5eb-3e9ce4d1bff1$","1","crowdtap.com/",1,c166
+r13642,3,"^0ce56268-ebe9-41fe-8587-6e98552150af$","1","crowdtap.com/",1,c166
+r13643,3,"^4dad1d56-4f60-4ab5-8c7f-2e21990f099e$","1","crowdtap.com/",1,c166
+r13644,3,"^c5747f8e-c182-4a2d-9ebe-6453fe59c93b$","1","crowdtap.com/",1,c166
+r13645,3,"^a0dd89a6-6252-4b33-ba59-89be3a5bf41a$","1","crowdtap.com/",1,c166
+r13646,3,"^bfc8fba5-bf98-433b-bd28-7b781c992b35$","1","crowdtap.com/",1,c166
+r13647,3,"^08665203-09f9-4156-a444-6d3dd0ab38d8$","1","crowdtap.com/",1,c166
+r13648,3,"^2c2b1dbe-75c5-4bee-83c9-4b625ad9f64c$","1","crowdtap.com/",1,c166
+r13649,3,"^310fb66c-df3c-43c8-8a80-747d75024ac9$","1","crowdtap.com/",1,c166
+r13650,3,"^08e1f696-0f9e-4bf7-ac6d-b2c265a63696$","1","crowdtap.com/",1,c166
+r13651,3,"^c6d2025e-5595-4d19-9654-6c45cfcd63b1$","1","crowdtap.com/",1,c166
+r13652,3,"^1ea64e20-ab5f-4394-9355-893c37ec490e$","1","crowdtap.com/",1,c166
+r13653,3,"^8f58365d-b475-4f3e-acb2-2a8fe6177aa2$","1","crowdtap.com/",1,c166
+r13654,3,"^51e18530-3fff-48ef-84dd-d0a80cb1d7bc$","1","crowdtap.com/",1,c166
+r13655,3,"^4506039f-5fed-4051-9534-dbfdc71e67d2$","1","crowdtap.com/",1,c166
+r13656,3,"^95cd115b-1052-4dac-b325-d2db02158446$","1","",1,c381
+r13657,3,"^7fff6d4b-2c48-4f6f-8f28-9031b69d0261$","1","",1,c381
+r13658,3,"^5f69c936-4b25-444d-b393-53c80704ed1a$","1","",1,c381
+r13659,3,"^efc0ee7f-5416-4e29-bab5-f1e0daab390c$","1","",1,c381
+r13660,3,"^c4e0e0b6-2093-4c91-a154-05bafb7c62c4$","1","",1,c381
+r13661,3,"^eceba213-8463-41f3-89a0-e2cf0790bdb4$","1","",1,c381
+r13662,3,"^04417631-613f-4287-be9a-0caa27095090$","1","",1,c381
+r13663,3,"^6616e6e5-474d-44c2-976b-5569e495e83e$","1","",1,c381
+r13664,3,"^Hot brewed coffee$","1","",1,c381
+r13665,3,"^Sports Drinks \(e.g., Gatorade, Powerade, BODYARMOR\)$","1","",1,c381
+r13666,3,"^Fruit Juice \(e.g., Tropicana, Simply Orange, Naked\)$","1","",1,c381
+r13667,3,"^Flavored or Enhanced Water \(e.g., Vitaminwater, Propel, Hint\)$","1","",1,c381
+r13668,3,"^Carbonated Soft Drinks \(e.g., Coca-Cola, Pepsi, Sprite\)$","1","",1,c381
+r13669,3,"^Ready-to-Drink Coffee \(e.g., Starbucks Frappuccino, Dunkin’ Iced Coffee, La Colombe\)$","1","",1,c381
+r13670,3,"^Functional Beverages \(e.g., OLIPOP, Poppi, Health-Ad$","1","",1,c381
+r13671,3,"^Bottled Water \(e.g., Dasani, Smartwater, Fiji\)$","1","",1,c381
+r13672,3,"^Ready-to-Drink Tea \(e.g., Pure Leaf, Arizona, Gold Peak\)$","1","",1,c381
+r13673,3,"^Energy Drinks \(e.g., Red Bull, Monster, Celsius\)$","1","",1,c381
+r13674,3,"^Strongly agree$","1","",1,c381
+r13675,3,"^3$","1","",1,c381
+r13676,3,"^I’d love to participate$","1","",1,c381
+r13677,3,"^Laptop or desktop computer with webcam$","1","",1,c381
+r13678,3,"^Tablet$","1","",1,c381
+r13679,3,"^Smartphone$","1","",1,c381
+r13680,3,"^Yes, I agree to keep all information confidential.$","1","",1,c381
+r13681,3,"^Laptop / desktop computer$","1","",1,c382
+r13682,3,"^Smartphone$","1","",1,c382
+r13683,3,"^Smartwatch$","1","",1,c382
+r13684,3,"^Tablet$","1","",1,c382
+r13685,3,"^Apple iPhone$","1","",1,c382
+r13686,3,"^Yes, I am the primary account holder$","1","",1,c382
+r13687,3,"^Verizon$","1","",1,c382
+r13688,3,"^Within the last week$","1","",1,c382
+r13689,3,"^Extremely familiar$","1","",1,c382
+r13690,3,"^Very positive – I’m excited about AI and believe it’s a positive force that improves daily life$","1","",1,c382
+r13691,3,"^Female$","1","",1,c383
+r13692,3,"^Apple iPhone$","1","",1,c383
+r13693,3,"^d5f1e74e-8476-489e-9ca1-d4282fc12573$","1","",1,c383
+r13694,3,"^e8d900ce-0065-4d81-8016-83e59724a87d$","1","",1,c383
+r13695,3,"^c2d8f1e3-9f1d-4255-856e-9ace4dfcce76$","1","",1,c383
+r13696,3,"^Everyday$","1","",1,c383
+r13697,3,"^7a6b02e2-b3c1-4ff8-a1a3-ae34b4e7e4ab$","1","",1,c383
+r13698,3,"^13cd3229-1676-4e4a-afd8-92f673778ffb$","1","",1,c383
+r13699,3,"^96ecaaec-bdbb-435e-a7c8-084251eb5fea$","1","",1,c383
+r13700,3,"^My photos are very organized$","1","",1,c383
+r13701,3,"^Water Bottles$","1","",1,c384
+r13702,3,"^79b46fee-6fe2-4eed-a172-9dd18cd0cfb6$","1","",1,c385
+r13703,3,"^a148c162-7b45-4e5f-afe9-43233c552cad$","1","",1,c385
+r13704,3,"^4e81645c-b2b3-47cf-a120-5902ba4ec10a$","1","",1,c385
+r13705,3,"^8206002b-5b1c-4ddf-8ba8-33cafada7989$","1","",1,c385
+r13706,3,"^0a6c9dcb-28c8-4b70-9867-bcbe7c670ca3$","1","",1,c386
+r13707,3,"^6e015265-c76c-4472-89bf-4a2e4b9ec6c8$","1","",1,c386
+r13708,3,"^c59e478d-8c76-40de-a4bd-16fa3ec36846$","1","",1,c386
+r13709,3,"^5414ce8c-96ea-45b2-8a3a-ef9bb5ccc44f$","1","",1,c386
+r13710,3,"^181e4eb9-8d87-4160-9b7f-a204b3533c85$","1","",1,c386
+r13711,3,"^bc6bc59e-4f84-4c52-8840-e4e65500a17d$","1","",1,c386
+r13712,3,"^ff4868b2-d992-489f-8da7-2afdff0439fc$","1","",1,c386
+r13713,3,"^dbfbf25a-539e-4698-a451-aa8635edd747$","1","",1,c386
+r13714,3,"^9df69a95-e430-46bb-a3fb-e10615c7d26b$","1","",1,c386
+r13715,3,"^dfef7608-32af-44b0-9e89-b57a475a32ed$","1","",1,c386
+r13716,3,"^6195e8ff-d0f1-4fbc-a0eb-8627dfe47eeb$","1","",1,c386
+r13717,3,"^5d6d4353-9105-4acf-8a41-4134879a4c0d$","1","",1,c386
+r13718,3,"^6a0fbf4e-2825-4acf-97e0-43a7f978caad$","1","",1,c386
 ### AUTOFILL SETTINGS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
