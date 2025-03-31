@@ -392,14 +392,6 @@
         ]
     },
     {
-        "text": "Getting to know you!",
-        "id": "Daini 142",
-        "requiredTexts": [
-            "Getting to know you!",
-            "We want to know more about you! Thank you for participating!"
-        ]
-    },
-    {
         "text": "Let's talk about you!",
         "id": "Daini 143",
         "requiredTexts": [
@@ -1069,6 +1061,15 @@
         "requiredTexts": [
             "All about beverages!",
             "We\u2019d like to know what beverages you drink"
+        ],
+        "escrita": "Escrita"
+    },
+    {
+        "text": "Getting to know you!",
+        "id": "Daini 142",
+        "requiredTexts": [
+            "Getting to know you!",
+            "We want to know more about you! Thank you for participating!"
         ],
         "escrita": "Escrita"
     }
