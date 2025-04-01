@@ -1031,7 +1031,8 @@
         "requiredTexts": [
             "More about you",
             "We want to know more about how you use technology!"
-        ]
+        ],
+        "escrita": ""
     },
     {
         "text": "All about you!",
