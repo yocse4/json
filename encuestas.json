@@ -1026,15 +1026,6 @@
         ]
     },
     {
-        "text": "More about you",
-        "id": "Daini 222",
-        "requiredTexts": [
-            "More about you",
-            "We want to know more about how you use technology!"
-        ],
-        "escrita": ""
-    },
-    {
         "text": "All about you!",
         "id": "Daini 223",
         "requiredTexts": [
@@ -1101,7 +1092,7 @@
             "Time Management and Daily Priorities",
             "This is a short survey to gather insights about how people manage their time and priorities. There are no right or wrong answers \u2014 share your honest experience. It should only take 2-3 minutes to complete."
         ],
-        "escrita": "semanal"
+        "escrita": "Escrita"
     },
     {
         "text": "Let's talk tech!",
@@ -1282,5 +1273,176 @@
             "We have a few questions for you to answer."
         ],
         "escrita": "ESCRITA"
+    },
+    {
+        "text": "Quick Survey",
+        "id": "Daini 250",
+        "requiredTexts": [
+            "Quick Survey",
+            "Jump into this quick survey and tell us about a financial service you may or may not use. There are no \u201cright\u201d or \u201cwrong\u201d answers, so please answer HONESTLY. Thanks in advance for participating!"
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "Foods You Consume.",
+        "id": "Daini 251",
+        "requiredTexts": [
+            "Foods You Consume.",
+            "Tell us what flavors you like!"
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "All About You!",
+        "id": "Daini 252",
+        "requiredTexts": [
+            "All About You!",
+            "Please answer a few questions about your health."
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "Hey there!",
+        "id": "Daini 253",
+        "requiredTexts": [
+            "Hey there!",
+            "We want to learn about what you\u2019ve been up to lately!"
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "Let's go shopping!",
+        "id": "Daini 254",
+        "requiredTexts": [
+            "Let's go shopping!",
+            "We would like to know more about how you shop."
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "Let\u2019s talk about inflation!",
+        "id": "Daini 255",
+        "requiredTexts": [
+            "Let\u2019s talk about inflation!",
+            "Please answer as truthfully as you can!"
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "Your opinions on a potential tagline for an airline!",
+        "id": "Daini 256",
+        "requiredTexts": [
+            "Your opinions on a potential tagline for an airline!",
+            "We want to know how you feel about a potential tag line for an airline company"
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "A few questions about your athletic habits",
+        "id": "Daini 257",
+        "requiredTexts": [
+            "A few questions about your athletic habits",
+            "Thank you for taking a few minutes to complete this survey!"
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "Almond Milk 2.0: Is It Your New Go-To?",
+        "id": "Daini 258",
+        "requiredTexts": [
+            "Almond Milk 2.0: Is It Your New Go-To?",
+            "Are you looking for a protein-rich, dairy-free option to complement your lifestyle? Help us refine our new almond milk concept by sharing your feedback."
+        ],
+        "escrita": "Escrita XX"
+    },
+    {
+        "text": "Tell us your thoughts on new Cough & Sore Throat products for kids!",
+        "id": "Daini 259",
+        "requiredTexts": [
+            "Tell us your thoughts on new Cough & Sore Throat products for kids!",
+            "In this survey you will have the opportunity to give us your feedback on natural cough and sore throat products for kids."
+        ],
+        "escrita": "Escrita XX"
+    },
+    {
+        "text": "Let's look at some new products!",
+        "id": "Daini 260",
+        "requiredTexts": [
+            "Let's look at some new products!",
+            "We want to know more about your product preferences and the packages you choose. Remember there are no right or wrong answers - thanks for your participation!"
+        ],
+        "escrita": "Escrita XX"
+    },
+    {
+        "text": "Help us Understand Your Job Search Experiences and Expectations",
+        "id": "Daini 261",
+        "requiredTexts": [
+            "Help us Understand Your Job Search Experiences and Expectations",
+            "We invite you to participate in our survey aimed at understanding job seeker experiences and expectations. Thank you for your valuable input."
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "Pet parents shopping preferences",
+        "id": "Daini 262",
+        "requiredTexts": [
+            "Pet parents shopping preferences",
+            "We want to learn more about you as a pet parent and how you shop for your furry friend."
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "Got Oats? Share Your Milk Preferences!",
+        "id": "Daini 263",
+        "requiredTexts": [
+            "Got Oats? Share Your Milk Preferences!",
+            "Whether it\u2019s creamy, tasty, or healthy\u2014we want your feedback on which oat milk you prefer!"
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "Got Oats? Share Your Milk Preferences!",
+        "id": "Daini 264",
+        "requiredTexts": [
+            "Got Oats? Share Your Milk Preferences!",
+            "Whether it\u2019s creamy, tasty, or healthy\u2014we want your feedback on which oat milk you prefer!"
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "Got Oats? Share Your Milk Preferences!",
+        "id": "Daini 265",
+        "requiredTexts": [
+            "Got Oats? Share Your Milk Preferences!",
+            "Whether it\u2019s creamy, tasty, or healthy\u2014we want your feedback on which oat milk you prefer!"
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "Let's talk about you!",
+        "id": "Daini 266",
+        "requiredTexts": [
+            "Let's talk about you!",
+            "We have some questions about you. Thank you for your time!"
+        ],
+        "escrita": ""
+    },
+    {
+        "text": "What does \"Clean Label\" mean to you?",
+        "id": "Daini 267",
+        "requiredTexts": [
+            "What does \"Clean Label\" mean to you?",
+            "We'd love to hear from consumers about what \"clean\" means for you when shopping for plant milks."
+        ],
+        "escrita": "Escrita XX"
+    },
+    {
+        "text": "More about you",
+        "id": "Daini 222",
+        "requiredTexts": [
+            "More about you",
+            "We want to know more about how you use technology!"
+        ],
+        "escrita": "Escrita"
     }
 ]
