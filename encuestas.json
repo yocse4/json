@@ -1018,11 +1018,11 @@
         ]
     },
     {
-        "text": "A few questions about you!",
-        "id": "Daini 221",
+        "text": "More about you",
+        "id": "Daini 222",
         "requiredTexts": [
-            "A few questions about you!",
-            "Thanks for your time and honesty!"
+            "More about you",
+            "We want to know more about how you use technology!"
         ]
     },
     {
@@ -1438,10 +1438,19 @@
     },
     {
         "text": "More about you",
-        "id": "Daini 222",
+        "id": "Daini 268",
         "requiredTexts": [
             "More about you",
             "We want to know more about how you use technology!"
+        ],
+        "escrita": "Escrita"
+    },
+    {
+        "text": "A few questions about you!",
+        "id": "Daini 214",
+        "requiredTexts": [
+            "A few questions about you!",
+            "Thanks for your time and honesty"
         ],
         "escrita": "Escrita"
     }
