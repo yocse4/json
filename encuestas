@@ -1,1 +1,669 @@
-[{"text":"yocse","id":"BWJQKC","requiredTexts":["yocse","yocse 2"],"escrita":"Escrita"}]
+### AUTOFILL PROFILES ###,,,,,,
+Profile ID,Name,Site,Hotkey,,,
+c2,"giDhHB","crowdtap.com/","",,,
+c3,"NBMFIJ","crowdtap.com/","",,,
+c4,"bUCYVS","crowdtap.com/","",,,
+c5,"KFEGIL","crowdtap.com/","",,,
+c6,"GTRSQC","crowdtap.com/","",,,
+c7,"kglBiA","crowdtap.com/","",,,
+c8,"FAVQRU","crowdtap.com/","",,,
+c9,"EQdFRc","crowdtap.com/","",,,
+c10,"BhisAD","crowdtap.com/","",,,
+c11,"jEFvhR","crowdtap.com/","",,,
+c12,"AFHGBC","crowdtap.com/","",,,
+c13,"hjCFgE","crowdtap.com/","",,,
+c14,"hMlO9A","crowdtap.com/","",,,
+c15,"DJLEKH","crowdtap.com/","",,,
+c16,"q6ibmp","crowdtap.com/","",,,
+c17,"YQrpgD","crowdtap.com/","",,,
+c18,"BCDAEF","crowdtap.com/","",,,
+c19,"QRDBSC","crowdtap.com/","",,,
+### AUTOFILL RULES ###,,,,,,
+Rule ID,Type,Name,Value,Site,Mode,Profile
+r27,3,"^36bca64f-e6a2-4d29-8a18-f32513662856$","1","",1,c2
+r28,3,"^ca65481e-da38-435c-893b-d7090f292a74$","1","",1,c2
+r29,3,"^8d395763-aa7f-4ed6-91d9-44afce0030b9$","1","",1,c2
+r30,3,"^Employed full-time$","1","",1,c2
+r31,3,"^CEO/Owner$","1","",1,c2
+r32,3,"^\$1 million – \$4.9 million$","1","",1,c2
+r33,3,"^Vacation/travel 🧳$","1","",1,c3
+r34,3,"^Beachy and relaxing$","1","",1,c3
+r35,3,"^Family$","1","",1,c3
+r36,3,"^Clothing & shoes 👞$","1","",1,c3
+r37,3,"^Clean-out-and-replace essentials$","1","",1,c3
+r38,3,"^Sunscreen$","1","",1,c3
+r39,3,"^A mix of both$","1","",1,c3
+r40,3,"^Gardening$","1","",1,c3
+r41,3,"^A few times a week$","1","",1,c3
+r42,3,"^Warmer weather$","1","",1,c3
+r43,3,"^Warmer weather ☀️$","1","",1,c3
+r44,3,"^My home$","1","",1,c3
+r45,3,"^I get more active$","1","",1,c3
+r46,3,"^Earthy & natural$","1","",1,c3
+r47,3,"^0dabcea6-5392-45ef-b2a6-d3c26c20aef7$","1","",1,c4
+r48,3,"^c5f6ed48-58d9-43ab-b8cd-2f74c90af7bb$","1","",1,c4
+r49,3,"^Very likely$","1","",1,c4
+r50,3,"^e5897938-f370-458b-bcbe-24cd029d98af$","1","",1,c4
+r51,3,"^baf0a834-a3ae-4d87-bcb2-e548af471bcf$","1","",1,c4
+r52,3,"^b856afe5-4a9d-408d-a007-4214e61cc9dd$","1","",1,c4
+r53,3,"^4fda07c6-865c-41bd-9ff7-13c7090fb7f5$","1","",1,c4
+r54,3,"^1976dfa0-dc1a-4d0b-841f-9d09bd3c48de$","1","",1,c4
+r55,3,"^08a764a2-8090-421a-bf0b-26f6ba0f8639$","1","",1,c4
+r56,3,"^2e3e2c37-ea23-42f8-9491-2d93c935005b$","1","",1,c5
+r57,3,"^e76ff163-68c4-4523-bc99-60d6015309c5$","1","",1,c5
+r58,3,"^ffe45433-d62f-4bbb-b31c-2865b43f77e3$","1","",1,c5
+r59,3,"^I buy about half my groceries in-store, and half online$","1","",1,c5
+r60,3,"^80d19e9c-1abe-4443-b3c8-a2c588538f42$","1","",1,c5
+r61,3,"^0c2faaf5-129f-4ba0-be13-3fef01d587ad$","1","",1,c5
+r62,3,"^dd0408e8-70c0-4561-9183-b4ed6979ece5$","1","",1,c5
+r63,3,"^19a415c0-0514-4363-b334-0e5e844fdfee$","1","",1,c5
+r64,3,"^d315bc3b-0677-42b9-a314-05a9edc64e2b$","1","",1,c5
+r65,3,"^c6e2e4ce-65fe-4caa-a60a-d7740719b2b9$","1","",1,c5
+r66,3,"^83d69fc4-2305-4461-b357-929cac99aae3$","1","",1,c5
+r67,3,"^3da03bbc-a026-4401-8e7b-0823215d0875$","1","",1,c5
+r68,3,"^fdcd1726-3200-40e1-b7ea-566003fdf901$","1","",1,c5
+r69,3,"^d95e25c5-6db1-4ef5-9c74-75659bcbdde4$","1","",1,c5
+r70,3,"^8d0bdd1d-a1fa-4ed7-a358-7c71ff8598f2$","1","",1,c5
+r71,3,"^d1080714-2a30-4322-a0eb-bac33e1f5ba3$","1","",1,c5
+r72,3,"^880e6333-7429-4d6e-92c2-c44c3656d8f5$","1","",1,c5
+r73,3,"^fddcdaaf-0917-4f43-95e5-590483a7244a$","1","",1,c5
+r74,3,"^29c0c4d8-8c82-4787-82d0-f1bd4dc7ee98$","1","",1,c5
+r75,3,"^596bdf55-eff2-40ef-8ad8-2baef7a5a871$","1","",1,c5
+r76,3,"^a308f498-3913-4bb3-b893-8e05605e1cae$","1","",1,c5
+r77,3,"^8019bb4f-d4d5-490a-8eb3-fe428964825a$","1","",1,c5
+r78,3,"^a4b750bb-72d0-482e-8185-8bb56ab9eb43$","1","",1,c5
+r79,3,"^a9781087-0322-46ea-a1eb-6abf0f61c53b$","1","",1,c5
+r80,3,"^8553e793-d1b8-43eb-9504-8627236eeec9$","1","",1,c5
+r81,3,"^eb4c9ef5-5b50-4905-8ea8-1c3e88306c5e$","1","",1,c5
+r82,3,"^3783f9c5-bf32-4974-867d-a80d4cd60eec$","1","",1,c5
+r83,3,"^7c32fc12-3b87-4105-8d8e-3f6c68865e88$","1","",1,c5
+r84,3,"^e678124e-2d8f-4ed9-b1ae-9e85ef9cbaf5$","1","",1,c5
+r85,3,"^7a7b2334-fdb2-4638-a314-1c6931d81fb1$","1","",1,c5
+r86,3,"^b8de5b4c-6e3d-4573-bb1c-2d1a58c1c1fa$","1","",1,c5
+r87,3,"^406e9c26-e65e-41ee-a021-9605affbf017$","1","",1,c5
+r88,3,"^20a60b6d-67fa-4b97-b208-0e3b9b7ba6d5$","1","",1,c5
+r89,3,"^ce331acf-0097-4b7a-b6a8-8f6de3eb6260$","1","",1,c5
+r90,3,"^ce09e5ee-e977-43f3-9ffe-8b7a3e38cb02$","1","",1,c5
+r91,3,"^d3102467-fe12-4be1-b904-26fa9b9f211f$","1","",1,c5
+r92,3,"^b34684c8-13e9-446b-85fe-f50ba82375cb$","1","",1,c5
+r93,3,"^de3502a7-629c-425b-be26-0269dccf225c$","1","",1,c5
+r94,3,"^e1ca33e9-fe3a-4796-9451-ba74e00de07f$","1","",1,c5
+r95,3,"^c5cde2f6-e5c6-4667-8cfb-6be97e9f6ce3$","1","",1,c5
+r96,3,"^31a2e221-9c35-44e0-812b-99287afcf25f$","1","",1,c5
+r97,3,"^7caeb876-0f74-49b5-8273-6597700bf1b3$","1","",1,c5
+r98,3,"^609a4098-65d5-4550-a8f5-b52829884c85$","1","",1,c5
+r99,3,"^5c75f766-2c57-4721-bc06-548778d0d1eb$","1","",1,c5
+r100,3,"^dd067f1a-2c22-455a-a00d-bd5887d68e15$","1","",1,c5
+r101,3,"^e75e469c-5a1f-4791-8b18-29b25f8e324b$","1","",1,c5
+r102,3,"^6dc041a7-2e41-4163-9a37-2941ee2f5be4$","1","",1,c5
+r103,3,"^5dae7f7a-345d-4f31-8140-f2a4f7c6e2e1$","1","",1,c5
+r104,3,"^Walmart / Walmart.com$","1","",1,c5
+r105,3,"^078eda61-fdf2-4daa-9d21-ac43b8242f78$","1","",1,c5
+r106,3,"^4318728a-cbc2-4cef-80f1-bc3590b00283$","1","",1,c5
+r107,3,"^93cc4eff-5553-44bd-8f8f-313315c4b4a3$","1","",1,c5
+r108,3,"^8a273d42-9201-4960-8c74-7c00f739ca5c$","1","",1,c5
+r109,3,"^ba4a049f-8fb4-46ce-b719-e6f3c4bdc623$","1","",1,c5
+r110,3,"^63b5df38-22d4-40bd-b320-16225438f5c2$","1","",1,c5
+r111,3,"^5c402b69-0a31-4e38-8489-fe267028cb05$","1","",1,c5
+r112,3,"^d3ba1633-174f-4cf7-89bd-e73f26caeff4$","1","",1,c5
+r113,3,"^95b27b95-fe3d-42d2-8c1a-ac66ad0cfabb$","1","",1,c5
+r114,3,"^bf8a69ad-6be7-4bf4-ac57-69b152102fd5$","1","",1,c5
+r115,3,"^d150a8a4-e986-41c0-b547-e7531e2a211c$","1","",1,c5
+r116,3,"^d001d222-dfeb-4258-beec-e0d597782f11$","1","",1,c5
+r117,3,"^fddd164e-b7d2-4466-8c8b-c45f792f48b3$","1","",1,c5
+r118,3,"^582999b0-1e78-49cc-8688-51cd484ce2ee$","1","",1,c5
+r119,3,"^7c479449-0dfc-40aa-aa11-ae5fdd5c3d37$","1","",1,c5
+r120,3,"^5b7156f9-5b52-4838-9d5b-8f5bd7f5f129$","1","",1,c5
+r121,3,"^Extremely likely$","1","",1,c5
+r122,3,"^I care a lot about my health and wellness, and significantly adjust my life to stay healthy$","1","",1,c5
+r123,3,"^I am passionate about the environment, and take extensive steps to reduce my impact$","1","",1,c5
+r124,3,"^It is important that others \(friends, colleagues, social media followers etc.\) think I am healthy$","1","",1,c5
+r125,3,"^I regularly take vitamins and supplements to help support my health and wellness$","1","",1,c5
+r126,3,"^I like to try new drink/hydration brands and/or flavors$","1","",1,c5
+r127,3,"^Health and wellness is an important part of my identity$","1","",1,c5
+r128,3,"^I spend time researching ingredients of drink/hydration products I buy to ensure they are right for me$","1","",1,c5
+r129,3,"^It is really important that I keep fit, I exercise regularly$","1","",1,c5
+r130,3,"^It is important that health and wellness products I buy are scientifically proven to work$","1","",1,c5
+r131,3,"^Good hydration is vital for my energy levels$","1","",1,c5
+r132,3,"^Good hydration is vital for my gut health/digestion$","1","",1,c5
+r133,3,"^Good hydration is vital for my immune system$","1","",1,c5
+r134,3,"^Good hydration is vital for my brain and memory$","1","",1,c5
+r135,3,"^Good hydration is vital for my stress management$","1","",1,c5
+r136,3,"^860cc3b5-1042-4f32-b862-4e46ddcd671e$","1","",1,c5
+r137,3,"^eed78505-88d0-4c85-a6db-0d05bde3e492$","1","",1,c5
+r138,3,"^c22a014d-c77b-4bc4-9de8-bd3a27bfa1a3$","1","",1,c5
+r139,3,"^3c22e991-104f-422f-8d76-080b764d4433$","1","",1,c5
+r140,3,"^Strongly agree$","1","",1,c5
+r141,3,"^001b1905-b86d-4b92-8249-d7e9c5658eb2$","1","",1,c6
+r142,3,"^5d876f0a-dfcd-43cb-aec9-ebf8be03c6fa$","1","",1,c6
+r143,3,"^388a7aca-f698-4065-ad24-c498c5fa43b1$","1","",1,c6
+r144,3,"^8edd8dc1-52bc-4ca3-b033-e5f1086756dd$","1","",1,c6
+r145,3,"^9e6badf8-3680-4fe5-9063-95a09901a7b6$","1","",1,c6
+r146,3,"^I am the primary decision maker$","1","",1,c6
+r147,3,"^Tiger$","1","",1,c6
+r148,3,"^55b85fe3-02d9-46cd-acd6-3a12022480ca$","1","",1,c6
+r149,3,"^3d116d1c-44ca-4b39-b3ed-ef3081392aa4$","1","",1,c6
+r150,3,"^ceb25a29-3353-4c8c-b5bb-5a909dafeec9$","1","",1,c6
+r151,3,"^384c6196-73a2-43cc-84a2-9cf89c62b20e$","1","",1,c6
+r152,3,"^e45e0f81-a9c7-4b32-8028-8a763866b28c$","1","",1,c6
+r153,3,"^4d6e4db4-aea3-4734-9fc0-9dd50ac88158$","1","",1,c6
+r154,3,"^Flies$","1","",1,c6
+r155,3,"^Cockroaches$","1","",1,c6
+r156,3,"^Rats$","1","",1,c6
+r157,3,"^Gnats$","1","",1,c6
+r158,3,"^Mice$","1","",1,c6
+r159,3,"^Mosquitos$","1","",1,c6
+r161,3,"^c319ad01-8b89-45a0-8634-d2377fc70bea$","1","",1,c6
+r162,3,"^1760aeec-d783-43de-88d0-f7aec364833b$","1","",1,c6
+r163,3,"^97612435-315e-45a4-82fb-21233b29fc28$","1","",1,c6
+r164,3,"^9e992316-18ad-4744-b750-cdb98768d626$","1","",1,c6
+r165,3,"^e3a1813d-dd9f-49cb-a8d7-13b40e2d1888$","1","",1,c6
+r166,3,"^7b4dcd5c-ee00-486f-b370-13621dea3a57$","1","",1,c6
+r167,3,"^a5d890c3-2c22-4891-a660-93a1fc5d2df3$","1","",1,c6
+r168,3,"^4aee7b3f-d978-4636-a600-5522b22100a7$","1","",1,c6
+r169,3,"^Grandpa Gus$","1","",1,c6
+r170,3,"^RatX$","1","",1,c6
+r171,3,"^d-Con$","1","",1,c6
+r172,3,"^Mighty Mint$","1","",1,c6
+r173,3,"^Victor$","1","",1,c6
+r174,3,"^Tomcat$","1","",1,c6
+r175,3,"^Catch Master$","1","",1,c6
+r176,3,"^good nature$","1","",1,c6
+r177,3,"^eaed8f07-22dd-4ec0-bedd-3ac1385b2b32$","1","",1,c6
+r178,3,"^e8e73ba5-2f59-4989-a662-9648a2b95530$","1","",1,c6
+r179,3,"^3f80a27f-f0e3-4f4f-92cb-6992cbbfe9e2$","1","",1,c6
+r180,3,"^a46da608-5d23-492f-b375-f76c01e6924c$","1","",1,c6
+r181,3,"^bc30dda7-8d05-49f8-a084-117f8e67e95e$","1","",1,c6
+r182,3,"^4ff7e483-0a03-4e63-b458-04d5d08d4a0b$","1","",1,c6
+r183,3,"^Bed bug, flea & tick killer spray$","1","",1,c6
+r184,3,"^Outdoor lawn insect killer hose attachment \(outdoor spray for insects on lawns & home perimeter\)$","1","",1,c6
+r185,3,"^Outdoor mosquito & bug killer sprays \(killer \+ repellent\)$","1","",1,c6
+r186,3,"^Flying insect killer sprays \(indoor & outdoor use, kills small flying insects\)$","1","",1,c6
+r187,3,"^Indoor insect killer plug-in lights \(kills only\)$","1","",1,c6
+r188,3,"^Outdoor insect, mite & disease 3-in-1 sprays$","1","",1,c6
+r189,3,"^Electronic traps for insects$","1","",1,c6
+r190,3,"^6442c67a-e9f4-4206-8cc2-e89d80eb7641$","1","",1,c6
+r191,3,"^31269b92-d1fb-4332-971f-b174c8b5e902$","1","",1,c6
+r192,3,"^366d8847-9ed3-48d7-b2ca-6361d96c5797$","1","",1,c6
+r193,3,"^48bd95b1-f311-4db2-b035-c2933a0ceeab$","1","",1,c6
+r194,3,"^e28fe40b-57f2-40bf-abce-447902c64729$","1","",1,c6
+r195,3,"^ab2143ad-5da8-43f3-8aa0-dc71675d8f10$","1","",1,c6
+r196,3,"^d25ba7fa-f965-4ec9-bf37-a89847f0f647$","1","",1,c6
+r197,3,"^Raid$","1","",1,c6
+r198,3,"^Spectracide$","1","",1,c6
+r199,3,"^Bioadvanced$","1","",1,c6
+r200,3,"^Off!$","1","",1,c6
+r201,3,"^Hot Shot$","1","",1,c6
+r202,3,"^6cefbd39-6181-47d9-a9fb-c8830f40eac4$","1","",1,c6
+r203,3,"^4e821322-94a8-4836-8e83-192d686bfe99$","1","",1,c6
+r204,3,"^5fa5ede3-333c-4473-9c2d-9b6aafed2ed7$","1","",1,c6
+r205,3,"^8442d637-c42a-4c85-b630-5d832d9833b9$","1","",1,c6
+r206,3,"^c54d6162-febf-41c9-9358-f4fe669f2750$","1","",1,c6
+r207,3,"^1fb3c437-dc3b-4738-b642-aab257ffb6b5$","1","",1,c6
+r208,3,"^bfefce88-5365-4301-aa7c-a834fadf2fc4$","1","",1,c6
+r209,3,"^63cafa03-198b-4deb-a96d-e33a587ac3ad$","1","",1,c6
+r210,3,"^c27d1b3d-c4b6-4e4f-8436-2228a2c71a67$","1","",1,c6
+r211,3,"^Pestie$","1","",1,c6
+r212,3,"^Orkin$","1","",1,c6
+r213,3,"^Terminix$","1","",1,c6
+r214,3,"^6ac2bc4b-ad9a-49bb-8ea5-06a12fad0e2a$","1","",1,c7
+r215,3,"^bf4e5c4d-893d-4039-93a1-1c4eba045e0e$","1","",1,c7
+r216,3,"^039a5f43-24c8-42c6-b4ee-546298697df0$","1","",1,c7
+r217,3,"^a7b4291b-71c5-4669-8b64-e9840b97c25e$","1","",1,c7
+r218,3,"^77f50c2e-cb43-427a-a1ab-bea558c76191$","1","",1,c7
+r219,3,"^d97b9901-01a0-4f7a-8992-8f41dbc864d3$","1","",1,c7
+r220,3,"^5cd6eea8-823b-4ece-95e3-e44ba98de747$","1","",1,c7
+r221,3,"^817625b7-2c1a-4660-a400-e9aaac7bb509$","1","",1,c7
+r222,3,"^e37356d2-e18f-43ab-89a7-d923ea4b1d0f$","1","",1,c7
+r223,3,"^4e4eb4b2-9294-4e68-bd00-e0c7cb4d4717$","1","",1,c7
+r224,3,"^8c2fd0b3-a278-4965-9047-be45a131c11c$","1","",1,c7
+r225,3,"^c9edcc97-695b-441d-8a8d-de55fea2f5b0$","1","",1,c7
+r226,3,"^98e953a8-bdc1-49ff-90d7-a982ab01d0d9$","1","",1,c7
+r227,3,"^da8f555a-90b6-4086-9264-4724b2008bcf$","1","",1,c8
+r228,3,"^1611ddaa-2c5c-4fae-a3b5-5f96ff6772dd$","1","",1,c8
+r229,3,"^9f5e77b1-920a-4e81-affc-e1a95c7c483f$","1","",1,c8
+r230,3,"^524fb29d-5f06-4fed-83f3-b965094500bc$","1","",1,c8
+r231,3,"^5b30eeb4-c710-4940-9e03-96d80b30c166$","1","",1,c8
+r232,3,"^da28faea-20d8-49d4-b097-65f7396b485c$","1","",1,c8
+r233,3,"^9f9cdd37-0e72-43bd-abea-2dfb329c1c35$","1","",1,c8
+r234,3,"^aedd5634-df18-4883-a2e1-00888a1e846b$","1","",1,c8
+r235,3,"^fd286c94-cc1a-41de-93d9-c38f5c17bae5$","1","",1,c8
+r236,3,"^48b4c6bb-c8c9-4600-9662-e3517093b8e9$","1","",1,c8
+r237,3,"^e012240b-3cbe-4bb0-a645-64339aea90ff$","1","",1,c8
+r238,3,"^3ef7c6c0-d0d1-4bc5-a18c-ded8142998ee$","1","",1,c8
+r239,3,"^2d9795ad-25aa-4dd2-aa6f-125496c5ccac$","1","",1,c8
+r240,3,"^c1010cab-e345-4470-827f-db9f1bb4b185$","1","",1,c8
+r241,3,"^fc233625-686b-4cdc-8892-439074c31741$","1","",1,c8
+r242,3,"^c50729a2-3c18-4f4a-834b-54977ea47a4d$","1","",1,c8
+r243,3,"^ea41ea46-1900-4900-a2a2-9964d496cab9$","1","",1,c8
+r244,3,"^b1af27f7-5379-417c-8986-01fd86089079$","1","",1,c8
+r245,3,"^Top pink line$","1","",1,c9
+r246,3,"^c08ab372-0e88-4aab-a2f3-063f6671153a$","1","",1,c9
+r247,3,"^ffbbf32b-4f99-4512-b61f-5291ee3e44c8$","1","",1,c9
+r248,3,"^eb6526f5-4f11-4244-bb54-463b462a6db6$","1","",1,c9
+r249,3,"^b12d86f7-6397-4abb-bdcd-9a47f2f96734$","1","",1,c9
+r250,3,"^61cfe312-814a-4bca-813c-e865c634e2f1$","1","",1,c9
+r251,3,"^05042dce-bfaf-4622-80b5-e876db2770e6$","1","",1,c9
+r252,3,"^ba9e4e11-c14e-46bf-9b7e-dc0512aad102$","1","",1,c9
+r253,3,"^afd413bf-9d60-40fd-bba1-59d6f74ddbbf$","1","",1,c9
+r254,3,"^251e246d-56c5-4f82-b178-43b8a1e200d9$","1","",1,c10
+r255,3,"^Own$","1","",1,c10
+r256,3,"^Single family detached home$","1","",1,c10
+r257,3,"^Dragon$","1","",1,c10
+r258,3,"^1001 - 2500 sq ft$","1","",1,c10
+r259,3,"^Apply lawn weed control product$","1","",1,c10
+r260,3,"^Apply natural lawn weed control \(e.g., vinegar solution, corn gluten meal\)$","1","",1,c10
+r261,3,"^Apply fertilizer product$","1","",1,c10
+r262,3,"^Apply natural lawn pest control \(e.g., neem oil, diatomaceous earth\)$","1","",1,c10
+r263,3,"^Mow the lawn$","1","",1,c10
+r264,3,"^Apply lawn pest control product$","1","",1,c10
+r265,3,"^f6f1a1c4-6dcf-4bfc-b77a-4201e4810dc7$","1","",1,c10
+r266,3,"^ea6e0484-ad09-4c8e-aa9e-e538dce6d84e$","1","",1,c10
+r267,3,"^a7ca25a9-419e-4874-a1e4-f11c012a5ab1$","1","",1,c10
+r268,3,"^8323e9eb-1ff3-4c85-b238-836aef787237$","1","",1,c10
+r269,3,"^ea7548ee-db76-495b-ae2a-c61df42ff175$","1","",1,c10
+r270,3,"^5002ad37-041a-4ef3-a12a-132809edeafc$","1","",1,c10
+r271,3,"^59f890b8-fd3e-453f-92a7-aa99a9c7316e$","1","",1,c10
+r272,3,"^d554f3ac-7539-48f2-b059-b2b3b03f44c1$","1","",1,c10
+r273,3,"^29107a1c-f7ce-4f74-8647-fa23431cee60$","1","",1,c10
+r274,3,"^e74a1fc5-5297-4363-b8e9-61c548b407c1$","1","",1,c10
+r275,3,"^734bf1fc-6da4-498c-88d8-ef7d7672e43f$","1","",1,c10
+r276,3,"^8c06002e-66f8-4eb4-8034-060f019255e6$","1","",1,c10
+r277,3,"^6a313936-39bf-4639-bb2a-af0cf1a11593$","1","",1,c10
+r278,3,"^8b937602-0bc6-4571-88ba-2be342fde8d1$","1","",1,c10
+r279,3,"^fb484a6d-1ce7-431a-8e4b-ae96d39e14f1$","1","",1,c10
+r280,3,"^c1b02d2b-c042-4b45-9332-64b769f99150$","1","",1,c10
+r281,3,"^b1f3f6fe-2d56-4cfc-a4be-c8c019b0d9e4$","1","",1,c10
+r282,3,"^32ceeebf-d2a6-4830-b481-bd677f0ef6fb$","1","",1,c10
+r283,3,"^a9bc8432-409a-4942-b942-98a8847f4d6f$","1","",1,c10
+r284,3,"^f4018e12-77da-49f3-a5e3-5adf779ffd01$","1","",1,c10
+r285,3,"^f4b4b451-1567-427e-b412-68ffd4f70ca1$","1","",1,c10
+r286,3,"^86502463-d978-4094-8f27-f2fca22aae7e$","1","",1,c10
+r287,3,"^f601d563-d1bd-4fe0-92f6-6fca35e7f08f$","1","",1,c10
+r288,3,"^71bd4e49-7c01-4bc2-ae6c-9a3d318ec0f4$","1","",1,c10
+r289,3,"^b36c4635-04a0-4487-806a-691433615f4e$","1","",1,c10
+r290,3,"^Very important$","1","",1,c10
+r291,3,"^Very Interested$","1","",1,c10
+r292,3,"^Very Experienced – Follow a lawn care plan and can fix common issues$","1","",1,c10
+r293,3,"^b74d0ed8-840f-4277-a462-ef0bc061e54f$","1","",1,c10
+r294,3,"^9f9399b4-7d0b-4ae9-a59f-81ff5957cc3d$","1","",1,c10
+r295,3,"^ffb20d52-ee81-4537-93da-c276e347effa$","1","",1,c10
+r296,3,"^2141fb4f-a35d-4f95-841b-ddf9b8a6fb9a$","1","",1,c10
+r297,3,"^b50f4ab8-4610-4272-86c5-6c871a5ea458$","1","",1,c10
+r299,3,"^No, not at all$","1","",1,c10
+r300,3,"^ae48fa35-b0a0-43e4-bcc3-a862e96f1e23$","1","",1,c11
+r301,3,"^25-41$","1","",1,c11
+r302,3,"^No$","1","",1,c11
+r303,3,"^Own$","1","",1,c11
+r304,3,"^Single family detached home$","1","",1,c11
+r305,3,"^10 years or more$","1","",1,c11
+r306,3,"^Dragon$","1","",1,c11
+r307,3,"^1c9f66ea-25e9-4a7f-a8ea-079a92a9b258$","1","",1,c11
+r308,3,"^c78d0c2c-4f6d-4005-a6c7-b452889b8e5c$","1","",1,c11
+r309,3,"^85e12a18-6f9a-4934-8b26-f5183421fe21$","1","",1,c11
+r310,3,"^5d6334ad-c35f-4b21-a93a-e3f76ac99048$","1","",1,c11
+r311,3,"^e6d01c1e-47f3-43a8-ab18-21fe09cf8085$","1","",1,c11
+r312,3,"^77e69185-d2fb-4524-9e00-a7a36038321d$","1","",1,c11
+r313,3,"^4aa16563-d49d-412b-b324-fd3b667d2c38$","1","",1,c11
+r314,3,"^e85b0ec3-0cfb-4302-9f75-b3e4e53b902a$","1","",1,c11
+r315,3,"^71a5803f-65f7-41ef-ad69-ffc49e9c62bf$","1","",1,c11
+r316,3,"^Highly experienced, know the best methods for effective use in different situations$","1","",1,c11
+r317,3,"^96cdc857-3c0d-4a77-84c4-2b3467dc2f44$","1","",1,c11
+r318,3,"^fec9d29d-ba46-4ca5-9e42-25a7339a1b7c$","1","",1,c11
+r319,3,"^f28f2a70-e5fb-4448-abd9-98e5486e8ade$","1","",1,c11
+r320,3,"^0046ef67-543f-4fc7-a439-794f4089cb6c$","1","",1,c11
+r321,3,"^0f153cbb-61b9-4f70-a5af-59d2301250b5$","1","",1,c11
+r322,3,"^56d3cc07-31f7-4246-8b53-35bc9bb1ae84$","1","",1,c11
+r323,3,"^811c5bc7-c427-4634-8f4f-d9564d42e76a$","1","",1,c11
+r324,3,"^4a32d06c-fe0f-4d08-bde9-a68b43e66d80$","1","",1,c11
+r325,3,"^b1eff43b-6e1a-471f-af8c-4a7f48a594ab$","1","",1,c11
+r326,3,"^ce89d512-b862-4244-9c80-f0a7639e9b96$","1","",1,c11
+r327,3,"^8b5d802e-a0ae-474a-a6b1-901509f34651$","1","",1,c11
+r328,3,"^9a5d9919-4093-4f19-9a42-84104166349d$","1","",1,c11
+r329,3,"^eb430370-1a92-4480-959c-7bc2f6630fb7$","1","",1,c11
+r330,3,"^9f01ce49-dbc3-4a7e-9575-321b34d27fe5$","1","",1,c11
+r331,3,"^89fcc9ff-89f0-4ad5-a126-a81ae9682093$","1","",1,c11
+r332,3,"^92fbcd32-48b5-4867-a023-2f3167d3b5a3$","1","",1,c11
+r333,3,"^17ce4387-a2bc-4090-8c08-becb73902db1$","1","",1,c11
+r334,3,"^9d3e6c88-d3a4-455c-a443-dcf1bacc4644$","1","",1,c11
+r335,3,"^e3c93b8b-1ec3-4084-85fb-a9af53d7637e$","1","",1,c11
+r336,3,"^Extremely bothered$","1","",1,c11
+r337,3,"^23fee2ef-be2b-4b44-b91c-3213327e9ce9$","1","",1,c11
+r338,3,"^60aad489-c40c-4598-9637-e455e4add9d5$","1","",1,c11
+r339,3,"^e81ca80b-ab25-4d86-917e-2adf070aec3c$","1","",1,c11
+r340,3,"^1033dfdc-f97e-48c8-abbe-f1499d890f72$","1","",1,c11
+r341,3,"^e7887384-6d3c-49b4-8884-d4a9dc558f33$","1","",1,c11
+r342,3,"^fded1a8e-6b17-4f37-b258-66519acaa7bf$","1","",1,c11
+r343,3,"^63225a80-778b-452e-99d5-e190d23fa438$","1","",1,c11
+r344,3,"^2cb77def-056e-4417-9eb1-8a77eb4126e3$","1","",1,c11
+r345,3,"^c694bf5c-a63e-4188-b3c6-455245612edb$","1","",1,c12
+r346,3,"^531d8ee5-9e80-497f-b566-f4d1ff7a0bf5$","1","",1,c12
+r347,3,"^fa7334ee-f703-4969-8ab5-7a3a7604be01$","1","",1,c12
+r348,3,"^1a17fb7c-0f7d-461e-8974-7285fb9386ca$","1","",1,c12
+r349,3,"^4da4d830-410c-49fa-b4a8-eb9bd6a33208$","1","",1,c12
+r350,3,"^7b564bb8-0e6c-47f8-bdc6-adb60e3b1532$","1","",1,c12
+r351,3,"^0ddf3421-a38e-4199-92e6-64c86b643828$","1","",1,c12
+r352,3,"^36952e06-ab0d-458c-b496-ed0b14b16f5e$","1","",1,c12
+r353,3,"^b036cc1d-14aa-41c1-8894-249dc7d55cde$","1","",1,c12
+r354,3,"^8ca1dfdb-060e-4d93-8a92-22419aba0bd3$","1","",1,c12
+r355,3,"^1172c95a-becc-4b5c-b613-cdc0e1ba8009$","1","",1,c12
+r356,3,"^Apple – Mac OS$","1","",1,c12
+r357,3,"^fba8b1fb-8c1a-404b-8714-5fdfe4f70ba9$","1","",1,c12
+r358,3,"^7f376adf-c5de-4994-b63f-20b58013976c$","1","",1,c12
+r359,3,"^0d66e5d4-a968-4eef-8872-41f19afa6f34$","1","",1,c12
+r360,3,"^148005f2-0fbb-444a-9744-e668147e1f02$","1","",1,c12
+r361,3,"^21c2032a-2b27-47aa-98a1-2ae75ce30228$","1","",1,c12
+r362,3,"^1edc8667-b619-4d5c-878c-495859477132$","1","",1,c12
+r363,3,"^df03eca6-ed9b-454d-a949-309517ebf9ee$","1","",1,c12
+r364,3,"^ea2d5536-50cd-4f75-898d-54f2aaf9491c$","1","",1,c12
+r365,3,"^8d899f1a-4ca3-430b-8d17-e06dd2acc1d7$","1","",1,c12
+r366,3,"^1a34b51f-1b57-43ce-b6d4-5c10b5e8e2fe$","1","",1,c12
+r367,3,"^dba4bf48-d2cf-4221-95a0-90b1c9123a45$","1","",1,c12
+r368,3,"^26537fed-e7bb-4541-8355-71d4546f92a3$","1","",1,c12
+r369,3,"^a7039c62-3eb6-4973-89e5-1ddad2621abc$","1","",1,c12
+r370,3,"^1119f010-ec1f-4b83-883e-0bf3bf5cb739$","1","",1,c12
+r371,3,"^d46ed602-9db4-439d-a01b-13352e3d8b97$","1","",1,c12
+r372,3,"^107f37fb-dba4-4bd6-8aac-879a9f0e309e$","1","",1,c12
+r373,3,"^1cfb9f31-20dc-459c-818c-180531dda097$","1","",1,c12
+r374,3,"^38027727-bfe2-49af-a4ed-97e9e19629a7$","1","",1,c12
+r375,3,"^fa7f9662-2190-410b-8ed7-9ce748b817cc$","1","",1,c12
+r376,3,"^8d0afbc9-3191-452d-bca0-356c3fa9377c$","1","",1,c12
+r377,3,"^6666b3aa-1a61-41f3-a592-b1415a53b40a$","1","",1,c12
+r378,3,"^497b0ec1-f0f7-416e-9d5e-571fb9c39089$","1","",1,c12
+r379,3,"^59a46419-3ba3-45d9-a964-8e39f4c30405$","1","",1,c12
+r380,3,"^c1b49fff-785e-4a3b-b1d2-aa1dcf8b6f0e$","1","",1,c12
+r381,3,"^7b79b14f-835c-4fdc-b29e-7d16954c4af3$","1","",1,c12
+r382,3,"^bd20c927-394c-4e81-b109-d9bdc37dbe9e$","1","",1,c12
+r383,3,"^8d732e78-c70b-4035-b900-5b4fd119fce0$","1","",1,c12
+r384,3,"^c6d8e0a2-345d-47ac-8d4a-9c762a897226$","1","",1,c12
+r385,3,"^1ebd6c32-bacb-4802-8062-6b48f0589b0d$","1","",1,c12
+r386,3,"^4551e73c-9848-4a9c-ba20-391d6b05a2b8$","1","",1,c12
+r387,3,"^\$800\+$","1","",1,c12
+r388,3,"^483225be-7059-46e9-9253-4f0cb3829c81$","1","",1,c12
+r389,3,"^506eb987-ed20-4168-9073-af92af67db0b$","1","",1,c12
+r390,3,"^6204570c-7119-4412-8d44-1467a107c358$","1","",1,c12
+r391,3,"^68707500-344a-485d-be76-39ddb436551f$","1","",1,c12
+r392,3,"^5ef8b2e3-8170-4127-8c8c-b1dc309878a2$","1","",1,c12
+r393,3,"^7ebd927e-e99c-4a9f-9b02-fb2c2e982e02$","1","",1,c12
+r394,3,"^Green$","1","",1,c12
+r395,3,"^e12194a1-0507-438a-80ec-96fa49e707d4$","1","",1,c12
+r396,3,"^cd236bc2-0c08-4419-b28d-80b29562be30$","1","",1,c12
+r397,3,"^7ebca8ab-ee55-4210-aa93-9bdc0c294ccd$","1","",1,c12
+r398,3,"^b65c666f-8aac-42d2-a445-c19e9d7fcf24$","1","",1,c12
+r399,3,"^f7e132df-5fd2-482b-a5c9-c146d6bf99f4$","1","",1,c12
+r400,3,"^be0bbf6a-fbec-4db6-ae30-9443f9b09900$","1","",1,c12
+r401,3,"^401b56bc-5c05-42a2-835a-9f144a0768a7$","1","",1,c12
+r402,3,"^a8e173df-bc84-4308-ab2e-9a114e03e30e$","1","",1,c12
+r403,3,"^d891ddd7-fa0b-4e62-a758-60feb69dc7b2$","1","",1,c12
+r404,3,"^a1821f05-513f-4331-8641-d6cdef86db91$","1","",1,c12
+r405,3,"^f4fd36ab-a4be-499e-9584-dc533678c1f2$","1","",1,c12
+r406,3,"^f0e9c1be-549d-4929-aa9c-7eeef9411b6b$","1","",1,c12
+r407,3,"^db8508fc-a3a5-439f-9666-7a56f251bdf3$","1","",1,c12
+r408,3,"^605a79a9-0da8-45c9-b514-e544b0f82466$","1","",1,c12
+r409,3,"^5db78d40-db99-4313-849e-fda014d7db09$","1","",1,c12
+r410,3,"^eeebee6b-adae-4245-98af-25ad375f469d$","1","",1,c12
+r411,3,"^bd4a1f39-8614-4ef6-bfc5-531c9001f892$","1","",1,c12
+r412,3,"^b79c2fd3-b38c-4792-97c0-b327b1371870$","1","",1,c12
+r413,3,"^39963d5e-5e5e-4772-9632-60aca9f9171b$","1","",1,c12
+r414,3,"^bdbd9d95-1e47-4319-a122-60f7a154e29a$","1","",1,c12
+r415,3,"^232a2b2b-f4f4-43f7-b0c4-9c82c6b32f73$","1","",1,c12
+r416,3,"^71027e74-4f5d-4d1f-b51d-51c9fee5f0d8$","1","",1,c12
+r417,3,"^3a7cb17e-31f8-4cb2-a3a1-4bafdcc30f7d$","1","",1,c12
+r418,3,"^6b7072e5-489f-42b4-b74e-ec28564cfa26$","1","",1,c12
+r419,3,"^47f1cbd1-c41d-4051-8e38-2da97b7fabaf$","1","",1,c12
+r420,3,"^54ea1ec0-f3fe-4972-ab07-9bf5781c7205$","1","",1,c12
+r421,3,"^ea8b39dd-5ca0-4b85-a366-7e5df1f6f31b$","1","",1,c12
+r422,3,"^14554f34-ac45-44f6-b7e8-d114330c155d$","1","",1,c12
+r423,3,"^1dd3454c-024a-45b5-8d4f-c8cb108828e4$","1","",1,c12
+r424,3,"^1d3a4a0c-f4fc-44f6-9ca5-d0422d7672ab$","1","",1,c12
+r425,3,"^d2361c9b-0bd5-4040-977a-f440fcfc5312$","1","",1,c12
+r426,3,"^9f1ada38-1ebd-4122-acf2-0e31b342eb43$","1","",1,c12
+r427,3,"^1104e2dd-db80-41f0-8de7-05f5d0b45a84$","1","",1,c12
+r428,3,"^dca4462f-b10e-456c-bb6b-61ce22f06ed2$","1","",1,c12
+r429,3,"^5ae3cefa-6fb8-4b25-9159-8b1df09c4d81$","1","",1,c12
+r430,3,"^65569b1e-45df-4a57-83f4-dc59a9286c00$","1","",1,c12
+r431,3,"^56dcbb97-b72f-4813-b1a1-14ebd50354da$","1","",1,c12
+r432,3,"^00d8a352-03cb-4b65-8738-09e96c5cafdf$","1","",1,c12
+r433,3,"^3c8f8e39-ad36-490f-aea5-1fd608aa289b$","1","",1,c12
+r434,3,"^1c6f1b47-eb81-48b2-8068-2bf40deec19a$","1","",1,c12
+r435,3,"^160b3b7a-6f7d-4bf0-9170-8a450450ce36$","1","",1,c12
+r436,3,"^Safari$","1","",1,c12
+r437,3,"^A couple times a month$","1","",1,c12
+r438,3,"^Extremely Excited$","1","",1,c12
+r439,3,"^555b43d6-7805-436c-93c0-8b6acbbf6b78$","1","",1,c12
+r440,3,"^d7610b23-ca5c-43ee-80c2-dee23732e2b0$","1","",1,c12
+r441,3,"^c0e60e8c-b2b5-4923-9eaf-176d3a6a63d4$","1","",1,c12
+r442,3,"^35b9bc19-9e70-4971-9d61-40c2271d53da$","1","",1,c12
+r443,3,"^86d5c4eb-8799-4094-a9b9-5b2bc5ccf51c$","1","",1,c12
+r444,3,"^4053c8fd-e846-46af-af5b-bd7042c6008f$","1","",1,c12
+r445,3,"^477ecb4d-07fe-4042-ae82-2a8f6f78886c$","1","",1,c12
+r446,3,"^c5f02ad2-1a07-4d31-8b53-f190f7334149$","1","",1,c12
+r447,3,"^637965bb-f8b5-421c-8ce7-20fdae96f446$","1","",1,c12
+r448,3,"^Always$","1","",1,c12
+r449,3,"^8a82a284-8f14-4523-99f2-5b2c1b3476e2$","1","",1,c13
+r450,3,"^Own$","1","",1,c13
+r451,3,"^Dragon$","1","",1,c13
+r452,3,"^efdaca01-b1d7-4bad-baf3-9ff2b92f4e09$","1","",1,c13
+r453,3,"^1bbe1089-d31b-4d8c-8b4a-c47cfe137b08$","1","",1,c13
+r454,3,"^7efdc1f5-82bb-4a2c-8de8-477aae132c93$","1","",1,c13
+r455,3,"^c7cb3aab-09ed-4164-b571-14b01bdab230$","1","",1,c13
+r456,3,"^560560be-fa17-4ef6-88a1-c56df1e79fbe$","1","",1,c13
+r457,3,"^f415aa56-83a9-42f7-b6c4-6cf6895d696f$","1","",1,c13
+r458,3,"^96b65f18-4365-4e21-b4a4-71ca260492df$","1","",1,c13
+r459,3,"^Walmart$","1","",1,c13
+r460,3,"^Single-family detached home$","1","",1,c13
+r461,3,"^Urban \(smaller city or town\)$","1","",1,c13
+r462,3,"^2cdc2a73-187a-4a76-bb01-3efa308de256$","1","",1,c13
+r463,3,"^56d2fb0f-a0a7-4b5d-abeb-de4f80f7ed00$","1","",1,c13
+r464,3,"^ffe819f2-8232-45de-865f-ef28768cdf39$","1","",1,c13
+r465,3,"^0a13bfda-3177-4763-8ff4-0cf66c46b17d$","1","",1,c13
+r466,3,"^46faff11-af91-4465-a67b-9e33bae16afc$","1","",1,c13
+r467,3,"^a9bbf359-1103-4ab3-b598-f0a445594710$","1","",1,c13
+r468,3,"^2593ddbe-e3f4-45cc-b017-49f92694ec90$","1","",1,c13
+r469,3,"^77696e3c-9b7c-4e84-8f43-b55681d88bcc$","1","",1,c13
+r470,3,"^5491108f-d3e0-4093-be49-1a3263ddd449$","1","",1,c13
+r471,3,"^532dbce7-a5cb-4859-bece-00bc9f489f3f$","1","",1,c13
+r472,3,"^4f2ce197-8dfd-4121-b799-ed283ccb7a74$","1","",1,c13
+r473,3,"^709de2e4-5a28-4c6d-a0a7-5805148a50b4$","1","",1,c13
+r474,3,"^645b60e6-5f82-4655-a09a-4049123fed05$","1","",1,c13
+r475,3,"^e181cbcc-ff19-4f2c-a68f-fc8824e732af$","1","",1,c13
+r476,3,"^01006e15-2c50-4f6f-b09d-cb8beb1d00a4$","1","",1,c13
+r477,3,"^2772ce5f-ca70-4ab3-9eec-5aabc2fbe7f1$","1","",1,c13
+r478,3,"^Very experienced$","1","",1,c13
+r479,3,"^815d5e31-fc16-402e-a32f-346d752f3e4b$","1","",1,c13
+r480,3,"^8201fa66-08b3-4e6d-8db5-8db9a4e3efd8$","1","",1,c13
+r481,3,"^cbeb795b-dbaa-443f-8df3-dd4f7b0580c9$","1","",1,c13
+r482,3,"^6731cb1c-72cf-4b8a-b5d0-84c5f1194402$","1","",1,c13
+r483,3,"^Prior to 2020$","1","",1,c13
+r484,3,"^Very confident$","1","",1,c13
+r485,3,"^Grass seed$","1","",1,c13
+r486,3,"^Very important$","1","",1,c13
+r487,3,"^I'm willing to pay significantly more$","1","",1,c13
+r488,3,"^Mass Store \(e.g., Walmart, Target, etc.\)$","1","",1,c13
+r489,3,"^Hardware Store \(e.g., Ace, True Value\)$","1","",1,c13
+r490,3,"^Home Improvement Store \(e.g., Lowe’s, The Home Depot, etc.\)$","1","",1,c13
+r491,3,"^Online Only Retailer \(e.g., Amazon\)$","1","",1,c13
+r492,3,"^Club Store \(e.g., Sam’s Club, Costco, etc.\)$","1","",1,c13
+r493,3,"^Brand website \(e.g., Scotts.com, Miracle-Gro.com, etc.\)$","1","",1,c13
+r494,3,"^25a0645f-6089-42a6-9e8f-2631d5a1b6ff$","1","",1,c13
+r495,3,"^f3e8d30d-e705-47dd-b62a-5ae31fa9dd18$","1","",1,c13
+r496,3,"^e48cd8d2-9c9e-4d91-b779-3ffb1c71e27f$","1","",1,c13
+r497,3,"^0b56ce6a-e9b1-401f-8f1e-ed87b62950c6$","1","",1,c13
+r498,3,"^0232e398-7cf8-4b6b-91e6-3014669902be$","1","",1,c13
+r499,3,"^2fcb2093-f3d4-4a78-902b-c0699c9c84d6$","1","",1,c13
+r500,3,"^11$","1","",1,c15
+r501,3,"^5c4d55fe-689e-489e-bd0f-5e707405b408$","1","",1,c15
+r502,3,"^aad2349e-924a-488b-95e8-b6d55ccc6bab$","1","",1,c15
+r503,3,"^00a83043-c0c1-44c0-99b0-3797c0a0eac2$","1","",1,c15
+r504,3,"^c5e8ce6d-9f34-4551-b3ba-934cf26af3ee$","1","",1,c15
+r505,3,"^84434566-8001-4068-81c9-5da952a22184$","1","",1,c15
+r506,3,"^24407b45-9912-4b8e-9d48-6777f62ff1e3$","1","",1,c15
+r507,3,"^c9943d72-3d7d-434c-891e-b3a7e74737a5$","1","",1,c15
+r508,3,"^7fb79887-7b13-4e72-af47-f2dea69f5b8c$","1","",1,c15
+r509,3,"^d299df54-5fe9-4e73-84c5-31a3fcd17d43$","1","",1,c15
+r510,3,"^fbe38075-1449-46ff-a4f8-a4d89edce4be$","1","",1,c15
+r511,3,"^699baaaf-a1d2-41f7-a068-f8d20e4eb10b$","1","",1,c15
+r512,3,"^07e1cb74-34fb-4545-97c4-4662616a6775$","1","",1,c15
+r513,3,"^9127b115-759c-4a79-8417-9d7e7f7725ef$","1","",1,c15
+r514,3,"^760a3865-b483-44ec-8ab7-54ef613c01de$","1","",1,c15
+r515,3,"^Hair Salon / Studio$","1","",1,c15
+r516,0,"\[data-track=""member-scale-grid-slider-0""\]","600","",1,c15
+r517,0,"\[data-track=""member-scale-grid-slider-1""\]","600","",1,c15
+r518,0,"\[data-track=""member-scale-grid-slider-2""\]","600","",1,c15
+r519,0,"\[data-track=""member-scale-grid-slider-3""\]","600","",1,c15
+r520,0,"\[data-track=""member-scale-grid-slider-4""\]","600","",1,c15
+r521,0,"\[data-track=""member-scale-grid-slider-5""\]","600","",1,c15
+r522,0,"\[data-track=""member-scale-grid-slider-6""\]","600","",1,c15
+r523,0,"\[data-track=""member-scale-grid-slider-7""\]","600","",1,c15
+r524,3,"^More than 2 applications$","1","",1,c16
+r525,3,"^Expect to use a lot more often$","1","",1,c16
+r526,3,"^Is earth-friendly/environmentally responsible$","1","",1,c16
+r527,3,"^Gives me great results every time$","1","",1,c16
+r528,3,"^Offers plant/garden care and planning tools/inspiration/education$","1","",1,c16
+r529,3,"^Is easy to apply/use$","1","",1,c16
+r530,3,"^35-44$","1","",1,c14
+r531,3,"^Master’s Degree, Professional School Degree, Doctorate Degree or more$","1","",1,c14
+r532,3,"^Own$","1","",1,c14
+r533,3,"^Miracle-Gro products$","1","",1,c14
+r534,3,"^Spectracide \(insect/weed control\)$","1","",1,c14
+r535,3,"^BioAdvanced Products \(any category\)$","1","",1,c14
+r536,3,"^Scotts Lawn Care products$","1","",1,c14
+r537,3,"^c9c265e8-ad2b-4214-90b0-276aa367a168$","1","",1,c14
+r538,3,"^eedc4e59-3cb1-43b5-9de7-c53ad180d944$","1","",1,c14
+r539,3,"^3958c2c4-d0c4-4e49-a4f6-9ad83ec59c4b$","1","",1,c14
+r540,3,"^f2840625-3036-4b07-8547-32215c08b3db$","1","",1,c14
+r541,3,"^9bbd8629-a425-4227-a0db-504c896c8e19$","1","",1,c14
+r542,3,"^8d2a712a-d143-42ac-bfc1-dc6fb79be4a8$","1","",1,c14
+r543,3,"^ea9d3deb-183b-4b18-87cb-35f40e652318$","1","",1,c14
+r544,3,"^f33996d2-9ac4-4dc2-ba00-4ee09a1912b7$","1","",1,c14
+r545,3,"^53a03b2c-3c71-4baf-a71d-92b98bba4cf0$","1","",1,c14
+r546,3,"^Guaranteed results$","1","",1,c14
+r547,3,"^Delivers good value for the money$","1","",1,c14
+r548,3,"^Is safe to use around kids and pets$","1","",1,c14
+r549,3,"^Is from a brand I trust$","1","",1,c14
+r550,3,"^d5c08218-73b8-4cbc-a86f-89c8fe7d151e$","1","",1,c17
+r551,3,"^cac4b320-fe4b-499b-90c5-fe8fe37a14d9$","1","",1,c17
+r552,3,"^I am primarily responsible$","1","",1,c17
+r553,3,"^951efdc3-6e3c-477a-bd0b-75831fbe7d53$","1","",1,c17
+r554,3,"^9131d0d7-22ce-4051-9a2f-3a7f508f2a6f$","1","",1,c17
+r555,3,"^Customized food subscription service delivered to my home \(e.g., Smalls, Cat Person, NomNom, etc.\)$","1","",1,c17
+r556,3,"^Frozen cat food \(sold from in-store freezer\)$","1","",1,c17
+r557,3,"^Dry cat food$","1","",1,c17
+r558,3,"^Freeze-dried cat food$","1","",1,c17
+r559,3,"^Soft-moist cat food \(moist and meaty\)$","1","",1,c17
+r560,3,"^Refrigerated cat food \(sold from in-store refrigerator/cooler\)$","1","",1,c17
+r561,3,"^Cat treats or snacks to feed between meals \(e.g., crunchy treats, chews, etc.\)$","1","",1,c17
+r562,3,"^Wet cat food \(cans, pouches, cups, trays, etc.\)$","1","",1,c17
+r563,3,"^Meal complements: broth, soups, gravies, toppers, mix-ins, etc$","1","",1,c17
+r564,3,"^Purees \(fruits/veggies/meats blended into smooth form\)$","1","",1,c17
+r565,3,"^d1cc554f-bd18-4a0e-89c1-67aa33956af1$","1","",1,c17
+r566,3,"^19f81070-cf96-4357-a4d7-15bb55605fb0$","1","",1,c17
+r567,3,"^27363a0c-b410-4fac-a977-7039983989c2$","1","",1,c17
+r568,3,"^e773b5cf-58ce-4f4a-9091-36c60bf2f723$","1","",1,c17
+r569,3,"^fd139269-3213-4506-a03c-ac961b831886$","1","",1,c17
+r570,3,"^84af6215-a031-43b0-89d6-8007b550bde8$","1","",1,c17
+r571,3,"^856331ad-c0fd-46b8-9267-9eca8a2907cc$","1","",1,c17
+r572,3,"^50c06b96-e828-4e35-a14d-0fb7fc679d91$","1","",1,c17
+r573,3,"^f472740e-c4ce-4c6c-9dbc-4ba82308b28c$","1","",1,c17
+r574,3,"^7af3b445-e7df-4185-bdbd-94d4832d308d$","1","",1,c17
+r575,3,"^de0804e2-2412-4a16-87c1-b1c4bc19151b$","1","",1,c17
+r576,3,"^f9c604d9-b277-4566-a77c-dd592a2a0fc5$","1","",1,c17
+r577,3,"^35227ca8-f7e3-4e14-a930-b0c6e90a9311$","1","",1,c17
+r578,3,"^d8e53e01-9871-46cc-9d8b-33c96a540fc2$","1","",1,c17
+r579,3,"^4c8d942c-14fa-4d0f-a4a7-861ae5aeb47c$","1","",1,c17
+r580,3,"^32e816d3-4cd3-4249-9eef-685bba36365b$","1","",1,c17
+r581,3,"^ae594110-cfce-4fee-b037-1a2804ec6f21$","1","",1,c17
+r582,3,"^1c06413b-d524-40ca-b714-85a7b35701ac$","1","",1,c17
+r583,3,"^2ad54f26-5263-43e3-a9c4-bfc25639ee1a$","1","",1,c17
+r584,3,"^cbd148c3-f1bb-4944-8569-cc2e805dd489$","1","",1,c17
+r585,3,"^eeacd813-9a20-499a-926d-ff52980ab137$","1","",1,c17
+r586,3,"^0589a0d5-ad98-499c-b781-cb0a858c6d71$","1","",1,c17
+r587,3,"^3d39615b-1a7f-4860-b578-71a32be1b378$","1","",1,c17
+r588,3,"^e18d989b-b272-4d94-b9de-a8d05da8b760$","1","",1,c17
+r589,3,"^9d5d6bc5-0cf8-47b6-a0e8-9df85b665991$","1","",1,c17
+r590,3,"^f3603314-435e-431f-92f6-19e0a2836ec9$","1","",1,c17
+r591,3,"^d44239bf-5729-4b43-830d-2d51499f6052$","1","",1,c17
+r592,3,"^b7c3b4b6-68de-4cb2-ae78-4683875515e8$","1","",1,c17
+r593,3,"^d8790580-f969-41cc-b2bd-add1d455f6b9$","1","",1,c17
+r594,3,"^2d7606df-f941-4c4a-a400-950bfd613afb$","1","",1,c17
+r595,3,"^a7dd518e-650c-4613-a045-6b24c073f4fc$","1","",1,c17
+r596,3,"^I am focused on my pet\(s\)’ OVERALL HEALTH$","1","",1,c17
+r597,3,"^I focus on my pet\(s\)’ long-term health and work to preempt/avoid health issues$","1","",1,c17
+r598,3,"^35-44$","1","",1,c18
+r599,3,"^\$75,000 to \$99,999$","1","",1,c18
+r600,3,"^cc09dba4-8250-4e32-b759-6867307b7595$","1","",1,c18
+r601,3,"^8990bbac-0063-4641-af4e-cad7365ef5f7$","1","",1,c18
+r602,3,"^3aca4754-9ab0-4209-bf3e-9d075f0298a5$","1","",1,c18
+r603,3,"^a5d5d9d5-2e9e-40ee-a915-c39b8bb4a372$","1","",1,c18
+r604,3,"^c330a2ae-e0ac-48f5-bcbf-9aa61358fa6a$","1","",1,c18
+r605,3,"^Yes, I have a credit card$","1","",1,c18
+r606,3,"^670 – 739$","1","",1,c18
+r607,3,"^Been roughly the same each month$","1","",1,c18
+r608,3,"^Once or twice$","1","",1,c18
+r609,3,"^Easy to manage$","1","",1,c18
+r610,3,"^Yes, I understand and wish to continue$","1","",1,c18
+r611,0,"input\[_ngcontent-lda-c82\]","0","",1,c18
+r612,3,"^cf65442d-00ad-48c8-811a-a08bacae8d15$","1","",1,c19
+r613,3,"^11cf432c-6208-49d7-986a-477225127fc1$","1","",1,c19
+r614,3,"^06bdf405-443d-4f1b-8496-af25900230a2$","1","",1,c19
+r615,3,"^35f03dd0-9169-4638-a56a-0842fe0e9643$","1","",1,c19
+r616,3,"^40e4e9ed-53e8-494f-993c-7caa04a53f6d$","1","",1,c19
+r617,3,"^c915be25-fd96-46a6-ba76-c968bce89a58$","1","",1,c19
+r618,3,"^2a15c3fb-b5f3-414d-88ca-d3f002ae4803$","1","",1,c19
+r619,3,"^139a59d5-2046-4f19-a479-e8c7b55f7889$","1","",1,c19
+r620,3,"^8837026f-b555-4a83-9df7-b37b2a53b6bb$","1","",1,c19
+r621,3,"^DAILY \(at least once per day or more\)$","1","",1,c19
+r622,3,"^3$","1","",1,c19
+r623,3,"^31c16364-1bec-4a5c-b5fb-00a1e2d6b877$","1","",1,c19
+r624,3,"^e3c709d4-38bc-4953-8b53-eae8fe971fd2$","1","",1,c19
+r625,3,"^245d7004-6a39-4fac-933f-2fbfc18660b2$","1","",1,c19
+r626,3,"^d2b4c157-7427-40ae-a04b-6cebccb45858$","1","",1,c19
+r627,3,"^27316937-98d0-420c-9f19-53566693a427$","1","",1,c19
+r628,3,"^30% Plant Based - 70% Dairy$","1","",1,c19
+r629,0,"input\[_ngcontent-lda-c86\]","600","",1,c19
+r630,0,"\[data-track=""member-scale-grid-slider-0""\]","600","",1,c19
+r631,0,"\[data-track=""member-scale-grid-slider-1""\]","600","",1,c19
+r632,0,"\[data-track=""member-scale-grid-slider-2""\]","600","",1,c19
+r633,0,"\[data-track=""member-scale-grid-slider-3""\]","600","",1,c19
+r634,0,"\[data-track=""member-scale-grid-slider-4""\]","600","",1,c19
+r635,0,"\[data-track=""member-scale-grid-slider-5""\]","600","",1,c19
+r636,0,"\[data-track=""member-scale-grid-slider-6""\]","600","",1,c19
+### AUTOFILL SETTINGS ###,,,,,,
+advanced,"[]",,,,,
+exceptions,"[]",,,,,
+textclips,"[]",,,,,
+variables,"[]",,,,,
+allhotkey,"",,,,,
+spreadsheetname,"Lightning Autofill backup",,,,,
+spreadsheetid,"",,,,,
+importurl,"https://raw.githubusercontent.com/yocse4/json/refs/heads/main/encuestas",,,,,
+activecat,1,,,,,
+attributesoff,0,"",,,,
+autocomplete,0,":",,,,
+backup,0,"30",,,,
+badge,1,,,,,
+bisync,0,,,,,
+captchas,0,,,,,
+closeinfobar,0,"1",,,,
+debug,0,,,,,
+delay,0,"0.5",,,,
+devmodepopup,1,,,,,
+expirecats,0,,,,,
+filtercats,0,,,,,
+fluid,1,,,,,
+hidebackup,0,,,,,
+ietextbox,1,,,,,
+manual,0,,,,,
+mask,1,,,,,
+menu,1,"2",,,,
+overwrite,1,,,,,
+parselabels,1,,,,,
+randdelay,1,,,,,
+regexalerts,1,,,,,
+sitefilters,1,"0",,,,
+skiphidden,0,,,,,
+sound,0,,,,,
+theme,0,"0","","",,
+tooltips,1,,,,,
+turbo,0,,,,,
+vars,1,,,,,
