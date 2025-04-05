@@ -1471,5 +1471,14 @@
       "prueba tres"
     ],
     "escrita": "Escrita"
+  },
+  {
+    "text": "Hola",
+    "id": "95be6b12-3f8d-4838-a583-52c22a53e2e5",
+    "requiredTexts": [
+      "Hola",
+      "daine"
+    ],
+    "escrita": "scrita"
   }
 ]
