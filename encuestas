@@ -43,6 +43,16 @@ c41,"6CUOgA","crowdtap.com/","",,,
 c42,"hTRAQg","crowdtap.com/","",,,
 c43,"4CBAD0","crowdtap.com/","",,,
 c44,"yB0igC","crowdtap.com/","",,,
+c45,"BCDAGF","crowdtap.com/","",,,
+c46,"UVTQBR","crowdtap.com/","",,,
+c47,"DMNABJ","crowdtap.com/","",,,
+c48,"FRGCED","","",,,
+c49,"ixgSVB","crowdtap.com/","",,,
+c50,"CADBRQ","crowdtap.com/","",,,
+c51,"BACDFH","crowdtap.com/","",,,
+c52,"Dztsw0","crowdtap.com/","",,,
+c53,"AHECDF","crowdtap.com/","",,,
+c54,"hgijkD","crowdtap.com/","",,,
 ### AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r27,3,"^36bca64f-e6a2-4d29-8a18-f32513662856$","1","",1,c2
@@ -1675,6 +1685,298 @@ r1657,3,"^2546$","1","",1,c43
 r1658,3,"^I am the primary lease holder or owner of an automobile$","1","",1,c44
 r1659,3,"^2020 or newer$","1","",1,c44
 r1660,3,"^Primary responsibility$","1","",1,c44
+r1661,3,"^94b2adb0-a11c-4d92-9ef5-58e1fc45bfd0$","1","",1,c45
+r1662,3,"^e59437e7-e8a8-4d73-945d-f6951e044a13$","1","",1,c45
+r1663,3,"^c2742d11-e220-42a4-bf77-86785e11cbbf$","1","",1,c45
+r1664,3,"^381e6661-451a-49c3-811c-8285b8a5f173$","1","",1,c45
+r1665,3,"^4f2f3a31-08d0-46a5-87d9-ded670191491$","1","",1,c45
+r1666,3,"^d768a84e-3fab-458b-bd01-d2699a88cfea$","1","",1,c45
+r1667,3,"^bc1b49d8-3fbd-4930-91d2-a1f84556236e$","1","",1,c45
+r1668,3,"^7f8481c9-ab15-4b8f-84d5-6e75bdd4296b$","1","",1,c45
+r1669,3,"^5143feb3-a770-46ac-aa37-28a9a1f195a0$","1","",1,c45
+r1670,3,"^bb1896df-4273-4d1c-a530-991e0b018f45$","1","",1,c45
+r1671,3,"^9fee783f-ab85-49e7-b417-a89e331cc68e$","1","",1,c45
+r1672,3,"^940005da-b598-4e2a-97bf-23c197681095$","1","",1,c45
+r1673,3,"^69cd7bf9-4106-4313-bf18-723a38201f29$","1","",1,c45
+r1674,3,"^260706cb-e862-45e9-b3c7-4f17caefa762$","1","",1,c45
+r1675,3,"^I am solely responsible$","1","",1,c45
+r1676,3,"^Smart speaker \(e.g., Amazon Echo, Google Home\)$","1","",1,c45
+r1677,3,"^TV$","1","",1,c45
+r1678,3,"^Smart plug\(s\)$","1","",1,c45
+r1679,3,"^Smartwatch$","1","",1,c45
+r1680,3,"^Virtual reality headset$","1","",1,c45
+r1681,3,"^Personal computer$","1","",1,c45
+r1682,3,"^Streaming device \(e.g., Roku, Apple TV, Chromecast\)$","1","",1,c45
+r1683,3,"^Smartphone$","1","",1,c45
+r1684,3,"^Tablet$","1","",1,c45
+r1685,3,"^Soundbar$","1","",1,c45
+r1686,3,"^Gaming console$","1","",1,c45
+r1687,3,"^423e6bae-95e9-429a-bee7-622352542599$","1","",1,c45
+r1688,3,"^d0c2d3a1-7769-4c3f-854e-2c175c5ed6b8$","1","",1,c45
+r1689,3,"^0d487e7b-b275-43fb-ab7d-c9ef971a773e$","1","",1,c45
+r1690,3,"^927e0b46-4a2f-48c6-b696-dc34a0b52e2d$","1","",1,c45
+r1691,3,"^a578e7e8-68c4-4f3c-8318-7650b2fd5ab6$","1","",1,c45
+r1692,3,"^3b861479-cd11-4914-bf85-f871a1500326$","1","",1,c45
+r1693,3,"^a2e5c4a0-26fe-4ff0-b930-aaf02d122e83$","1","",1,c45
+r1694,3,"^2fb9d90f-86e0-4e31-a817-a2ce6b34cada$","1","",1,c45
+r1695,3,"^fcc02d41-e618-480f-b23a-c3a4b0cb6daf$","1","",1,c45
+r1696,3,"^12dfdccf-7147-4d07-9996-4b2539244b28$","1","",1,c45
+r1697,3,"^7a10ab62-9728-4316-9af8-822bbde0238f$","1","",1,c45
+r1698,3,"^3$","1","",1,c45
+r1699,3,"^VIZIO$","1","",1,c45
+r1700,3,"^Living room$","1","",1,c45
+r1701,3,"^Medium: 44 - 55 inches$","1","",1,c45
+r1702,3,"^2 years ago$","1","",1,c45
+r1703,3,"^\$501 - \$600$","1","",1,c45
+r1704,3,"^Satisfied$","1","",1,c45
+r1705,3,"^59463105-d7ee-4a7a-b6f2-1adbf088f7c4$","1","",1,c45
+r1706,3,"^181acd39-144b-469e-9e31-aa225de82329$","1","",1,c45
+r1707,3,"^44a3ee7b-ea89-4608-adb7-23ccf1139f0d$","1","",1,c45
+r1708,3,"^760f01e8-6ec1-493b-ac67-9f0e956658f5$","1","",1,c45
+r1709,3,"^54fe1a06-a858-46a7-a069-1f5aaa71c63d$","1","",1,c45
+r1710,3,"^e7fffff3-7418-41da-b6eb-8f10a252ce9c$","1","",1,c45
+r1711,3,"^33bc2048-221d-4285-b078-bbde8bd8cb0f$","1","",1,c45
+r1712,3,"^4b569c5d-6382-451d-b81d-61159df183af$","1","",1,c45
+r1713,3,"^4b84a21c-5fe2-4fc9-8df1-a93309a532e7$","1","",1,c45
+r1714,3,"^699b28a0-5bcb-41e6-8ca6-b0d665af977c$","1","",1,c45
+r1715,3,"^30be028d-56a7-4b61-8364-8438e0595dd1$","1","",1,c45
+r1716,3,"^d28e544d-3a1f-49a5-b760-2db67e5de9b8$","1","",1,c45
+r1717,3,"^29bba791-3d4c-412e-90c5-1c83fbf4a555$","1","",1,c45
+r1718,3,"^6-10 hours$","1","",1,c45
+r1719,3,"^I use the built-in platform of my TV$","1","",1,c45
+r1720,3,"^I use a cable or satellite box connected to my TV$","1","",1,c45
+r1721,3,"^The built-in platform is slow$","1","",1,c45
+r1722,3,"^The platform has too many ads$","1","",1,c45
+r1723,3,"^ab2e31c1-7085-4c45-a797-3814c40d07e6$","1","",1,c45
+r1724,3,"^f6e72e2b-851d-4173-bc40-2b197a1e1681$","1","",1,c45
+r1725,3,"^f902f0f3-bc12-4f9b-8589-57d2734bd316$","1","",1,c45
+r1726,3,"^b53c89f2-eb7d-4f25-96b7-8b3d11fbe3d4$","1","",1,c45
+r1727,3,"^b5003ffa-76c4-4b28-8a42-82298c6297d0$","1","",1,c45
+r1728,3,"^d53b08a0-d2a7-4deb-b9cf-1ff39a8a2606$","1","",1,c45
+r1729,3,"^d360ce61-ae63-4f90-bd2c-b7e0f9de294e$","1","",1,c45
+r1730,3,"^de79702d-841c-44f1-b989-2f45fba8bf32$","1","",1,c45
+r1731,3,"^b87271fe-174d-4455-af81-4c45e138a134$","1","",1,c45
+r1732,3,"^Amazon Prime Video$","1","",1,c45
+r1733,3,"^Apple TV\+$","1","",1,c45
+r1734,3,"^Disney\+$","1","",1,c45
+r1735,3,"^HBO Max$","1","",1,c45
+r1736,3,"^Hulu$","1","",1,c45
+r1737,3,"^Netflix$","1","",1,c45
+r1738,3,"^Spotify$","1","",1,c45
+r1739,3,"^Twitch$","1","",1,c45
+r1740,3,"^YouTube premium$","1","",1,c45
+r1741,3,"^Walmart$","1","",1,c45
+r1742,3,"^Home Depot$","1","",1,c45
+r1743,3,"^Amazon$","1","",1,c45
+r1745,3,"^Walmart\+$","1","",1,c45
+r1746,3,"^Home Depot Pro Xtra$","1","",1,c45
+r1747,3,"^Amazon Prime$","1","",1,c45
+r1748,3,"^Canned goods \(soup, beans, etc.\)$","1","",1,c46
+r1749,3,"^Bottled water \(flavored and/or unflavored\)$","1","",1,c46
+r1750,3,"^Shelf-stable juice \(e.g., 100% Juice/Juice Drink\)$","1","",1,c46
+r1751,3,"^Yogurt cups$","1","",1,c46
+r1752,3,"^Snacks \(chips, crackers, etc.\)$","1","",1,c46
+r1753,3,"^Yogurt smoothies$","1","",1,c46
+r1754,3,"^Fruit cups$","1","",1,c46
+r1755,3,"^Fruit snacks$","1","",1,c46
+r1756,3,"^Applesauce$","1","",1,c46
+r1757,3,"^Watermelon$","1","",1,c46
+r1758,3,"^Apple$","1","",1,c46
+r1759,3,"^Orange$","1","",1,c46
+r1760,3,"^Pineapple$","1","",1,c46
+r1761,3,"^564e2ee5-2b32-4aff-9bdb-fddd55194e15$","1","",1,c46
+r1762,3,"^47e49334-fb93-4bd2-bac8-594cf23e0c46$","1","",1,c46
+r1763,3,"^d6520c7b-d56c-4f48-a669-119483539008$","1","",1,c46
+r1764,3,"^0abb09bc-1cf1-4a0e-a08b-894ebf56fa6b$","1","",1,c46
+r1765,3,"^328f876e-ff97-4dc5-9edb-5ee3a0daf36e$","1","",1,c46
+r1766,3,"^dcfdeecc-d845-4d61-a6de-9a336d6c5ee3$","1","",1,c46
+r1767,3,"^4cd20e01-a69f-488c-8af6-4bce712733e0$","1","",1,c46
+r1768,3,"^c9e41e72-26be-4e30-b497-853fdbd6497a$","1","",1,c46
+r1769,3,"^c7edfc2c-ae40-40d9-892f-e0a7bdf2e33c$","1","",1,c46
+r1770,3,"^2b744d95-14c5-4d5c-8e98-c8689c4cd726$","1","",1,c46
+r1771,3,"^27df2941-bbc8-496d-aa24-ac4157d725e9$","1","",1,c46
+r1772,3,"^e2efdaae-cf2a-4321-98e7-88e617899aad$","1","",1,c46
+r1773,3,"^490b4f8f-c312-4301-9ea3-2bf951143371$","1","",1,c46
+r1774,3,"^097b4425-d59a-4ed3-b656-1aa79a2a3692$","1","",1,c46
+r1775,3,"^02abb86a-58e7-4405-ab5a-51d6a8a480b8$","1","",1,c46
+r1776,3,"^18baefcd-9223-4116-8094-bb8976812dd4$","1","",1,c46
+r1777,3,"^c570d2a7-f68f-4d28-8e9c-0f989a862c0b$","1","",1,c46
+r1778,3,"^8367763b-538f-4e38-8485-01f29fd8b196$","1","",1,c46
+r1779,3,"^e87e04b4-60d0-47c4-bc94-25de0b2a4079$","1","",1,c46
+r1780,3,"^58d5826c-a5f7-48ad-9279-189cfed3d2c6$","1","",1,c46
+r1781,3,"^ed1dd99c-2d48-40ac-aa31-130ff91a9989$","1","",1,c46
+r1782,3,"^7fdf8c90-6e7f-49ca-8ff1-3ee6718d9987$","1","",1,c46
+r1783,3,"^df9d0fe3-ea9c-4a39-aa5b-a19859773d27$","1","",1,c46
+r1784,3,"^4a4924f7-0d26-412a-91d7-4816da273632$","1","",1,c46
+r1785,3,"^4677b6c3-19fa-4463-84aa-f16d30043481$","1","",1,c46
+r1786,3,"^e16689c0-4bcc-4902-ae96-2be94ef6bc58$","1","",1,c46
+r1787,3,"^I have children at home$","1","",1,c46
+r1788,3,"^0-3 years old$","1","",1,c46
+r1789,3,"^9-12 years old$","1","",1,c46
+r1790,3,"^4784$","1","",1,c46
+r1791,3,"^8448$","1","",1,c46
+r1792,3,"^Salmon$","1","",1,c47
+r1793,3,"^Crab \(fresh, frozen, or other forms\)$","1","",1,c47
+r1794,3,"^Mackerel$","1","",1,c47
+r1795,3,"^Mussels$","1","",1,c47
+r1796,3,"^Clams \(fresh, frozen, canned, or other forms\)$","1","",1,c47
+r1797,3,"^Sardines \(fresh, canned, or other forms\)$","1","",1,c47
+r1798,3,"^Oysters \(fresh, canned, or other forms\)$","1","",1,c47
+r1799,3,"^Shrimp \(fresh, frozen, or other forms\)$","1","",1,c47
+r1800,3,"^Tuna fish \(in a can, pouch, kit, etc\)$","1","",1,c47
+r1801,3,"^Lobster \(fresh, frozen, or other forms\)$","1","",1,c47
+r1802,3,"^Tuna \(fresh, frozen, or other forms\)$","1","",1,c47
+r1803,3,"^3fb468a8-82b9-43de-99f0-b345ccd8eca8$","1","",1,c47
+r1804,3,"^26bb29b2-e39d-4ad6-8e85-fb7130a02439$","1","",1,c47
+r1805,3,"^5f8574c9-c755-4320-8202-c66222d95b3a$","1","",1,c47
+r1806,3,"^0202edd4-5438-4c62-853e-c2c53c7d549d$","1","",1,c47
+r1807,3,"^451a56ab-f340-447f-b475-806aed23261d$","1","",1,c47
+r1808,3,"^88b44242-cabe-49b7-8ea2-cb13812df9ab$","1","",1,c47
+r1809,3,"^Left$","1","crowdtap.com/",1,c48
+r1810,3,"^Smart devices \(e.g., Amazon Alexa, Nest thermostat, etc.\)$","1","crowdtap.com/",1,c48
+r1811,3,"^Personal care products \(e.g., moisturizer, deodorant, etc.\)$","1","crowdtap.com/",1,c48
+r1812,3,"^Home appliances \(e.g., washer/dryer, food processor, etc.\)$","1","crowdtap.com/",1,c48
+r1813,3,"^Computer \(e.g., laptop, tablet, etc.\)$","1","crowdtap.com/",1,c48
+r1814,3,"^Health and wellness supplements \(e.g., vitamins, digestive aids, fiber, etc.\)$","1","crowdtap.com/",1,c48
+r1815,3,"^Smart fitness equipment \(e.g., Peloton, Hydrow, etc.\)$","1","crowdtap.com/",1,c48
+r1816,3,"^Salty snacks \(e.g., chips, pretzels, etc.\)$","1","crowdtap.com/",1,c48
+r1817,3,"^Ice cream/novelty treats$","1","crowdtap.com/",1,c48
+r1818,3,"^Herbal supplements$","1","crowdtap.com/",1,c48
+r1819,3,"^Prebiotics$","1","crowdtap.com/",1,c48
+r1820,3,"^Anti-diarrheal supplements$","1","crowdtap.com/",1,c48
+r1821,3,"^Heartburn products \(antacids, PPIs, etc.\)$","1","crowdtap.com/",1,c48
+r1822,3,"^Skin support supplements$","1","crowdtap.com/",1,c48
+r1823,3,"^Protein powder$","1","crowdtap.com/",1,c48
+r1824,3,"^Energy supplements$","1","crowdtap.com/",1,c48
+r1825,3,"^Multivitamins / daily vitamins$","1","crowdtap.com/",1,c48
+r1826,3,"^Cognitive support supplements$","1","crowdtap.com/",1,c48
+r1827,3,"^Laxatives$","1","crowdtap.com/",1,c48
+r1828,3,"^Metabolism/weight management supplements$","1","crowdtap.com/",1,c48
+r1829,3,"^Fiber supplements$","1","crowdtap.com/",1,c48
+r1830,3,"^Probiotics$","1","crowdtap.com/",1,c48
+r1831,3,"^Specific vitamins \(e.g., Vitamin B, Vitamin D, etc.\)$","1","crowdtap.com/",1,c48
+r1832,3,"^Nature’s Bounty$","1","crowdtap.com/",1,c48
+r1833,3,"^Garden of Life$","1","crowdtap.com/",1,c48
+r1834,3,"^Culturelle$","1","crowdtap.com/",1,c48
+r1835,3,"^dc5de644-de74-4c1a-839b-a5d6a02ae60a$","1","crowdtap.com/",1,c48
+r1836,3,"^Either online or in-person$","1","crowdtap.com/",1,c48
+r1837,3,"^Walmart.com$","1","crowdtap.com/",1,c48
+r1838,3,"^GNC.com$","1","crowdtap.com/",1,c48
+r1839,3,"^Amazon.com$","1","crowdtap.com/",1,c48
+r1840,3,"^CVS.com$","1","crowdtap.com/",1,c48
+r1841,3,"^Walmart$","1","crowdtap.com/",1,c48
+r1842,3,"^CVS$","1","crowdtap.com/",1,c48
+r1843,3,"^0527de1e-3378-416a-bf28-84e4bdf7725a$","1","crowdtap.com/",1,c48
+r1844,3,"^dbd46d25-f2b3-4e20-9792-b7d133bd4395$","1","crowdtap.com/",1,c48
+r1845,3,"^2d96bf55-3557-4185-9476-d9e432de65a1$","1","crowdtap.com/",1,c48
+r1846,3,"^28052bcc-b744-4aa9-926e-18f7ce22905a$","1","crowdtap.com/",1,c48
+r1847,3,"^86996d9a-6bd2-47fa-94f0-fd2b700cc970$","1","crowdtap.com/",1,c48
+r1848,3,"^19b7fa83-e005-4653-b57a-3e756767e5ed$","1","crowdtap.com/",1,c48
+r1849,3,"^4f499298-160e-489e-8495-9dcb6836e224$","1","crowdtap.com/",1,c48
+r1850,3,"^I have an infant and/or pre-school child\(ren\)$","1","",1,c49
+r1851,3,"^I am a person who spends time doing arts and crafts$","1","",1,c49
+r1852,3,"^I have a child\(ren\) attending school \(PreK - Grade 12\)$","1","",1,c49
+r1853,3,"^Amazon$","1","",1,c49
+r1854,3,"^Office Supply Retailers \(e.g. Staples, Office Depot\)$","1","",1,c49
+r1855,3,"^Walmart$","1","",1,c49
+r1856,3,"^19 months - 3 years$","1","",1,c49
+r1857,3,"^11-12  years old$","1","",1,c49
+r1858,3,"^All$","1","",1,c50
+r1859,3,"^7746e0ee-30ad-40c6-9203-49ffd1260e72$","1","",1,c50
+r1860,3,"^Tiger$","1","",1,c50
+r1861,3,"^956168d5-3f44-4d84-967a-58ef13e666be$","1","",1,c50
+r1862,3,"^d40e1ba4-91f2-4853-966b-3757b147022d$","1","",1,c50
+r1863,3,"^309184ae-545f-466c-a4fc-a0c4e87f0171$","1","",1,c50
+r1864,3,"^b01fae45-4adb-4882-ba3d-f3b1af9e641e$","1","",1,c50
+r1865,3,"^893bb285-0e8b-40e9-b1b0-11ea2e7afd28$","1","",1,c50
+r1866,3,"^4bc809a1-b8c5-4cea-b4f2-afc8e4faf75b$","1","",1,c50
+r1867,3,"^9a327b8c-df45-4718-b8ad-efe02416656c$","1","",1,c50
+r1868,3,"^3b7b4df0-ec0e-497c-aa07-4c6fbf8097ec$","1","",1,c50
+r1869,3,"^27d74ff2-60f6-40e3-aba2-76dcc9231eda$","1","",1,c50
+r1870,3,"^67cb7ffb-2358-4584-a86e-3aab4500979f$","1","",1,c50
+r1871,3,"^7066db6f-cdd3-44d3-bc49-cf8fe3779cd5$","1","",1,c50
+r1872,3,"^1491b288-8c64-4991-9da9-79e00265f045$","1","",1,c50
+r1873,3,"^f899b3e1-cd72-4a67-b053-2b059ba65b12$","1","",1,c50
+r1874,3,"^ab86e552-8b5a-4616-8122-e2636dad7018$","1","",1,c50
+r1875,3,"^eddb4770-0a3b-4a35-884d-4702754090d7$","1","",1,c50
+r1876,3,"^40a8ce5e-f91f-4afc-bc35-6976385e5c3f$","1","",1,c50
+r1877,3,"^1a9e5cbe-11a5-408f-94f0-87b6d7b286e8$","1","",1,c50
+r1878,3,"^9c7549a3-f42e-4cb1-8d42-e89612668e97$","1","",1,c50
+r1879,3,"^9f3ec2fb-d21e-49ca-bb5e-8ccfdba68d49$","1","",1,c50
+r1880,3,"^3dfaebd0-ae2c-47c4-bc01-8afaa5fe8102$","1","",1,c50
+r1881,3,"^2ae732fb-88d2-4707-a18e-5580b3826f11$","1","",1,c50
+r1882,3,"^1cc34699-6cc6-4e6b-b409-f97ab67789b0$","1","",1,c50
+r1883,3,"^cc76d97b-74f1-43b8-955d-84f7a74df507$","1","",1,c50
+r1884,3,"^3b32f31b-6b37-4264-bfda-b5e6048bf0f6$","1","",1,c50
+r1885,3,"^3fb75a16-28c6-49ab-85de-a677bfcd6677$","1","",1,c50
+r1886,3,"^b37e49f3-5e0c-44db-b2b9-dc1f5ad3f3f9$","1","",1,c50
+r1887,3,"^244d5513-1f43-4786-b1bb-b25e06787581$","1","",1,c50
+r1888,3,"^e53f2048-c3e2-4660-a4c1-9fd2be392380$","1","",1,c50
+r1889,3,"^b25a41da-ff1a-4a3a-bde7-886427d1676d$","1","",1,c50
+r1890,3,"^d3af8b14-5951-41e7-983a-6745d2c708e2$","1","",1,c50
+r1891,3,"^2fe137a3-f8d8-4b36-ad5e-c291f7ba7785$","1","",1,c50
+r1892,3,"^26347161-f22d-456e-8d1a-993b74dbaabf$","1","",1,c50
+r1893,3,"^99b040d9-cfc1-4271-a4ed-1f713ebd18ff$","1","",1,c50
+r1894,3,"^110ec32c-2c4e-49eb-a731-961c605e0dcb$","1","",1,c50
+r1895,3,"^Walmart$","1","",1,c50
+r1896,3,"^Sam's Club$","1","",1,c50
+r1897,3,"^Once every 2-3 days$","1","",1,c50
+r1898,3,"^I prefer to support brands that align with my values$","1","",1,c50
+r1899,3,"^I believe high quality ingredients are worth paying more for$","1","",1,c50
+r1900,3,"^I love quality pre-prepared foods to help me save time when cooking$","1","",1,c50
+r1901,3,"^I keep frozen meals on hand$","1","",1,c50
+r1902,3,"^e14c2cde-2455-4723-9f11-859879da4dc7$","1","",1,c50
+r1903,3,"^Energy drinks$","1","",1,c51
+r1904,3,"^Vitamin-enhanced water$","1","",1,c51
+r1905,3,"^Coffee$","1","",1,c51
+r1906,3,"^Electrolyte drinks$","1","",1,c51
+r1907,3,"^Protein-focused drinks$","1","",1,c51
+r1908,3,"^Sports drinks$","1","",1,c51
+r1909,3,"^Plant-based milk$","1","",1,c51
+r1910,3,"^23a3e7e5-ac9f-4e33-881a-f90a1491c030$","1","",1,c51
+r1911,3,"^68afc3d4-1294-42f1-a886-a303732d7ed6$","1","",1,c51
+r1912,3,"^4f54a4bf-be7c-4310-b95e-c351ec2d2565$","1","",1,c51
+r1913,3,"^cd4a70ea-7d65-4e1b-af49-c170d73c6f8c$","1","",1,c51
+r1914,3,"^9b7f21d5-b018-4172-b09d-4fbd5701bf73$","1","",1,c51
+r1915,3,"^053f5221-139a-42d8-bdea-6abec55a8ff6$","1","",1,c51
+r1916,3,"^f52fa6b6-aef2-450c-b43d-b677f45a9a48$","1","",1,c51
+r1917,3,"^22718146-f4ce-4858-880f-4f1d1120f8db$","1","",1,c51
+r1918,3,"^bc8579bc-ec4e-48e0-b2a8-2e9f24aa3bb2$","1","",1,c51
+r1919,3,"^801f3637-19c1-487c-b550-ffd1653d6a42$","1","",1,c51
+r1920,3,"^9c3a4b31-f969-4d09-9d5d-01723c4e5679$","1","",1,c51
+r1921,3,"^6c916850-5dad-4869-a746-d53b1c570639$","1","",1,c51
+r1922,3,"^81ae3e2b-89b1-4319-b80c-6d57fd392661$","1","",1,c51
+r1923,3,"^e29f34d8-c9a7-4315-8aad-382913dedb61$","1","",1,c51
+r1924,3,"^0379d12f-832d-4d03-884c-fc6c548941dc$","1","",1,c51
+r1925,3,"^af2ec87f-7e70-4370-ac15-10cf811fb6d4$","1","",1,c51
+r1926,3,"^e215a94d-2fba-4fcc-bfa0-95331a1ad870$","1","",1,c51
+r1927,3,"^d5254779-9e80-44b8-8d5d-d6158e4182ab$","1","",1,c51
+r1928,3,"^691199c3-eaac-4cb4-868b-e1dce3aa9dd8$","1","",1,c51
+r1929,3,"^1921407c-377d-4bf4-8cd6-3c94898745dd$","1","",1,c51
+r1930,3,"^478d02b4-c202-4695-8d1b-9f20f4b6bd48$","1","",1,c51
+r1931,3,"^6b9872f7-2824-4c08-85ce-8b91b322790c$","1","",1,c51
+r1932,3,"^717b0150-366c-4fbd-8f52-2e25e0afbcec$","1","",1,c51
+r1933,3,"^eaec000c-339b-4b9d-9282-af20d5bdb8e1$","1","",1,c51
+r1934,3,"^28f27d13-e9fa-4845-b8b9-f5a0c2b8d41e$","1","",1,c51
+r1935,3,"^42722d3d-88a1-4dc2-b608-03633212be3a$","1","",1,c51
+r1936,3,"^8eb69f49-4a7a-4cb5-9146-b0d12efe42b5$","1","",1,c51
+r1937,3,"^2507f2dd-a98e-47a1-b324-5c12b23a55e4$","1","",1,c51
+r1938,3,"^204ea9d2-b4f4-4107-a0ea-1f6274d2dcbf$","1","",1,c51
+r1939,3,"^941cf621-0645-46f0-84a2-d93e2b92b287$","1","",1,c51
+r1940,3,"^dde8f14f-4805-4b44-90c7-5f8ee8cf3e32$","1","",1,c51
+r1941,3,"^cbaf3bf8-91f0-441c-844c-76a34132cdbd$","1","",1,c51
+r1942,3,"^afd8964f-ecbf-4b2e-b54c-af0516e5ac68$","1","",1,c51
+r1943,3,"^2d39b747-a00b-4d6b-8d6c-ec366ed70df0$","1","",1,c51
+r1944,3,"^dc63a944-5ba8-4c30-923e-f80165c0cdd5$","1","",1,c51
+r1945,3,"^7 = Very Well$","1","",1,c51
+r1946,3,"^Breakfast cereal$","1","",1,c52
+r1947,3,"^Insurance provider$","1","",1,c52
+r1948,3,"^Laundry detergent$","1","",1,c52
+r1949,3,"^Cell phone provider$","1","",1,c52
+r1950,3,"^Amazon Home$","1","",1,c53
+r1951,3,"^Wayfair$","1","",1,c53
+r1952,3,"^Overstock$","1","",1,c53
+r1953,3,"^An Individual or Family plan for people under 65 that I purchase myself$","1","",1,c54
 ### AUTOFILL SETTINGS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
@@ -1683,7 +1985,7 @@ variables,"[]",,,,,
 allhotkey,"",,,,,
 spreadsheetname,"Lightning Autofill backup",,,,,
 spreadsheetid,"",,,,,
-importurl,"https://raw.githubusercontent.com/yocse4/json/refs/heads/main/encuestas",,,,,
+importurl,"",,,,,
 activecat,1,,,,,
 attributesoff,0,"",,,,
 autocomplete,0,":",,,,
