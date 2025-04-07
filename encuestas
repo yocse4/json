@@ -16,7 +16,7 @@ c14,"hMlO9A","crowdtap.com/","",,,
 c15,"DJLEKH","crowdtap.com/","",,,
 c16,"q6ibmp","crowdtap.com/","",,,
 c17,"YQrpgD","crowdtap.com/","",,,
-c18,"BCDAEF","crowdtap.com/","",,,
+c18,"BCDAEF","","",,,
 c19,"QRDBSC","crowdtap.com/","",,,
 c20,"NRQTMC","crowdtap.com/","",,,
 c21,"Jlgihj","","",,,
@@ -33,7 +33,7 @@ c31,"Yhganb","crowdtap.com/","",,,
 c32,"6giCAB","crowdtap.com/","",,,
 c40,"DEBGFA","crowdtap.com/","",,,
 c33,"iPgklm","crowdtap.com/","",,,
-c34,"SkRDLQ","crowdtap.com/","",,,
+c34,"SkRDLQ","","",,,
 c35,"BgiAjh","","",,,
 c36,"BzDxJw","crowdtap.com/","",,,
 c37,"ihjglk","crowdtap.com/","",,,
@@ -57,6 +57,9 @@ c55,"yBEYZF","crowdtap.com/","",,,
 c56,"KJMFEL","crowdtap.com/","",,,
 c57,"JLYQKa","crowdtap.com/","",,,
 c58,"gkhjml","crowdtap.com/","",,,
+c59,"BDCAEH","crowdtap.com/","",,,
+c60,"WBSRYH","crowdtap.com/","",,,
+c61,"khGjIH","crowdtap.com/","",,,
 ### AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r27,3,"^36bca64f-e6a2-4d29-8a18-f32513662856$","1","",1,c2
@@ -628,20 +631,20 @@ r594,3,"^2d7606df-f941-4c4a-a400-950bfd613afb$","1","",1,c17
 r595,3,"^a7dd518e-650c-4613-a045-6b24c073f4fc$","1","",1,c17
 r596,3,"^I am focused on my pet\(s\)’ OVERALL HEALTH$","1","",1,c17
 r597,3,"^I focus on my pet\(s\)’ long-term health and work to preempt/avoid health issues$","1","",1,c17
-r598,3,"^35-44$","1","",1,c18
-r599,3,"^\$75,000 to \$99,999$","1","",1,c18
-r600,3,"^cc09dba4-8250-4e32-b759-6867307b7595$","1","",1,c18
-r601,3,"^8990bbac-0063-4641-af4e-cad7365ef5f7$","1","",1,c18
-r602,3,"^3aca4754-9ab0-4209-bf3e-9d075f0298a5$","1","",1,c18
-r603,3,"^a5d5d9d5-2e9e-40ee-a915-c39b8bb4a372$","1","",1,c18
-r604,3,"^c330a2ae-e0ac-48f5-bcbf-9aa61358fa6a$","1","",1,c18
-r605,3,"^Yes, I have a credit card$","1","",1,c18
-r606,3,"^670 – 739$","1","",1,c18
-r607,3,"^Been roughly the same each month$","1","",1,c18
-r608,3,"^Once or twice$","1","",1,c18
-r609,3,"^Easy to manage$","1","",1,c18
-r610,3,"^Yes, I understand and wish to continue$","1","",1,c18
-r611,0,"input\[_ngcontent-lda-c82\]","0","",1,c18
+r598,3,"^35-44$","1","crowdtap.com/",1,c18
+r599,3,"^\$75,000 to \$99,999$","1","crowdtap.com/",1,c18
+r600,3,"^cc09dba4-8250-4e32-b759-6867307b7595$","1","crowdtap.com/",1,c18
+r601,3,"^8990bbac-0063-4641-af4e-cad7365ef5f7$","1","crowdtap.com/",1,c18
+r602,3,"^3aca4754-9ab0-4209-bf3e-9d075f0298a5$","1","crowdtap.com/",1,c18
+r603,3,"^a5d5d9d5-2e9e-40ee-a915-c39b8bb4a372$","1","crowdtap.com/",1,c18
+r604,3,"^c330a2ae-e0ac-48f5-bcbf-9aa61358fa6a$","1","crowdtap.com/",1,c18
+r605,3,"^Yes, I have a credit card$","1","crowdtap.com/",1,c18
+r606,3,"^670 – 739$","1","crowdtap.com/",1,c18
+r607,3,"^Been roughly the same each month$","1","crowdtap.com/",1,c18
+r608,3,"^Once or twice$","1","crowdtap.com/",1,c18
+r609,3,"^Easy to manage$","1","crowdtap.com/",1,c18
+r610,3,"^Yes, I understand and wish to continue$","1","crowdtap.com/",1,c18
+r611,0,"input\[_ngcontent-lda-c82\]","0","crowdtap.com/",1,c18
 r612,3,"^cf65442d-00ad-48c8-811a-a08bacae8d15$","1","",1,c19
 r613,3,"^11cf432c-6208-49d7-986a-477225127fc1$","1","",1,c19
 r614,3,"^06bdf405-443d-4f1b-8496-af25900230a2$","1","",1,c19
@@ -1120,45 +1123,45 @@ r1088,3,"^38176b1d-1b1b-4fa8-8bcd-e8ab8bfb5ad7$","1","",1,c33
 r1089,3,"^13a4dcc1-1a97-4a07-b016-6d3bbd19aedf$","1","",1,c33
 r1090,3,"^2cb1567d-51d8-43ce-82d0-8c5844c97ab3$","1","",1,c33
 r1091,3,"^919a1711-ee5c-46b5-b6c0-dd24071d7886$","1","",1,c33
-r1092,3,"^Manufacturing and Construction$","1","",1,c34
-r1093,3,"^5e31e99b-8b77-4d0f-af7a-e7a35caa82af$","1","",1,c34
-r1094,3,"^c336e5e1-8de0-402d-a833-f46b265cdae1$","1","",1,c34
-r1095,3,"^d8f16cc8-3b61-4790-b088-4ba411f74d6c$","1","",1,c34
-r1096,3,"^913ef74e-0c40-4b98-a8e4-fae652199688$","1","",1,c34
-r1097,3,"^6edd849d-4403-4a95-8501-1e46d47597c1$","1","",1,c34
-r1098,3,"^a96946be-8bef-4b59-ac12-f4de87255552$","1","",1,c34
-r1099,3,"^a766ea4d-a19e-477d-b17d-5a493ab5040d$","1","",1,c34
-r1100,3,"^30a4d968-88c0-4e4c-9880-8948ef8f5a0e$","1","",1,c34
-r1101,3,"^012fa9a0-8685-45d5-a21e-d641e6659908$","1","",1,c34
-r1102,3,"^c5438da2-b60f-49f8-a462-cfe537766f48$","1","",1,c34
-r1103,3,"^Apple$","1","",1,c34
-r1104,3,"^Fitbit$","1","",1,c34
-r1105,3,"^Ultrahuman$","1","",1,c34
-r1106,3,"^I am usually the first to hear about new technology and actively seek out new innovations.$","1","",1,c34
-r1107,3,"^I believe they are a crucial part of managing my health.$","1","",1,c34
-r1108,3,"^I could see myself following the recommendations, but I might have some reservations.$","1","",1,c34
-r1109,3,"^72b9f2b4-34d0-4237-9f43-ff31027915b3$","1","",1,c34
-r1110,3,"^5a84e839-bf48-4a56-9c76-75abded2bb14$","1","",1,c34
-r1111,3,"^89ec4bd8-3bb2-45d3-b782-662c7b1dfa9f$","1","",1,c34
-r1112,3,"^I try to stay active and eat a balanced diet, but I struggle with consistency.$","1","",1,c34
-r1113,3,"^691f83d4-752d-4ae1-ba7e-5c2ee944d173$","1","",1,c34
-r1114,3,"^ae004c3d-75f4-4d19-87b1-4c9671c8cc46$","1","",1,c34
-r1115,3,"^687fa8ee-757a-4be3-a0dc-d76a7b709b21$","1","",1,c34
-r1116,3,"^e12163a2-3fcf-4028-bed6-a689a41f2564$","1","",1,c34
-r1117,3,"^9dd5624f-b28e-441c-a5d9-f62119338818$","1","",1,c34
-r1118,3,"^e84b2207-c38b-46ab-b758-307a1e57801a$","1","",1,c34
-r1119,3,"^I was not aware of the Samsung Health app, and I am not interested in it.$","1","",1,c34
-r1120,3,"^1eff942d-44b1-4bb3-acea-27255f0957b9$","1","",1,c34
-r1121,3,"^05a9fd2a-eb68-4232-b90f-ceeccce57358$","1","",1,c34
-r1122,3,"^25ebd57d-086e-4e5a-8872-2a0a424ca516$","1","",1,c34
-r1123,3,"^5a5c6702-9bb1-4419-b135-189bfa3ca6cc$","1","",1,c34
-r1124,3,"^1f0139a4-8a79-4062-b907-477c6bfee0db$","1","",1,c34
-r1125,3,"^485711ac-3542-467b-8b36-0b38e89c835a$","1","",1,c34
-r1126,3,"^920a60a3-cabd-4528-8a88-a83fba9466e8$","1","",1,c34
-r1127,3,"^83683f38-bedd-45fb-afec-6311a55c9f6d$","1","",1,c34
-r1128,3,"^056ad321-1233-43ce-8e2d-108a21f4bf93$","1","",1,c34
-r1129,3,"^31cc2a0d-015a-4795-890e-80603ac4bd36$","1","",1,c34
-r1130,3,"^I want to track as many health areas as I can; the more information, the better.$","1","",1,c34
+r1092,3,"^Manufacturing and Construction$","1","crowdtap.com/",1,c34
+r1093,3,"^5e31e99b-8b77-4d0f-af7a-e7a35caa82af$","1","crowdtap.com/",1,c34
+r1094,3,"^c336e5e1-8de0-402d-a833-f46b265cdae1$","1","crowdtap.com/",1,c34
+r1095,3,"^d8f16cc8-3b61-4790-b088-4ba411f74d6c$","1","crowdtap.com/",1,c34
+r1096,3,"^913ef74e-0c40-4b98-a8e4-fae652199688$","1","crowdtap.com/",1,c34
+r1097,3,"^6edd849d-4403-4a95-8501-1e46d47597c1$","1","crowdtap.com/",1,c34
+r1098,3,"^a96946be-8bef-4b59-ac12-f4de87255552$","1","crowdtap.com/",1,c34
+r1099,3,"^a766ea4d-a19e-477d-b17d-5a493ab5040d$","1","crowdtap.com/",1,c34
+r1100,3,"^30a4d968-88c0-4e4c-9880-8948ef8f5a0e$","1","crowdtap.com/",1,c34
+r1101,3,"^012fa9a0-8685-45d5-a21e-d641e6659908$","1","crowdtap.com/",1,c34
+r1102,3,"^c5438da2-b60f-49f8-a462-cfe537766f48$","1","crowdtap.com/",1,c34
+r1103,3,"^Apple$","1","crowdtap.com/",1,c34
+r1104,3,"^Fitbit$","1","crowdtap.com/",1,c34
+r1105,3,"^Ultrahuman$","1","crowdtap.com/",1,c34
+r1106,3,"^I am usually the first to hear about new technology and actively seek out new innovations.$","1","crowdtap.com/",1,c34
+r1107,3,"^I believe they are a crucial part of managing my health.$","1","crowdtap.com/",1,c34
+r1108,3,"^I could see myself following the recommendations, but I might have some reservations.$","1","crowdtap.com/",1,c34
+r1109,3,"^72b9f2b4-34d0-4237-9f43-ff31027915b3$","1","crowdtap.com/",1,c34
+r1110,3,"^5a84e839-bf48-4a56-9c76-75abded2bb14$","1","crowdtap.com/",1,c34
+r1111,3,"^89ec4bd8-3bb2-45d3-b782-662c7b1dfa9f$","1","crowdtap.com/",1,c34
+r1112,3,"^I try to stay active and eat a balanced diet, but I struggle with consistency.$","1","crowdtap.com/",1,c34
+r1113,3,"^691f83d4-752d-4ae1-ba7e-5c2ee944d173$","1","crowdtap.com/",1,c34
+r1114,3,"^ae004c3d-75f4-4d19-87b1-4c9671c8cc46$","1","crowdtap.com/",1,c34
+r1115,3,"^687fa8ee-757a-4be3-a0dc-d76a7b709b21$","1","crowdtap.com/",1,c34
+r1116,3,"^e12163a2-3fcf-4028-bed6-a689a41f2564$","1","crowdtap.com/",1,c34
+r1117,3,"^9dd5624f-b28e-441c-a5d9-f62119338818$","1","crowdtap.com/",1,c34
+r1118,3,"^e84b2207-c38b-46ab-b758-307a1e57801a$","1","crowdtap.com/",1,c34
+r1119,3,"^I was not aware of the Samsung Health app, and I am not interested in it.$","1","crowdtap.com/",1,c34
+r1120,3,"^1eff942d-44b1-4bb3-acea-27255f0957b9$","1","crowdtap.com/",1,c34
+r1121,3,"^05a9fd2a-eb68-4232-b90f-ceeccce57358$","1","crowdtap.com/",1,c34
+r1122,3,"^25ebd57d-086e-4e5a-8872-2a0a424ca516$","1","crowdtap.com/",1,c34
+r1123,3,"^5a5c6702-9bb1-4419-b135-189bfa3ca6cc$","1","crowdtap.com/",1,c34
+r1124,3,"^1f0139a4-8a79-4062-b907-477c6bfee0db$","1","crowdtap.com/",1,c34
+r1125,3,"^485711ac-3542-467b-8b36-0b38e89c835a$","1","crowdtap.com/",1,c34
+r1126,3,"^920a60a3-cabd-4528-8a88-a83fba9466e8$","1","crowdtap.com/",1,c34
+r1127,3,"^83683f38-bedd-45fb-afec-6311a55c9f6d$","1","crowdtap.com/",1,c34
+r1128,3,"^056ad321-1233-43ce-8e2d-108a21f4bf93$","1","crowdtap.com/",1,c34
+r1129,3,"^31cc2a0d-015a-4795-890e-80603ac4bd36$","1","crowdtap.com/",1,c34
+r1130,3,"^I want to track as many health areas as I can; the more information, the better.$","1","crowdtap.com/",1,c34
 r1131,3,"^7cb02c85-4d31-4fc4-a241-f6863d2d3197$","1","",1,c25
 r1132,3,"^3fcb24a7-1a06-4faa-9efb-a053b0f18a3f$","1","",1,c25
 r1133,3,"^b5f66ede-aeed-4a58-9ae0-2f953f473729$","1","",1,c25
@@ -2191,6 +2194,62 @@ r2165,3,"^b0101a0b-8054-4adc-b9bc-6dff515e68a5$","1","",1,c58
 r2166,3,"^1cebc58b-ecbe-4d8f-a116-80b7748b67c8$","1","",1,c58
 r2167,3,"^20eafd69-2169-402e-b8de-839bcdb4647b$","1","",1,c58
 r2168,3,"^ff83456b-390e-4ecd-9f8b-d4d530ed2807$","1","",1,c58
+r2169,0,"input\[_ngcontent-sar-c82\]","0","crowdtap.com/",1,c18
+r2170,3,"^5082c0a1-df66-481d-9d75-66668cce1063$","1","crowdtap.com/",1,c34
+r2171,3,"^0c1cb358-d9fe-49e1-90f8-ccd79f7c6e98$","1","crowdtap.com/",1,c34
+r2172,3,"^48444f24-09b2-4173-b652-2be1eed543dd$","1","crowdtap.com/",1,c34
+r2173,3,"^Private/independently purchased insurance$","1","crowdtap.com/",1,c34
+r2174,3,"^b083a2d5-eae1-47ba-b82e-a1a33b87b088$","1","crowdtap.com/",1,c34
+r2175,3,"^Yes, for both my dog and someone else’s$","1","",1,c59
+r2176,3,"^Birthday/Gotcha Day$","1","",1,c59
+r2177,3,"^Fourth of July$","1","",1,c59
+r2178,3,"^Winter Holidays \(Christmas, Hanukkah, etc.\)$","1","",1,c59
+r2179,3,"^Thanksgiving$","1","",1,c59
+r2180,3,"^Meal Enhancers/Toppers \(e.g. broths/gravies, mix-ins, complements\)$","1","",1,c59
+r2181,3,"^Wet Dog Food$","1","",1,c59
+r2182,3,"^Treats$","1","",1,c59
+r2183,3,"^Subscription Box \(e.g. Bark Box, Chewy Goody Box\)$","1","",1,c59
+r2184,3,"^Fresh/Frozen Dog Foods$","1","",1,c59
+r2185,3,"^Pet Store Gift Cards$","1","",1,c59
+r2186,3,"^Toys$","1","",1,c59
+r2187,3,"^Day Care Packages$","1","",1,c59
+r2188,3,"^Grooming Services$","1","",1,c59
+r2189,3,"^Clothes$","1","",1,c59
+r2190,3,"^Online Retailers \(Amazon, Chewy, etc.\)$","1","",1,c59
+r2191,3,"^Large Pet Specialty Stores \(PetSmart, Petco, etc.\)$","1","",1,c59
+r2192,3,"^Mass Merchandisers \(Walmart, Target, etc.\)$","1","",1,c59
+r2193,3,"^Buy online and pick up curbside$","1","",1,c59
+r2194,3,"^Buy online and pick up in store$","1","",1,c59
+r2195,3,"^Buy in store$","1","",1,c59
+r2196,3,"^Buy online and use a third party delivery \(Shipt, Door Dash, etc.\)$","1","",1,c59
+r2197,3,"^Buy online and ship to my house$","1","",1,c59
+r2198,3,"^Spend a lot more$","1","",1,c59
+r2199,3,"^I plan to buy gifts for more pets this year$","1","",1,c59
+r2200,3,"^I plan to celebrate more holidays with my dog$","1","",1,c59
+r2201,3,"^I plan to buy more expensive gifts this year$","1","",1,c59
+r2202,3,"^A more expensive/premium treat than I normally buy$","1","",1,c59
+r2203,3,"^Seasonally Festive Store Display$","1","",1,c59
+r2204,3,"^Seasonally Festive Packaging$","1","",1,c59
+r2205,3,"^I plan on purchasing a dog treat as a gift$","1","",1,c59
+r2206,3,"^Bones & natural chews$","1","",1,c59
+r2207,3,"^Rawhide treats$","1","",1,c59
+r2208,3,"^Jerky / Meaty treats$","1","",1,c59
+r2209,3,"^Soft & chewy treats$","1","",1,c59
+r2210,3,"^Rawhide-free treats$","1","",1,c59
+r2211,3,"^Refrigerated & frozen treats$","1","",1,c59
+r2212,3,"^Long lasting / occupancy$","1","",1,c59
+r2213,3,"^Training treats$","1","",1,c59
+r2214,3,"^\$11-\$20$","1","",1,c59
+r2215,3,"^F$","1","",1,c60
+r2216,3,"^9c9f58e0-0188-42a5-94a0-113b4ec49989$","1","",1,c61
+r2217,3,"^7d5c0d8a-1d30-44d9-82eb-2ce2d186c59e$","1","",1,c61
+r2218,3,"^73b3b157-e8ed-49b3-9fe4-f33bc42fde9e$","1","",1,c61
+r2219,0,"\[data-track=""member-scale-grid-slider-0""\]","400","",1,c61
+r2220,0,"\[data-track=""member-scale-grid-slider-1""\]","400","",1,c61
+r2221,0,"\[data-track=""member-scale-grid-slider-2""\]","400","",1,c61
+r2222,3,"^Toppers/Meal Enhancers$","1","",1,c61
+r2223,3,"^Dry Food$","1","",1,c61
+r2224,3,"^Fresh/Refrigerated Food$","1","",1,c61
 ### AUTOFILL SETTINGS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
@@ -2220,7 +2279,7 @@ manual,0,,,,,
 mask,1,,,,,
 menu,1,"2",,,,
 overwrite,1,,,,,
-parselabels,0,,,,,
+parselabels,1,,,,,
 randdelay,1,,,,,
 regexalerts,1,,,,,
 sitefilters,1,"0",,,,
