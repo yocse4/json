@@ -69,7 +69,7 @@ c67,"TRFSQC","crowdtap.com/","",,,
 c68,"TdigSc","crowdtap.com/","",,,
 c69,"gJiAhj","crowdtap.com/","",,,
 c70,"hFDEig","crowdtap.com/","",,,
-c71,"BEAKp5","crowdtap.com/","",,,
+c71,"BEAKp5","","",,,
 c72,"ZKAfYC","crowdtap.com/","",,,
 c73,"RCZYAb","","",,,
 c74,"ALBDCG","crowdtap.com/","",,,
@@ -82,6 +82,11 @@ c80,"TONqRp","crowdtap.com/","",,,
 c81,"KJgInL","crowdtap.com/","",,,
 c82,"HMGJCF","crowdtap.com/","",,,
 c83,"Cklhmg","crowdtap.com/","",,,
+c84,"UERDWG","crowdtap.com/","",,,
+c85,"AFECGH","crowdtap.com/","",,,
+c86,"ghjink","crowdtap.com/","",,,
+c87,"DhBACF","crowdtap.com/","",,,
+c88,"hACBgi","crowdtap.com/","",,,
 ### AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
 r27,3,"^36bca64f-e6a2-4d29-8a18-f32513662856$","1","",1,c2
@@ -2593,36 +2598,36 @@ r2544,3,"^918d50ce-79e3-4a13-a2ed-28b96247c3f9$","1","",1,c70
 r2545,3,"^2f2feda0-4c7d-4a6a-85b6-ae6a71bc45fe$","1","",1,c70
 r2546,3,"^c57d600a-49de-4de0-86fd-b9227b0a0810$","1","",1,c70
 r2547,3,"^Lion$","1","",1,c70
-r2548,3,"^11e2b496-1228-4851-bcfc-7e4f8a5901b1$","1","",1,c71
-r2549,3,"^9be5d7c4-f2f4-444f-bf59-9aa2fb664b99$","1","",1,c71
-r2550,3,"^2fc4dd6c-deb6-4663-938a-7b9b2f4d3b5c$","1","",1,c71
-r2551,3,"^36fa764e-2c9e-4a64-bf05-6fe0dcda9063$","1","",1,c71
-r2552,3,"^23729848-80ae-4537-826c-55ed5f93c181$","1","",1,c71
-r2553,3,"^db6bcc6d-1e1c-4851-918a-f08cbf2064f1$","1","",1,c71
-r2554,3,"^a5ff612e-4085-480f-b6d9-69a6ed1640b7$","1","",1,c71
-r2555,3,"^3d0eeb4d-8a79-4e49-b0ff-54a630a40146$","1","",1,c71
-r2556,3,"^89da5748-a062-4b9f-9bf9-1fbb02a15384$","1","",1,c71
-r2557,3,"^ea4b6ec2-86b8-4086-b98f-8e45365bdd02$","1","",1,c71
-r2558,3,"^eed81f5e-cb71-4f8f-a4ec-3f25e1de5595$","1","",1,c71
-r2559,3,"^c6262e6e-127f-4175-ab5c-e35f2d4529e2$","1","",1,c71
-r2560,3,"^cce93110-ae38-43fa-a83a-1c4d4425093f$","1","",1,c71
-r2561,3,"^8f462be0-67e7-48aa-942d-a2c44b6383c6$","1","",1,c71
-r2562,3,"^HP$","1","",1,c71
-r2563,3,"^233d900b-9e2e-4e3d-8563-19e094244661$","1","",1,c71
-r2564,3,"^8063f2be-3b5d-4f1c-b2a3-4a115bf4901d$","1","",1,c71
-r2565,3,"^2b8868eb-f876-41c1-a687-aa0bf855ea71$","1","",1,c71
-r2566,3,"^All-In Plan$","1","",1,c71
-r2567,0,"input\[_ngcontent-osa-c82\]","600","",1,c71
-r2568,3,"^Employed full-time$","1","",1,c71
-r2569,3,"^I have children at home$","1","",1,c71
-r2570,3,"^693a8010-3160-43cd-ae4d-082d739f147f$","1","",1,c71
-r2571,3,"^23eb15d7-6f29-43ad-867f-f065efe1a846$","1","",1,c71
-r2572,3,"^7f171d08-1dfd-4ecb-9677-f453dff91b1f$","1","",1,c71
-r2573,3,"^b548ea21-c1c1-4abd-bad8-25d6df0dd3dc$","1","",1,c71
-r2574,3,"^6ecdc54f-4232-470d-af1b-b3dd3986384c$","1","",1,c71
-r2575,3,"^b3ba631a-f362-4d72-96c7-3d4091cac9d6$","1","",1,c71
-r2576,3,"^9847a199-1ace-47bb-91b5-15ced3084270$","1","",1,c71
-r2577,3,"^b4a337e0-440b-4fb3-9c26-34874bd091cc$","1","",1,c71
+r2548,3,"^11e2b496-1228-4851-bcfc-7e4f8a5901b1$","1","crowdtap.com/",1,c71
+r2549,3,"^9be5d7c4-f2f4-444f-bf59-9aa2fb664b99$","1","crowdtap.com/",1,c71
+r2550,3,"^2fc4dd6c-deb6-4663-938a-7b9b2f4d3b5c$","1","crowdtap.com/",1,c71
+r2551,3,"^36fa764e-2c9e-4a64-bf05-6fe0dcda9063$","1","crowdtap.com/",1,c71
+r2552,3,"^23729848-80ae-4537-826c-55ed5f93c181$","1","crowdtap.com/",1,c71
+r2553,3,"^db6bcc6d-1e1c-4851-918a-f08cbf2064f1$","1","crowdtap.com/",1,c71
+r2554,3,"^a5ff612e-4085-480f-b6d9-69a6ed1640b7$","1","crowdtap.com/",1,c71
+r2555,3,"^3d0eeb4d-8a79-4e49-b0ff-54a630a40146$","1","crowdtap.com/",1,c71
+r2556,3,"^89da5748-a062-4b9f-9bf9-1fbb02a15384$","1","crowdtap.com/",1,c71
+r2557,3,"^ea4b6ec2-86b8-4086-b98f-8e45365bdd02$","1","crowdtap.com/",1,c71
+r2558,3,"^eed81f5e-cb71-4f8f-a4ec-3f25e1de5595$","1","crowdtap.com/",1,c71
+r2559,3,"^c6262e6e-127f-4175-ab5c-e35f2d4529e2$","1","crowdtap.com/",1,c71
+r2560,3,"^cce93110-ae38-43fa-a83a-1c4d4425093f$","1","crowdtap.com/",1,c71
+r2561,3,"^8f462be0-67e7-48aa-942d-a2c44b6383c6$","1","crowdtap.com/",1,c71
+r2562,3,"^HP$","1","crowdtap.com/",1,c71
+r2563,3,"^233d900b-9e2e-4e3d-8563-19e094244661$","1","crowdtap.com/",1,c71
+r2564,3,"^8063f2be-3b5d-4f1c-b2a3-4a115bf4901d$","1","crowdtap.com/",1,c71
+r2565,3,"^2b8868eb-f876-41c1-a687-aa0bf855ea71$","1","crowdtap.com/",1,c71
+r2566,3,"^All-In Plan$","1","crowdtap.com/",1,c71
+r2567,0,"input\[_ngcontent-osa-c82\]","600","crowdtap.com/",1,c71
+r2568,3,"^Employed full-time$","1","crowdtap.com/",1,c71
+r2569,3,"^I have children at home$","1","crowdtap.com/",1,c71
+r2570,3,"^693a8010-3160-43cd-ae4d-082d739f147f$","1","crowdtap.com/",1,c71
+r2571,3,"^23eb15d7-6f29-43ad-867f-f065efe1a846$","1","crowdtap.com/",1,c71
+r2572,3,"^7f171d08-1dfd-4ecb-9677-f453dff91b1f$","1","crowdtap.com/",1,c71
+r2573,3,"^b548ea21-c1c1-4abd-bad8-25d6df0dd3dc$","1","crowdtap.com/",1,c71
+r2574,3,"^6ecdc54f-4232-470d-af1b-b3dd3986384c$","1","crowdtap.com/",1,c71
+r2575,3,"^b3ba631a-f362-4d72-96c7-3d4091cac9d6$","1","crowdtap.com/",1,c71
+r2576,3,"^9847a199-1ace-47bb-91b5-15ced3084270$","1","crowdtap.com/",1,c71
+r2577,3,"^b4a337e0-440b-4fb3-9c26-34874bd091cc$","1","crowdtap.com/",1,c71
 r2578,3,"^f5335108-cf7f-4825-950c-653575186525$","1","",1,c72
 r2579,3,"^1c2aacf6-babd-43c2-b1a5-0030990067b3$","1","",1,c72
 r2580,3,"^5c32eb18-cca7-4685-b070-2046bd285cdd$","1","",1,c72
@@ -3256,6 +3261,203 @@ r3208,3,"^Purchased a product$","1","",1,c83
 r3209,3,"^ed33a4ff-bce2-4dac-ac7e-244434dccb76$","1","",1,c83
 r3210,3,"^94b89a4a-4776-4566-9c75-9f4ff722718c$","1","",1,c83
 r3211,3,"^4385e170-2341-4cef-9e38-ac3f893e7b69$","1","",1,c83
+r3212,0,"input\[_ngcontent-akb-c82\]","600","crowdtap.com/",1,c71
+r3213,3,"^535d0e43-4e63-453a-b324-89d792bbea29$","1","",1,c84
+r3214,3,"^011feaec-cd3e-4688-a972-6fedce19bf9b$","1","",1,c84
+r3215,3,"^ddf5fb5d-ae62-4034-aec0-f4a43dcda153$","1","",1,c84
+r3216,3,"^00caac9b-a622-493a-b46b-146630c15663$","1","",1,c84
+r3217,3,"^a49d4222-f12f-4059-a821-76f4c744400b$","1","",1,c84
+r3218,3,"^425a4f16-1ef2-4c47-93df-2c59d23d4060$","1","",1,c84
+r3219,3,"^caca4896-7883-4eae-99a7-4fc7982850a8$","1","",1,c84
+r3220,3,"^841b4106-0942-400a-b007-c7625b61ffd9$","1","",1,c84
+r3221,3,"^8dae1421-8d35-46f8-80e6-2c1bbbafc5a1$","1","",1,c84
+r3222,3,"^a85745b9-aa07-48e5-a2eb-c1c8235fe1b9$","1","",1,c84
+r3223,3,"^Daily$","1","",1,c84
+r3224,3,"^Very likely$","1","",1,c84
+r3225,3,"^b5f716d3-0cab-46e0-a66a-d567a78e81b8$","1","",1,c84
+r3226,3,"^1fd2c099-35b7-4c38-b1d9-c567d7c8eac4$","1","",1,c84
+r3227,3,"^676e95aa-a660-4fc6-a98d-cdc7b93ee38d$","1","",1,c84
+r3228,3,"^4ae85b2d-a5dd-4495-aeb7-26265fc8f22c$","1","",1,c84
+r3229,3,"^6368b2aa-21c4-4d7c-acdf-5caa2d5185b5$","1","",1,c84
+r3230,3,"^70bb3c97-5a62-426b-88e6-0e03e396f0b8$","1","",1,c84
+r3231,3,"^504adc35-fa69-4cb8-9b3d-0012b14ba029$","1","",1,c84
+r3232,3,"^1a1fb619-cfe2-446d-abc0-19860cced55a$","1","",1,c84
+r3233,3,"^6088170f-0832-40da-b4b3-409579a5b7d4$","1","",1,c84
+r3234,3,"^9354d3b7-d11e-4889-a908-2a0a59a3da6f$","1","",1,c84
+r3235,3,"^2351f9b6-858c-4e72-b6a3-53798ec4b42e$","1","",1,c84
+r3236,3,"^4552a116-eccf-4a8a-9720-8667b1210daa$","1","",1,c84
+r3237,3,"^b34455a7-3860-431d-809a-9f76c8d4ff46$","1","",1,c84
+r3238,3,"^a628dc9a-f889-4508-9748-0a6d76d1c23c$","1","",1,c84
+r3239,3,"^Monster$","1","",1,c84
+r3240,3,"^7b707ce1-7539-4386-b907-07bc169cad91$","1","",1,c84
+r3241,3,"^f2e5bcdb-e70e-4f02-968f-30583d45fa2e$","1","",1,c84
+r3242,3,"^1bfa5838-64fe-492f-abeb-f56021fbcb74$","1","",1,c84
+r3243,3,"^78bc4718-f3b0-4412-9f8f-826da9b4e17f$","1","",1,c84
+r3244,3,"^Alani Nu$","1","",1,c84
+r3245,3,"^Yes, I understand and want to continue$","1","",1,c85
+r3246,3,"^7-9 times$","1","",1,c86
+r3247,3,"^9f3db686-4329-48c6-a086-dda4d36f2466$","1","",1,c86
+r3248,3,"^b5c4b894-ec9c-4790-a9b2-e713fc078feb$","1","",1,c86
+r3249,3,"^7b14c668-c326-453a-b0cd-1404980a5721$","1","",1,c86
+r3250,3,"^0012a8b6-b2c2-4caf-a4c8-66c229382ab2$","1","",1,c86
+r3251,3,"^aec6c5b8-66e4-4d8b-9a12-ed801c46292f$","1","",1,c86
+r3252,3,"^3da613d2-4349-4018-b0a2-e4bc8d7c3b03$","1","",1,c86
+r3253,3,"^d21efd7c-6b76-423d-94cd-cadf56f41d14$","1","",1,c86
+r3254,3,"^cce68ff5-22fa-45d4-bb76-b92d99b1345a$","1","",1,c86
+r3255,3,"^a50874a0-d038-44cf-815b-d35bc78ff4e3$","1","",1,c86
+r3256,3,"^I currently use these types of tools when shopping online and plan to continue.$","1","",1,c86
+r3257,3,"^41b4a935-3d2e-4155-a7e7-8009e056b81b$","1","",1,c86
+r3258,3,"^8aa139c5-b495-4389-b3ac-8c0e86aa1512$","1","",1,c86
+r3259,3,"^0ebaf751-e043-4c95-b25f-4eb32b89b3e4$","1","",1,c86
+r3260,3,"^6480e732-fce8-40a2-803a-ee0fe0897b35$","1","",1,c86
+r3261,3,"^2755812d-9f9f-4ed1-940b-7e8e149cb120$","1","",1,c86
+r3262,3,"^00687010-8ff0-4287-bcfd-0104bf438797$","1","",1,c86
+r3263,3,"^e4eab094-73d1-4131-9071-290dac021949$","1","",1,c86
+r3264,3,"^16db192c-0b68-4954-a8af-a60e56d7fdad$","1","",1,c86
+r3265,3,"^aa836cee-bfcf-460c-b3f2-eafd76d63140$","1","",1,c86
+r3266,3,"^bffa6a79-98af-41d0-80b1-98bfc596c19f$","1","",1,c86
+r3267,3,"^a5e4718b-18a8-4b20-9a98-48876c879b46$","1","",1,c86
+r3268,3,"^40e513a8-2291-4b79-ba02-86a811e50f1b$","1","",1,c86
+r3269,3,"^2fc0dd48-1039-4b6b-b89b-8b11145141b3$","1","",1,c86
+r3270,3,"^c77af93e-d91d-4358-9013-ed0ba768667b$","1","",1,c86
+r3271,3,"^f11b1652-cc08-4305-8c69-41c84a1a4980$","1","",1,c86
+r3272,3,"^2 - 5 times$","1","",1,c86
+r3273,3,"^Yes, I’d love to participate in a video interview$","1","",1,c86
+r3274,3,"^A smartphone \(e.g., iPhone, Android, Samsung Galaxy, etc.\)$","1","",1,c86
+r3275,3,"^A tablet \(e.g., iPad, Android Tablet, etc.\)$","1","",1,c86
+r3276,3,"^A desktop or laptop computer$","1","",1,c86
+r3277,3,"^Employed full-time$","1","",1,c87
+r3278,3,"^13 to 18 months ago$","1","",1,c87
+r3279,3,"^Primarily knowledge work as much of my workday involves sitting at a desk, working on a computer or with papers$","1","",1,c87
+r3280,3,"^6-10 years$","1","",1,c87
+r3281,3,"^Self-Serve Job Seeker Tools:$","1","",1,c87
+r3282,3,"^Career Coaching:$","1","",1,c87
+r3283,3,"^Upskilling Courses:$","1","",1,c87
+r3284,3,"^LinkedIn$","1","",1,c87
+r3285,3,"^Company Career Page$","1","",1,c87
+r3286,3,"^ZipRecruiter$","1","",1,c87
+r3287,3,"^\$75k-\$100K per year$","1","",1,c87
+r3288,3,"^Over-the-air broadcast through a digital antenna, which provides free access to ABC, CBS, NBC, Fox, and PBS$","1","",1,c88
+r3289,3,"^Live TV from an online provider such as Sling TV, Hulu \+ Live TV, or YouTube TV, which allows you to watch traditional TV channels from the internet$","1","",1,c88
+r3290,3,"^Hulu\+Live TV \(\$75\+/month, NOT the standalone streaming service\)$","1","",1,c88
+r3291,3,"^High-speed or broadband such as DSL, cable, or fiber-optic$","1","",1,c88
+r3292,3,"^Fios \(from Verizon\)$","1","",1,c88
+r3293,3,"^Oxygen$","1","",1,c88
+r3294,3,"^USA$","1","",1,c88
+r3295,3,"^CBS$","1","",1,c88
+r3296,3,"^FOX$","1","",1,c88
+r3297,3,"^ESPN$","1","",1,c88
+r3298,3,"^TNT$","1","",1,c88
+r3299,3,"^History$","1","",1,c88
+r3300,3,"^CNBC \(Business News\)$","1","",1,c88
+r3301,3,"^Telemundo$","1","",1,c88
+r3302,3,"^MTV$","1","",1,c88
+r3303,3,"^HGTV$","1","",1,c88
+r3304,3,"^Discovery$","1","",1,c88
+r3305,3,"^ID$","1","",1,c88
+r3306,3,"^Watch a movie/TV show through a subscription streaming service like Netflix, Disney\+, etc.$","1","",1,c88
+r3307,3,"^Rent a digital movie/TV show through a video on-demand provider like Amazon Prime Video, Fandango at Home \(Vudu\), etc.$","1","",1,c88
+r3308,3,"^Watch a movie/TV show through a free ad-supported streaming service like Pluto TV, Tubi, etc.$","1","",1,c88
+r3309,3,"^Buy a digital movie/TV show through a video on-demand provider like Amazon Prime Video, Fandango at Home \(Vudu\), etc.$","1","",1,c88
+r3310,3,"^Tablet$","1","",1,c88
+r3311,3,"^Cable/satellite/fiber-optic box$","1","",1,c88
+r3312,3,"^A computer \(laptop, netbook, desktop, etc.\)$","1","",1,c88
+r3313,3,"^Smartphone$","1","",1,c88
+r3314,3,"^A video game console such as PlayStation, Xbox, or Nintendo Switch$","1","",1,c88
+r3315,3,"^A streaming device like a Roku, Apple TV, Google Chromecast, or Amazon Fire TV$","1","",1,c88
+r3316,3,"^Smart TV$","1","",1,c88
+r3317,3,"^Amazon Fire TV$","1","",1,c88
+r3318,3,"^Google Chromecast$","1","",1,c88
+r3319,3,"^Apple TV$","1","",1,c88
+r3320,3,"^PlayStation$","1","",1,c88
+r3321,3,"^Xbox$","1","",1,c88
+r3322,3,"^Nintendo Switch$","1","",1,c88
+r3323,3,"^Web-based games on a laptop or desktop$","1","",1,c88
+r3324,3,"^Web-based games on a mobile/tablet device$","1","",1,c88
+r3325,3,"^Puzzle games$","1","",1,c88
+r3326,3,"^Mobile app games$","1","",1,c88
+r3327,3,"^Trivia games$","1","",1,c88
+r3328,3,"^Strategy games$","1","",1,c88
+r3329,3,"^Single player video games$","1","",1,c88
+r3330,3,"^Multiplayer video games$","1","",1,c88
+r3331,3,"^Narrative-based games$","1","",1,c88
+r3332,3,"^The Office, Abbott Elementary, Parks and Recreation, Brooklyn Nine-Nine, Ghosts$","1","",1,c88
+r3333,3,"^Loki, House of the Dragon, Arrow, The Last of Us, Riverdale, Star Trek: Picard$","1","",1,c88
+r3334,3,"^Grey’s Anatomy, This is Us, The Best Man: The Final Chapters, Friday Night Lights, How to Get Away With Murder$","1","",1,c88
+r3335,3,"^Law & Order: SVU, Chicago Fire/P.D., Good Doctor, S.W.A.T, Blue Bloods$","1","",1,c88
+r3336,3,"^The Crown, Downton Abbey, Bridgerton, The Gilded Age$","1","",1,c88
+r3337,3,"^My 600-lb Life, Hoarders, Botched, Sister Wives$","1","",1,c88
+r3338,3,"^John Wick, Top Gun: Maverick, Fast & Furious, Extraction, Bullet Train$","1","",1,c88
+r3339,3,"^The Wolf of Wall Street, Superbad, Impractical Jokers, Inglorious Basterds, Anchorman, Ted$","1","",1,c88
+r3340,3,"^Marry Me, Ticket to Paradise, Shotgun Wedding, Purple Hearts, Bros$","1","",1,c88
+r3341,3,"^Stranger Things, The Halloween movies, M3GAN, The Walking Dead, American Horror Story, A Quiet Place$","1","",1,c88
+r3342,3,"^Spider-Man: No Way Home, Black Panther, The Lord of the Rings Trilogy, the Harry Potter franchise, the Star Wars franchise$","1","",1,c88
+r3343,3,"^Frozen, Kung Fu Panda, The Minions movies, Shrek, Home Alone$","1","",1,c88
+r3344,3,"^Titanic, Coming to America, Forrest Gump, The Godfather, Jaws, Ghostbusters \(1984\)$","1","",1,c88
+r3345,3,"^Dirty Dancing, The Notebook, Bridesmaids, Pitch Perfect, The Devil Wears Prada, Mean Girls$","1","",1,c88
+r3346,3,"^The Olympics \(Summer or Winter\), PGA or LPGA \(golf\), Gymnastics, Tennis$","1","",1,c88
+r3347,3,"^FIFA World Cup Soccer \(men or women\), UEFA Champions League or Europa League, English Premier League, MLS$","1","",1,c88
+r3348,3,"^NFL, NBA, NCAA Football & Basketball, NHL, MLB, SportsCenter$","1","",1,c88
+r3349,3,"^I watch by myself$","1","",1,c88
+r3350,3,"^Spouse/partner$","1","",1,c88
+r3351,3,"^Child\(ren\)$","1","",1,c88
+r3352,3,"^Paramount\+$","1","",1,c88
+r3353,3,"^Hulu$","1","",1,c88
+r3354,3,"^ESPN\+$","1","",1,c88
+r3355,3,"^Disney\+$","1","",1,c88
+r3356,3,"^Netflix$","1","",1,c88
+r3357,3,"^Apple TV\+$","1","",1,c88
+r3358,3,"^Peacock$","1","",1,c88
+r3359,3,"^Max$","1","",1,c88
+r3360,3,"^1e070807-0c39-47e4-8bc2-6f23f4bb5844$","1","",1,c88
+r3361,3,"^e72ef5d0-a626-41b6-a25d-3ac63320e91c$","1","",1,c88
+r3362,3,"^565cf256-e7f2-4213-a904-8696006f8e04$","1","",1,c88
+r3363,3,"^13b123f7-2cf7-46c8-9ac7-0fe9351d1225$","1","",1,c88
+r3364,3,"^05146078-a8d4-4de5-9a09-2e6102d57738$","1","",1,c88
+r3365,3,"^537f94b4-24fc-403d-b5b0-b0d4dbed9541$","1","",1,c88
+r3366,3,"^6dc5ebc0-229e-46dc-9999-cca2c841f7c4$","1","",1,c88
+r3367,3,"^1945da4f-8517-4082-957d-b0af7c75b4bd$","1","",1,c88
+r3368,3,"^ecb96faa-b211-4e26-bd1c-b5ec17d74238$","1","",1,c88
+r3369,3,"^0983e4ac-98ca-4de3-8426-e309eb1b070f$","1","",1,c88
+r3370,3,"^980992fa-b4f4-426b-bf71-3669a5e8b0ab$","1","",1,c88
+r3371,3,"^26a45095-7516-430e-af6f-51045e613092$","1","",1,c88
+r3372,3,"^c2204e88-cf33-432c-a888-f5e3226927e1$","1","",1,c88
+r3373,3,"^9de61311-b49f-4449-abcb-31e405472d2c$","1","",1,c88
+r3374,3,"^c77b73ab-43b2-4055-a83d-83164e923121$","1","",1,c88
+r3375,3,"^ac2ea38c-5f5d-4d00-aa6c-d99b17b6532d$","1","",1,c88
+r3376,3,"^810e8501-c3f8-468d-b080-a3744b4bc959$","1","",1,c88
+r3377,3,"^f9c9cb4e-793b-45a9-8cee-4c72bfac2173$","1","",1,c88
+r3378,3,"^97a7c1d9-bf5c-4ef2-9ae4-05368fb2648c$","1","",1,c88
+r3379,3,"^3ced0bb6-6d9e-491a-a259-1202955a3e5f$","1","",1,c88
+r3380,3,"^709db772-35f3-46e7-a90b-2d7cb4acaed7$","1","",1,c88
+r3381,3,"^90172f98-a1d0-40df-a133-44ddef79bdce$","1","",1,c88
+r3382,3,"^bc4e7882-df2e-446e-9415-b2d05fb8146b$","1","",1,c88
+r3383,3,"^09a824b0-5262-43c5-825b-952997b4f10c$","1","",1,c88
+r3384,3,"^f1c0782c-03b5-49dd-a716-e57f3b0d81f1$","1","",1,c88
+r3385,3,"^a48aaf95-9b6c-4fac-acaa-6942dfed3f55$","1","",1,c88
+r3386,3,"^710c852e-2a47-435b-963a-6fed3bbabce1$","1","",1,c88
+r3387,3,"^50e2fd93-1c4e-40ed-b68f-3e3b12729adf$","1","",1,c88
+r3388,3,"^8fcdf2eb-e545-4635-8a75-e7c9b1520c53$","1","",1,c88
+r3389,3,"^4589974b-515b-47f3-b69d-4dd7e6d597f0$","1","",1,c88
+r3390,3,"^1c0a039d-f258-4221-9c4d-5aebcf573c48$","1","",1,c88
+r3391,3,"^c7f6f300-10af-43b8-86b4-79f93001d2fa$","1","",1,c88
+r3392,3,"^b333f906-481f-4ed5-9d3e-b2dc66413bf0$","1","",1,c88
+r3393,3,"^6f4e0369-3fbb-4d33-bbd7-76fd220f27b3$","1","",1,c88
+r3394,3,"^59cc1534-d0f2-40c8-87ba-d80e1dbd01e1$","1","",1,c88
+r3395,3,"^7dd07a8d-d704-4409-8ce0-84fc0de0a1eb$","1","",1,c88
+r3396,3,"^34350973-eed4-4c18-a00a-5f299713473b$","1","",1,c88
+r3397,3,"^cd65b7f0-6a44-445f-b957-c2b438a13c10$","1","",1,c88
+r3398,3,"^894af122-f181-459f-b2d9-ef9df7065063$","1","",1,c88
+r3399,3,"^3793f9ea-f4fc-4526-b465-a28906002abe$","1","",1,c88
+r3400,3,"^Through the Xfinity StreamSaver bundle or NOW StreamSaver bundle, I get Peacock with ads, Netflix, and Apple TV\+ \(\$15/month\)$","1","",1,c88
+r3401,3,"^Over 12 months ago$","1","",1,c88
+r3402,3,"^Daily$","1","",1,c88
+r3403,3,"^Today$","1","",1,c88
+r3404,3,"^Extremely satisfied$","1","",1,c88
+r3405,3,"^No$","1","",1,c88
+r3406,3,"^Very liberal$","1","",1,c88
+r3407,3,"^4fbbb8b8-eeb5-40a9-bde9-9ba69eea90e7$","1","",1,c88
+r3408,3,"^36279acf-1ec4-4132-95ce-f38e3e2a5ba8$","1","",1,c88
 ### AUTOFILL SETTINGS ###,,,,,,
 advanced,"[]",,,,,
 exceptions,"[]",,,,,
